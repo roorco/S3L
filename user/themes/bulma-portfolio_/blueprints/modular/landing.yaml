@@ -1,0 +1,14 @@
+title: Landing Image
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          fields:
+              header.banner_img:
+                type: filepicker
+                preview_images: true
+                label: Landing Image
+             

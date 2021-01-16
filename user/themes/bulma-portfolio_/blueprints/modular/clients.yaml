@@ -1,0 +1,30 @@
+title: Clients Slider
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          fields:
+              header.slider:
+                type: list
+                label: Create Slider by adding items 
+                fields:
+                  .feature_img:
+                    type: filepicker
+                    label: feature image
+                    preview_images: true
+                  .feature_title:
+                    type: text
+                    label: The header of the slider
+                  .feature_subtitle:
+                    type: text
+                    label: subtitle of slider
+                  .feature_link:
+                    type: text
+                    label: where does this slide link to
+                  .feature_link_text:
+                    type: text
+                    label: the button text
+             

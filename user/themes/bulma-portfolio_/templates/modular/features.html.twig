@@ -1,0 +1,23 @@
+<!-- Features list -->
+
+<section class="section features-list" id="features">
+    <div class="container">
+        {{ page.content }}
+    </div>
+    <div class="container pt">
+            <div class="columns is-mobile is-multiline feature-list-content">
+                {% for item in page.header.features %}
+                    <div class="column is-12-phone is-6-mobile is-4-tablet is-4-desktop feature-{{ loop.index }}">
+                        <div class="feature-list-icon has-text-centered">
+                            <i class="{{ item.icons }} fa-3x"></i>
+                        </div>
+                        <div class="feature-list-text">
+                            <h3>{{ item.title }}</h3>
+                            <p>{{ item.text }}</p>
+                            <a href="{{ item.link }}" class="read-more-btn">{{ item.link_text }} <i class="fa fa-chevron-circle-right"></i></a>
+                        </div>
+                    </div>
+                {% endfor %} 
+            </div>
+    </div>
+</section>

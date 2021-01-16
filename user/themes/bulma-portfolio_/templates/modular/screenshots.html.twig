@@ -1,0 +1,33 @@
+<!-- ScreenShots row qith max 4 images-->
+<section class="section screenshots-intro">
+  <div class="container">
+      <div class="screenshot-text">
+        {{ page.content }}
+      </div>
+    </div>
+
+</section>
+<section class="section screenshots" id="screenshots">
+  <div class="container">
+    {% for row in page.header.screenshots|batch(4) %}
+        <div class="columns">
+          {% for item in row %}
+            <div class="column nopadding screenshot-wrapper">
+              <figure class='screenshot-image'>
+                {{ page.media[item.image].lightbox(1024,768).cropResize(300,300).html('{{item.description}}')}}
+                <figcaption>
+                  <div class="caption-content">
+                    <a href="{{ page.media[item.large_image].url }}" class="single-image">
+                      <i class=" {{ item.icon }}"></i><br>
+                      <p>{{ item.description }}</p>
+                    </a>
+                  </div>
+                </figcaption>
+              </figure>
+            </div >
+          {% endfor %}
+        </div>
+
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,24 @@
+<!-- Video container -->
+<section class="section padding video" id="video">
+    <div class="container">
+        <div class="columns is-vcentered">
+            <div class="column is-5-desktop ">
+                {{ page.content }}
+            </div>
+            <div class="column is-7-desktop ">
+                {% if page.header.video_url %}                   
+                    <video 
+                        id="video-background" 
+                        playsinline 
+                        autoplay 
+                        controls 
+                        poster="{{ page.url }}/{{ page.header.video_thumb }}"
+                        class="video ">
+                        <source src="{{ page.url }}/{{ page.header.video_url }}" type="video/mp4">
+                    </video>
+                {% endif %}
+            </div>
+          
+        </div>
+    </div>
+</section>

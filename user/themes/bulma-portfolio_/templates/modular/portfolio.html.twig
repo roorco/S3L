@@ -1,0 +1,80 @@
+<!-- Portfolio -->
+<section class="section portfolio" id='portfolio'>
+	<div class="container has-text-centered">
+		<h2 class='title'>{{page.title}}</h2>
+    <div class='has-text-justified'>
+      {{page.content}}
+    </div>
+  </div>
+
+	<!-- Projects Gallery -->
+  <div class="container  gallery">
+    <div class="columns is-multiline">
+			{% for item in page.header.portfolio %}
+			<div class='column is-6 padding'>
+        	<figure class="image is-16by9">
+						<img src="	{{ 	page.media[item.project_img].url }}" alt="	{{ item.title }} image">
+					</figure>
+				<div class="caption">
+					<h3>{{ item.project_title }}</h3>
+					<p>{{ item.project_description | truncate(150) }}</p>
+          <div class="has-text-centered">
+            <button data-target="portfolioModal{{  loop.index }}" class="button is-info is-medium modal-button">Details</button>
+          </div>
+				</div>
+			</div>
+			{% endfor %}
+    </div>
+  </div>
+</section>
+
+{% for item in page.header.portfolio %}
+  <div class="portfolio-modal modal " id="portfolioModal{{  loop.index }}" role="dialog" aria-hidden="true">
+    <div class="modal-background"></div>
+    <div class="modal-card">
+      <div class="modal-card-head close-modal flex-end" aria-label='close' data-dismiss="modal">
+        <?xml version="1.0" encoding="utf-8"?>
+        <svg version="1.1" class="svg-close-btn" xmlns="http://www.w3.org/2000/svg" width="45px" height="45px" viewbox="0 0 512 512" >
+          <polygon class="st0" fill=' #010101' stroke='none' points="340.2,160 255.8,244.3 171.8,160.4 160,172.2 244,256 160,339.9 171.8,351.6 255.8,267.8 340.2,352
+      						352,340.3 267.6,256 352,171.8"/>
+        </svg>
+      </div>
+      <div class="modal-card-body">
+        <div class="image is-16by9" style="background: url('{{ page.media[item.project_img].url }}') center center no-repeat; background-size: cover;"></div>
+        <div class="project-description">
+          <h2 class='align-center'>{{ item.project_title }}</h2>
+          <p>{{ item.project_description }}</p>
+        </div>
+      </div>
+      <div class="modal-card-foot space-between">
+        <ul class="client-details align-left">
+          <li>Client's name and URL:
+            <strong>
+              <a class='client-link' href="{{ item.project_link }}" target='_blank' rel='noopener'>{{ item.project_client }}</a>
+            </strong>
+          </li>
+          <li>Launched Project:
+            <strong class='project-published-date'>
+              {{ item.project_date }}
+            </strong>
+          </li>
+          <li>Type of work:
+            {% for categ in item.project_work %}
+              <strong class='project-label'>
+                {{ categ }}
+                &nbsp;
+              </strong>
+            {% endfor %}
+          </li>
+        </ul>
+        <button type="button" class="button" data-dismiss="modal">
+          <?xml version="1.0" encoding="utf-8"?>
+        <svg version="1.1" class="svg-close-btn" xmlns="http://www.w3.org/2000/svg" width="25px" height="25px" viewbox="0 0 512 512" >
+          <polygon class="st0" fill=' #010101' stroke='none' points="340.2,160 255.8,244.3 171.8,160.4 160,172.2 244,256 160,339.9 171.8,351.6 255.8,267.8 340.2,352
+      						352,340.3 267.6,256 352,171.8"/>
+        </svg>
+          Close</button>
+      </div>
+    </div>
+  </div>
+{% endfor %}

@@ -1,0 +1,11 @@
+state: enabled
+email: borrellifrancesca1@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: Francesca
+title: null
+hashed_password: $2y$10$KpyR8gySZ5evewO8OiAmaO2Ufd9MDhuczVQGPs4PKy6G9CwzF47FG

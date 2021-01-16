@@ -1,0 +1,21 @@
+  <footer class="footer text-center">
+        <div class="container has-text-centered">
+         	<ul class="icons">
+            {% for icons in theme_config.footer.icon %}			
+              <li>
+                <a href="{{icons.link}}" class="footer-icon ">
+                  <i class=" {{icons.name}} fa-2x "> </i>
+                </a>
+              </li>
+            {% endfor %}
+          </ul>
+    	  	<p>{{ theme_config.footer.copyright }}</p>
+        </div>
+        
+        <div class="container has-text-centered pt">
+          <p>
+            This site was
+              <i class="fa fa-code"></i>
+            by <a href="//johnmica.me" target='_blank' rel='noopener noreferrer'>Jonh's Design</a> with the help of the awesome <a href="https://bulma.io/" target="_blank" rel='noopener noreferrer'>Bulma.io </a> and  <a href="https://wikiki.github.io/" target="_blank" rel='noopener noreferrer'>Bulma Components</a> .</p>
+        </div>
+      </footer>

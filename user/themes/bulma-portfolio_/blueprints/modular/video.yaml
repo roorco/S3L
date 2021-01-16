@@ -1,0 +1,18 @@
+title: Video
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          fields:
+              header.video_url:
+                type: filepicker
+                preview_images: false
+                label: Video 
+              header.video_thumb:
+                type: filepicker
+                preview_images: true
+                label: Video Background Image
+             

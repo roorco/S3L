@@ -1,0 +1,350 @@
+name: Hypertext
+version: 2.2.3
+description: "Hypertext is a zero JS/CSS theme to create simple, fast websites."
+icon: compress
+author:
+  name: Alejo Grigera Sutro
+  email: hypertext@artofthesmart.com
+  url: http://artofthesmart.com
+homepage: https://github.com/artofthesmart/hypertext
+demo: http://hypertext.artofthesmart.com
+keywords: theme, simple, compliance, fast, semantic, 1995
+bugs: https://github.com/artofthesmart/hypertext/issues
+license: MIT
+
+form:
+  validation: strict
+  fields:
+    tabs:
+      type: tabs
+      active: 0
+
+      fields:
+        structure: # STRUCTURAL CONTENT TAB
+          type: tab
+          title: Structure
+          fields:
+            columns:
+              type: columns
+              fields:
+                column1: # MENU BAR STRUCTURE
+                  type: column
+                  fields:
+                    navStructureTitle:
+                      type: section
+                      title: Navigation Structure
+                      underline: true
+                    structure.inline_navbar:
+                      type: toggle
+                      label: Use inline menu bar
+                      help: When enabled, the navigation list at the top of the page will be inlined instead of <ul>. Enable if using no theme.
+                      default: 0
+                      highlight: 0
+                      options:
+                        1: Enabled
+                        0: Disabled
+                      validate:
+                        type: bool
+                    structure.inline_pagination:
+                      type: toggle
+                      label: Use inline pagination
+                      help: When enabled, and you have installed the pagination plugin, pagination will be inlined instead of <ul>.
+                      default: 1
+                      highlight: 1
+                      options:
+                        1: Enabled
+                        0: Disabled
+                      validate:
+                        type: bool
+                    structure.use_decorators:
+                      type: toggle
+                      label: Use decorator text
+                      help: When enabled, spacers are added to inline navigation and brackets around category links. Just decorators.
+                      default: 1
+                      highlight: 1
+                      options:
+                        1: Enabled
+                        0: Disabled
+                      validate:
+                        type: bool
+                column2: # RENDER STRUCTURE
+                  type: column
+                  fields:
+                    renderStructureTitle:
+                      type: section
+                      title: HTML Structure & Options
+                      underline: true
+                    structure.html_mode:
+                      type: select
+                      classes: fancy
+                      label: HTML Mode
+                      help: HTML5 includes semantic markup like `article` tags to make built-in stylesheets work, while HTML3 is for extreme speed with little-to-no style.
+                      options:
+                        default: HTML 5 (Recommended)
+                        compatibility: HTML 3.2 (Minimal style)
+                    structure.use_favicon:
+                      type: toggle
+                      label: Use favicon
+                      help: When enabled, the site will use the favicon at `user/images/favicon.png`.
+                      default: 0
+                      highlight: 0
+                      options:
+                        1: Enabled
+                        0: Disabled
+                      validate:
+                        type: bool
+                    structure.show_date:
+                      type: toggle
+                      label: Show last updated dates
+                      help: When enabled, the date that the page was published will appear on individual pages. Collections/blog pages have this option also.
+                      default: 0
+                      highlight: 0
+                      options:
+                        1: Enabled
+                        0: Disabled
+                      validate:
+                        type: bool                    
+        style: # STYLE TAB
+          type: tab
+          title: Style & Formatting
+          fields:
+            columns:
+              type: columns
+              fields:
+                column1: # INCLUDES/EXCLUDES COLUMN
+                  type: column
+                  fields:
+                    includesTitle:
+                      type: section
+                      title: CSS/JS Settings
+                      underline: true
+                    description:
+                      type: display
+                      label: Description
+                      markdown: true
+                      content: These fields offer settings for whether to allow CSS or JS files. Some plugins include these kinds of files, so this is a great way to suppress them.  Remember that these are *global* settings, which you can override on a per-page basis.  For example, you could install the [syntax highlighting](https://github.com/getgrav/grav-plugin-highlight) plugin, disable CSS/JS here, and then enable it only on pages where you know you are showing code.
+                    style.allowCSS:
+                      type: toggle
+                      classes: fancy
+                      label: Allow Global CSS
+                      help: Determines what CSS is allowed to load. This can be overridden by an individual page.
+                      default: 1
+                      highlight: 0
+                      options:
+                        1: Enabled
+                        0: Disabled
+                      validate:
+                        type: bool
+                    style.allowJS:  
+                      type: toggle
+                      classes: fancy
+                      label: Allow Global JS
+                      help: Determines what JS is allowed to load. This can be overridden by an individual page.
+                      default: 1
+                      highlight: 0
+                      options:
+                        1: Enabled
+                        0: Disabled
+                      validate:
+                        type: bool                    
+                column2: # SELECT A STYLE COLUMN
+                  type: column
+                  fields:
+                    styleTitle:
+                      type: section
+                      title: Themes & Styles
+                      underline: true
+                    description:
+                      type: display
+                      label: Description
+                      markdown: true
+                      content: Themes here are open-source CSS files available on GitHub and are not my own work. Consider visiting their homepages, contributing, and supporting the authors.  Remember that you can test these styles quickly by adding the name or number to a style URL parameter, e.g. `YourSite.com/?style=water` or `YourSite.com/?style=4`.
+                    style.stylesheet:
+                      type: select
+                      classes: fancy
+                      label: Select a Style
+                      help: Selects from a pre-determined list of simple, fast CSS files.
+                      options:
+                        default:            "hypertext (No style)"
+                        air:                "#0 air"
+                        hypertext++:        "#1 hypertext++"
+                        latex:              "#2 latex"
+                        marx:               "#3 marx"
+                        modest:             "#4 modest"
+                        sakura:             "#5 sakura"
+                        sakura-dark:        "#6 sakura-dark"
+                        sakura-dark-solarized: "#7 sakura-dark-solar"
+                        sakura-earthly:     "#8 sakura-earthly"
+                        sakura-vader:       "#9 sakura-vader"
+                        stylize:            "#10 stylize"
+                        tacit:              "#11 tacit"
+                        tufte:              "#12 tufte"
+                        w3c-chocolate:      "#13 w3c-chocolate"
+                        w3c-midnight:       "#14 w3c-midnight"
+                        w3c-modernist:      "#15 w3c-modernist"
+                        w3c-oldstyle:       "#16 w3c-oldstyle"
+                        w3c-steely:         "#17 w3c-steely"
+                        w3c-swiss:          "#18 w3c-swiss"
+                        w3c-traditional:    "#19 w3c-traditional"
+                        w3c-ultramarine:    "#20 w3c-ultramarine"
+                        water-dark:         "#21 water-dark"
+                        water-light:        "#22 water-light"
+                        writ:               "#23 writ"
+                        yorha:              "#24 yorha"
+                    style.include_type:
+                      type: select
+                      classes: fancy
+                      label: Include Method
+                      help: Determines whether to prioritize single page loads (inline <style>, good for Hypertext or single-serving sites) or multiple page loads (<link>, good for CSS styles or multi-paged sites).
+                      options:
+                        default: Link (Good for enabling JS/CSS)
+                        inline: Inline (Faster single page loads)
+                    style.customCSS:
+                      type: textarea
+                      label: Custom CSS
+                      help: Add your custom CSS rules here.
+                      placeholder: "e.g. body { font-family: Courier }"
+                      size: large
+                    configurationTitle:
+                      type: section
+                      title: Other Configurations
+                      underline: true
+                    style.configuration:
+                      type: select
+                      size: medium
+                      classes: fancy
+                      label: General site layout
+                      help: Configures the general layout of the website horizontally.
+                      options:
+                        default: No style (align left)
+                        centered: Centered
+                    style.width:
+                      type: select
+                      size: medium
+                      classes: fancy
+                      label: Maximum website width
+                      help: Caps the website's maximum width for viewing on large screens.
+                      options:
+                        default: No style (full width)
+                        640: 640px (very small)
+                        768: 768px (small)
+                        960: 960px (medium)
+                        1024: 1024px (large)
+                        1280: 1280px (very large)
+                    style.image_cropping:
+                      type: toggle
+                      size: medium
+                      label: Auto-resize header images
+                      help: When enabled, this will cropzoom header images of pages to a default size. When *disabled* header images will render with whatever size you upload them at.
+                      default: 0
+                      highlight: 0
+                      options:
+                        1: 'Enabled'
+                        0: 'Disabled'
+                      validate:
+                        type: bool
+                    style.visually_impared_mode:
+                      type: toggle
+                      size: medium
+                      label: Hyperlegible text/lists
+                      help: When enabled, this will replace any stylesheet's default `body paragraph` typeface and use the Atkinson Hyperlegible Font for users with poorer eyesight. *WARNING* the font is ~100kb.
+                      default: 0
+                      highlight: 0
+                      options:
+                        1: 'Enabled'
+                        0: 'Disabled'
+                      validate:
+                        type: bool
+                    #This was a bad idea.
+                    #style.header_image_align:
+                    #  type: select
+                    #  size: medium
+                    #  classes: fancy
+                    #  label: Header Image Alignment
+                    #  help: Inlines header images to look better.
+                    #  options:
+                    #    default: No style (block)
+                    #    left: Pull left
+        menus: # HEADER, FOOTER, LINKS TAB
+          type: tab
+          title: Headers, Footers, & Links
+          fields:
+            description:
+              type: display
+              size: long
+              label: Description
+              markdown: true
+              content: "This tab lets you add more items to the navigation areas of your website."
+            menu.menuItems:
+              name: menuItems
+              type: list
+              style: vertical
+              size: long
+              label: Additional Menu Items
+              help: Add manual links to the header of your site.
+              fields:
+                .text:
+                  type: text
+                  label: Link Text
+                  placeholder: Use Google
+                .href:
+                  type: text
+                  label: Full URL
+                  placeholder: http://google.com
+                .isOffsite:
+                  type: toggle
+                  label: Add offsite CSS class
+                  help: When enabled, this will add a CSS class to this item indicating that it is offsite.
+                  default: 0
+                  options:
+                      1: 'Enabled'
+                      0: 'Disabled'
+                  validate:
+                      type: bool
+                .isNewWindow:
+                  type: toggle
+                  label: Open in new window
+                  help: When enabled, this will cause the link to open in a new window when clicked.
+                  default: 0
+                  options:
+                      1: 'Enabled'
+                      0: 'Disabled'
+                  validate:
+                      type: bool
+                .fieldset:
+                  type: fieldset
+                  title: Other Parameters
+                  help: Advanced settings for your new link.  This tries to stick to the HTML 3 spec.
+                  text: Advanced or optional features for this link.
+                  icon: cogs
+                  collapsed: true     # Initial state of fieldset (see collapsible option)
+                  collapsible: true    # Whether one can expand the fieldset or not 
+                  fields:
+                    .rel:
+                      type: text
+                      label: rel
+                      placeholder: The forward relationship, also known as the "link type".
+                    .name:
+                      type: text
+                      label: Name
+                      placeholder: This should be a string defining unique name for the scope of the current HTML document.
+                    .title:
+                      type: text
+                      label: Title
+                      placeholder: An advisory title for the linked resource.
+            partials.footer.custom_footer_type:
+              type: select
+              classes: fancy
+              label: Footer Type
+              help: The footer can be either markdown or HTML, whichever you need.
+              size: large
+              default: markdown
+              options:
+                markdown: Markdown
+                html: HTML  
+            partials.footer.custom_footer:
+              type: textarea
+              label: Footer Content
+              size: large
+              help: Add your optional, custom footer content here. If you need to remove the Hypertext attribution line, you can do it from the theme code in user/themes/hypertext/templates/partials/page/footer.html.twig.
+                        

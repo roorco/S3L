@@ -1,0 +1,12 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+<div class="section">
+    <div class="container padding has-text-grey-dark">
+    
+    {{ page.content }}
+    {% include 'forms/data.html.twig' %}
+    </div>
+
+</div>
+{% endblock %}

@@ -1,0 +1,58 @@
+{% set theme_config = attribute(config.themes, config.system.pages.theme) %}
+<!DOCTYPE html>
+<html lang="{{ grav.language.getActive ?: theme_config.default_lang }}" class="{% if theme_config.fixed.navigation %} has-navbar-fixed-top {% endif %} ">
+  <head>
+    {% block head %}
+      <meta charset="utf-8"/>
+      <title>
+        {% if header.title %}{{ header.title|e('html') }}
+          |
+        {% endif %}{{ site.title|e('html') }}</title>
+
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      {% include 'partials/metadata.html.twig' %}
+        {% set image_parts = pathinfo(grav.theme.config.theme.favicon) %}
+        <link rel="icon" type="image/png" href="{{ url('theme://assets') }}/{{ image_parts.basename }}"/>
+
+
+      <link rel="canonical" href="{{ page.url(true, true) }}"/>
+    
+      {% block stylesheets %}
+        {% do assets.addCss('theme://css/bulma.min.css', 100) %}
+        {% do assets.addCss('theme://css/bulma-carousel.min.css', 100) %}
+        {% do assets.addCss('theme://css/svg.css', 98) %}
+        {% do assets.addCss('theme://css-compiled/portfolio.css', 98) %}
+      {% endblock %}
+      {{ assets.css() }}
+
+    {% endblock head%}
+  </head>
+  <body id="top" class="body {{ page.header.body_classes }}">
+    <div class="content-wrapper">
+      {% include 'partials/header.html.twig' %}
+      {% block content %}{% endblock %}
+    </div>
+
+    {% block footer %}
+      {% include 'partials/footer.html.twig' %}
+    {% endblock %}
+
+    {% block javascripts %}
+    	{% do assets.addJs('theme://js/bulma-carousel.js', 100) %}
+    	{% do assets.addJs('https://use.fontawesome.com/releases/v5.0.0/js/all.js', 120) %}
+    	{% do assets.addJs('https://use.fontawesome.com/releases/v5.0.0/js/v4-shims.js', 120) %}
+    	{% do assets.addJs('theme://js/smooth-scroll.js', 120) %}
+    	{% do assets.addJs('theme://js/smooth-scroll-polifylls.js', 120) %}
+      {% do assets.addJs('theme://js/portfolio.js', 98) %}
+    {% endblock %}
+
+    {{ assets.js() }}
+
+    {% block bottom %}
+      {{ assets.js('bottom') }}
+
+    {% endblock %}
+
+  </body>
+</html>

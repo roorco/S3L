@@ -1,0 +1,11 @@
+state: enabled
+email: rossella.tricarico@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: Rossella
+title: null
+hashed_password: $2y$10$HKRQkBRhOMCCsVpYb2r2HOxVDEMkw8KZAXsgD9t8st2GPE5Hoob.W

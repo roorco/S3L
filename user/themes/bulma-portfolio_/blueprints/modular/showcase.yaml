@@ -1,0 +1,26 @@
+title: Showcase
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          fields:
+              header.showcase:
+                type: list
+                label: Showcase Carousel
+                fields:
+                  .carousel_item:
+                    type: filepicker
+                    label: Carousel image
+                    preview_images: true
+                  .carousel_title:
+                    type: text
+                    label: Carousel title
+                  .carousel_description:
+                    type: textarea
+                    label: Carousel Description
+                  .carousel_link:
+                    type: text
+                    label: Carousel Link

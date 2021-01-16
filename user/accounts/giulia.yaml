@@ -1,0 +1,11 @@
+state: enabled
+email: giulia.dant@gmail.com
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: Giulia
+title: null
+hashed_password: $2y$10$AoxSDnaboEoZmVbwN47be.64MBfnHe/iDok2tliQ86HMtRUmnI1GG

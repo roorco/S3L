@@ -1,0 +1,32 @@
+
+<!-- Hero -->
+<section class="hero  is-fullheight ">
+	<div class="hero-head">
+		{% include 'partials/header.html.twig' %}
+	</div>
+	<div class="hero-body">
+		<div class="container has-text-centered">
+			<div class="columns is-vcentered">
+				<div class="column is-6 ">
+						<h1 class="title is-2" >{{ page.title }}</h1>
+						<div class="has-text-centered">
+							{{ page.content }}
+							<a href="#portfolio" class="button is-medium is-info is-outlined">Get Started</a>
+						</div>
+				</div>
+				<div class="column is-5 ">
+					<figure class="image is-4by3">
+						<img src="	{{ page.media[header.media_order].url }}" alt="	{{ page.header.title }} image">
+					</figure>
+				</div>
+			</div>	
+		</div>
+	</div>
+	<div class="hero-foot">
+		<div class="container">
+			<div class="has-text-centered">
+				<a href="#contact" class="button is-medium is-info is-outlined">Contact</a>
+			</div>
+		</div>
+	</div>
+</section>

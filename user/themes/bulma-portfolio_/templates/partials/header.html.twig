@@ -1,0 +1,28 @@
+
+
+{% block header %}
+
+  <header class="header">
+      <nav class="navbar  {% if theme_config.fixed.navigation %} is-fixed-top {% endif %}" role='navigation' aria-label='main navigation'>   
+        <div class="navbar-brand">
+          <a class="navbar-item" href="{{ base_url == '' ? '/' : base_url }}">
+            {# changing a logo using mediapicker #}
+            {% set image_parts = pathinfo(grav.theme.config.theme.logo) %}
+            <object type='image/svg+xml' data="{{ url('theme://assets') }}/{{ image_parts.basename }}" alt="{{ site.title }} image" width="180"></object>
+          </a>
+          <button class="button navbar-burger" data-target="navMenu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+        <div class="navbar-menu" id="navMenu">
+          <div class="navbar-end">
+            {% include 'partials/navigation.html.twig' %}
+          </div>
+        </div>
+      </nav>
+
+  </header>
+
+{% endblock %}

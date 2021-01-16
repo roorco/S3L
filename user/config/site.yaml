@@ -1,0 +1,19 @@
+title: 'La Scuola del Terzo Luogo'
+default_lang: it
+author:
+  name: null
+  email: null
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'La Scuola del Terzo Luogo è...'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+redirects: null
+routes: null
+blog:
+  route: /blog

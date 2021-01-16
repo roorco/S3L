@@ -1,0 +1,14 @@
+title: Banner Image
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          fields:
+              header.bannerimg:
+                type: filepicker
+                preview_images: true
+                label: Banner Image
+             

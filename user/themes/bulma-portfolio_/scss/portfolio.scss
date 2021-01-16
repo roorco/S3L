@@ -1,0 +1,23 @@
+.help {
+    visibility: hidden;
+    opacity: 0;
+    transition: all .2s ease-in;
+}
+
+//to be added to the validation of the form - next itteration
+.help-shown {
+    visibility: visible;
+    opacity: 1;
+    transition: all .2s ease-out;
+}
+
+@media screen and (max-width: 576px) {
+    .column.is-12-phone {
+        width: 100%;
+    }
+}
+
+@import 'body';
+@import 'features';
+@import 'modal';
+@import 'tooltip';

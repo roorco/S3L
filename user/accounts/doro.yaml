@@ -1,0 +1,21 @@
+state: enabled
+email: ro.orco@gmail.com
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+fullname: Doro
+title: null
+hashed_password: $2y$10$miOcCOVhKgGNZUGn2PogfeqQCCW0Mw0LDGBvh1Je7k51g/xijJ1Xi
+password: null
+language: en
+twofa_enabled: false
+twofa_secret: VKOMQGVK6MFEBFELJM7JYEA2S3U4AU3I
+avatar:
+  user/accounts/avatars/5zexfkd0apZLNqU.jpg:
+    name: 5zexfkd0apZLNqU.jpg
+    type: image/jpeg
+    size: 276297
+    path: user/accounts/avatars/5zexfkd0apZLNqU.jpg
+info: null
+groups: null

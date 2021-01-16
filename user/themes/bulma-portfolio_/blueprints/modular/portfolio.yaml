@@ -1,0 +1,39 @@
+title: Portfolio
+'@extends': default
+
+form:
+  fields:
+    tabs:
+      fields:
+        content:
+          fields:
+              header.portfolio:
+                type: list
+                label: Portfolio
+                fields:
+                  .project_img:
+                    type: filepicker
+                    label: Project image
+                    preview_images: true
+                  .project_title:
+                    type: text
+                    label: Project title
+                  .project_description:
+                    type: textarea
+                    label: Project Description
+                  .project_link:
+                    type: text
+                    label: Project Link
+                  .project_date:
+                    type: date
+                    label: When project was launched
+                  .project_work:
+                    type: selectize
+                    class: fancy
+                    label: What type of work was done
+                    size: large
+                    validate:
+                      type: commalist
+                  .project_client:
+                    type: text
+                    label: Client's name
