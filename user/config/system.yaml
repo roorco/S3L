@@ -29,7 +29,7 @@ home:
   alias: /dal-terzopaesaggio-alterzoluogo
   hide_in_urls: true
 pages:
-  theme: hypertext
+  theme: bootstrap
   order:
     by: default
     dir: asc
