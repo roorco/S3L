@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,13 +60,13 @@
      inkscape:window-height="1024"
      id="namedview919"
      showgrid="false"
-     inkscape:zoom="0.2207089"
-     inkscape:cx="1172.9447"
-     inkscape:cy="945.89846"
+     inkscape:zoom="0.22561404"
+     inkscape:cx="320.74163"
+     inkscape:cy="1433.5531"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g929"
+     inkscape:current-layer="g2451"
      inkscape:document-rotation="0" />
   <g
      inkscape:groupmode="layer"
@@ -88,18 +88,18 @@
              xml:space="preserve"
              id="text1545"
              style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1547);fill:#000000;fill-opacity:1;stroke:none;"
-             transform="matrix(4.3890191,0,0,4.3890191,762.61554,412.59656)"><tspan
+             transform="matrix(4.3890191,0,0,4.3890191,784.61554,412.59656)"><tspan
                x="-251.29102"
-               y="-3.775674"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'">La Scuola </tspan></tspan></text>
+               y="-2.6567113"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">La Scuola </tspan></tspan></text>
           <text
              xml:space="preserve"
              id="text1545-6"
              style="font-style:normal;font-weight:normal;font-size:48px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1547-3);fill:#000000;fill-opacity:1;stroke:none;"
-             transform="matrix(4.3890191,0,0,4.3890191,689.0342,649.17239)"><tspan
+             transform="matrix(4.3890191,0,0,4.3890191,745.0342,649.17239)"><tspan
                x="-251.29102"
-               y="-3.775674"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'">del Terzo Luogo</tspan></tspan></text>
+               y="-2.6567113"><tspan
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">del Terzo Luogo</tspan></tspan></text>
         </g>
       </g>
     </g>
