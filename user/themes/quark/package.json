@@ -44,7 +44,6 @@
     "build": "gulp build"
   },
   "dependencies": {
-    "bulma": "^0.9.1",
     "gulp-sourcemaps": "^2.6.4"
   }
 }

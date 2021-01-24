@@ -29,7 +29,7 @@ home:
   alias: /casa
   hide_in_urls: true
 pages:
-  theme: quark
+  theme: s-3-l
   order:
     by: default
     dir: asc
@@ -121,7 +121,7 @@ twig:
   cache: true
   debug: true
   auto_reload: true
-  autoescape: false
+  autoescape: true
   undefined_functions: true
   undefined_filters: true
   umask_fix: false
@@ -186,3 +186,4 @@ accounts:
 strict_mode:
   yaml_compat: true
   twig_compat: true
+  blueprint_compat: true
