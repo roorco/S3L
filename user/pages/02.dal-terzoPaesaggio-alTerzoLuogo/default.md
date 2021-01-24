@@ -1,6 +1,5 @@
 ---
 title: 'Dal Terzo Paesaggio al Terzo Luogo'
-media_order: 000057300001.jpg
 published: true
 child_type: default
 ---

@@ -1,6 +1,5 @@
 ---
-title: 'Prima Pagina'
-media_order: logo.svg
+title: 'Casa'
 published: true
 child_type: default
 ---
