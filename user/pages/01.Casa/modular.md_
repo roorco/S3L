@@ -10,3 +10,4 @@ content:
     dir: asc
 ---
 ![](logoCasa.svg)
+[plugin:content-inject](dal-terzopaesaggio-alterzoluogo)

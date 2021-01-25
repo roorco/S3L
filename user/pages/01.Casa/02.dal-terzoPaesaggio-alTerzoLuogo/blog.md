@@ -1,6 +1,7 @@
 ---
 title: 'Dal Terzo Paesaggio al Terzo Luogo'
 published: true
+pagination: true
 child_type: default
 ---
 
