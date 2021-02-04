@@ -1,5 +1,6 @@
 ---
 title: Diventare  Giardino - Palermo
+show_sidebar: false
 ---
 Descrizione 
 ![]( Palermo_Diventare-Giardino_01.jpg)

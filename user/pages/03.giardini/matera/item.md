@@ -1,6 +1,6 @@
 ---
 title: Giardini Venerdì - Matera
-hero_image: Matera_Giardini-Venerdi_01.jpg
+show_sidebar: false
 ---
 Descrizione 
 ![](Matera_Giardini-Venerdi_02.jpg)
