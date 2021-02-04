@@ -4,7 +4,7 @@ access:
   admin:
     super: 'true'
     login: 'true'
-fullname: Doro
+fullname: Roberto
 title: null
 hashed_password: $2y$10$miOcCOVhKgGNZUGn2PogfeqQCCW0Mw0LDGBvh1Je7k51g/xijJ1Xi
 password: null
@@ -18,4 +18,3 @@ avatar:
     size: 276297
     path: user/accounts/avatars/5zexfkd0apZLNqU.jpg
 info: null
-groups: null

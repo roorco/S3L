@@ -2,17 +2,15 @@ state: enabled
 email: roorco@gmail.com
 fullname: Roberto
 title: Administrator
-access:
-  admin:
-    super: 'true'
-    login: 'true'
-  site:
-    login: 'true'
 hashed_password: $2y$10$OIqj0N6OZTMPb83P5jErKuNmKxVw.9BhrV67r7ukKv5iqZAFcwlgS
-password: null
 language: en
 twofa_enabled: false
 twofa_secret: QDI3TMAYV7EPUVI4RE2RDDSBMB7UNGJV
 avatar: {  }
-info: null
-groups: null
+content_editor: default
+access:
+  site:
+    login: true
+  admin:
+    login: true
+    super: true

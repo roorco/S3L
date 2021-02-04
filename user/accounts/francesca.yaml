@@ -1,11 +1,33 @@
 state: enabled
 email: borrellifrancesca1@gmail.com
 access:
+  site:
+    login: true
   admin:
     login: true
     super: true
-  site:
-    login: true
+    cache: false
+    configuration:
+      system: false
+      site: false
+      media: false
+      info: false
+      pages: false
+      users: false
+    pages: true
+    maintenance: false
+    statistics: false
+    plugins: false
+    themes: false
+    tools: false
+    users: false
+    flex-objects: false
+  admin-addon-user-manager:
+    users: false
+    groups: false
+    users_expert: false
 fullname: Francesca
 title: null
 hashed_password: $2y$10$KpyR8gySZ5evewO8OiAmaO2Ufd9MDhuczVQGPs4PKy6G9CwzF47FG
+groups:
+  - spontanee

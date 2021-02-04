@@ -2,7 +2,7 @@
 title: 'Incontri del Terzo Luogo'
 sitemap:
     changefreq: monthly
-hero_classes: 'text-light title-h1h2 '
+#hero_classes: 'text-light title-h1h2 '
 body_classes: header-transparent
 hero_image: road.jpg
 custom: 'new thing'

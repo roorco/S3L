@@ -8,7 +8,8 @@ streams:
          - user/themes/quark
 enabled: true
 production-mode: true
-grid-size: grid-lg
+grid-size: grid-md
+#grid-size: grid-xl
 header-fixed: true
 header-animated: false
 header-dark: false
