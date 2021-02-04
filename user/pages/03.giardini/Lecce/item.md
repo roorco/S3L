@@ -23,4 +23,4 @@ spontanea. Adesso, quindi, non sappiamo più che cosa potrà accadere.
 ![](Lecce_Knos-AsfaltoMonAmour01.jpg)
 ![](Lecce_Knos-AsfaltoMonAmour02.jpg)
 ![](Lecce_Knos-AsfaltoMonAmour03.jpg)
-[plugin:youtube](https://www.youtube.com/watch?v=pUOSH34Rabo&feature=youtu.be)
+[youtube color=white autoplay=1]https://www.youtube.com/watch?v=pUOSH34Rabo&feature=youtu.be[/youtube]
