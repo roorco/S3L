@@ -17,7 +17,7 @@ webhook_enabled: '1'
 webhook_secret: 186904b8d736dd641608e2f7d8e012da4f4cbe87de9063d1
 branch: main
 remote:
-  name: origin
+  name: origo
   branch: main
 git:
   author: gitsync
