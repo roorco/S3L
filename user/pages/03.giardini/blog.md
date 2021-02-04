@@ -23,7 +23,7 @@ feed:
     description: 'Gli incontri del Terzo Luogo'
     limit: 10
 pagination: true
-
 ---
+
 Descrizione pratica e progetti
 

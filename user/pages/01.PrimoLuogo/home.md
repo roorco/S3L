@@ -1,8 +1,9 @@
 ---
-title: Primo Luogo
+title: 'Primo Luogo'
 published: true
 child_type: default
 ---
+
 <svg version="1.1" viewBox="0 0 1541.9 2158.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <g transform="translate(334.97 -315.35)">
   <g>
