@@ -1,0 +1,45 @@
+form: flex-pages
+unique_id: 93798a1977857898e33a2d8cc83c7089
+url: 'https://scuoladelterzoluogo.it/admin/pages/napoli'
+user:
+  username: orco
+  email: roorco@gmail.com
+timestamps:
+  created: 1612467222
+  updated: 1612467222
+data:
+  header:
+    "\0*\0items":
+      title: napoli
+    "\0*\0nestedSeparator": .
+  content: TEST
+files: {  }
+object:
+  type: pages
+  key: napoli
+  storage_key: 05.napoli|default
+  timestamp: 1612467221
+  serialized:
+    __META:
+      key: napoli
+      storage_key: 05.napoli|default
+      template: default
+      storage_timestamp: 1612467221
+      markdown:
+        '': { default: 1612467221 }
+      checksum: 5f00ce6231a9a487dbb0af5bc230934d
+      exists: true
+      lang: ''
+    storage_key: 05.napoli|default
+    parent_key: ''
+    order: '05.'
+    folder: napoli
+    template: default
+    lang: ''
+    header:
+      title: napoli
+    root: false
+    name: default.md
+    slug: napoli
+    ordering: true
+    markdown: TEST
