@@ -10,4 +10,32 @@ body {
   background-color: floralwhite;
 }
 
+#header {
+  background-color: antiquewhite;
+}
+
+a.u-url {
+  color: brown !important;
+}
+
+a.visited {
+  color: beige !important;
+}
+
+#breadcrumbs span {
+  color: brown;
+}
+
+#breadcrumbs span:first-child {
+  color: black;
+}
+
+.dropmenu ul li a.active, .dropmenu ul li a:focus, .dropmenu ul li a:hover {
+  color: brown !important;
+}
+
+.card {
+  background-color: ghostwhite !important;
+}
+
 /*# sourceMappingURL=custom.css.map */
