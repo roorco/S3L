@@ -58,6 +58,9 @@ h5 {
 p {
   font-family: "Titillium Web", sans-serif;
   font-size: 0.9rem;
+  line-height: 1.7em;
+  margin: 0 4rem 1.2rem;
+  text-align: justify;
 }
 
 /*# sourceMappingURL=custom.css.map */
