@@ -1,5 +1,5 @@
 ---
-title: 'Radice'
+title: Radice
 published: true
 child_type: default
 ---
