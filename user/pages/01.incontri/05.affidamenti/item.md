@@ -1,18 +1,17 @@
 ---
 title: Affidamenti
-date: 17:34 07/04/2017 
-
-hero_classes: text-light title-h1h2 overlay-dark-gradient hero-large parallax
+date: '17:34 07/04/2017'
+hero_classes: 'text-light title-h1h2 overlay-dark-gradient hero-large parallax'
 hero_image: unsplash-sidney-perry.jpg
 show_sidebar: true
-
 taxonomy:
-    category: blog
-    tag: []
+    category:
+        - blog
+feed:
+    limit: 10
 ---
 
-## Affidamenti
-3° luogo - 19/22 Aprile 2018
+Dal 19 al 22 Aprile 2018
 
 
 Affidabile è chi si affida.

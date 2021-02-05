@@ -1,0 +1,96 @@
+form: flex-pages
+unique_id: 329aff67955e2f95316cb74170730cf0
+url: 'https://scuoladelterzoluogo.it/admin/pages/incontri/dal-terzo-paesaggio-al-terzo-luogo'
+user:
+  username: ross
+  email: rossella.tricarico@gmail.com
+timestamps:
+  created: 1612534508
+  updated: 1612534761
+data:
+  header:
+    title: 'Dal terzo paesaggio al terzo luogo #2'
+    media_order: secondo.jpg
+    body_classes: null
+    order_by: null
+    order_manual: null
+    published: null
+    date: null
+    publish_date: null
+    unpublish_date: null
+    metadata: null
+    taxonomy: null
+    external_links:
+      process: null
+      title: null
+      no_follow: null
+      target: null
+      mode: null
+    dateformat: null
+    menu: null
+    slug: null
+    redirect: null
+    process: null
+    twig_first: null
+    never_cache_twig: null
+    child_type: null
+    routable: null
+    cache_enable: null
+    visible: null
+    debugger: null
+    template: null
+    append_url_extension: null
+    routes:
+      default: null
+      canonical: null
+      aliases: null
+    admin:
+      children_display_order: null
+    login:
+      visibility_requires_access: null
+    access: null
+    permissions:
+      inherit: null
+      authors: null
+      groups: null
+  content: "Dal 24 al 27 aprile 2013\r\n\r\n\r\nDa mercoledì 24 a sabato 27 aprile le Manifatture Knos danno seguito al percorso iniziato lo scorso novembre con il secondo appuntamento del workshop con Gilles Clément Dal terzo paesaggio al terzo luogo.\r\nLa partecipazione e l'entusiasmo di tutti gli iscritti e la loro determinazione a portare avanti i progetti messi in cantiere in quella prima occasione hanno reso possibile la prosecuzione di questa iniziativa che ospita come guida e ispiratore Gilles Clément, autore di Manifesto del Terzo paesaggio e Il giardino in movimento.\r\n\r\n\r\nSi tratta di continuare a lavorare sui luoghi attraverso lo sguardo del terzo paesaggio e del terzo luogo e di pensare a come applicare una politica fondata sulle potenzialità dell'indecisione.\r\n\r\nIl workshop mira a continuare e dare concretezza al lavoro iniziato a novembre 2012. Anche questa volta la partecipazione è gratuita e aperta a tutti.\r\nSi continuerà a lavorare in tre gruppi, ognuno dei quali focalizzerà la propria attenzione su uno dei tre luoghi scelti per sperimentare l'idea di terzo paesaggio e terzo luogo:\r\n\r\n \r\n\r\nLe cave di Borgo San Nicola: un luogo abbandonato e rinaturalizzato, ma con strani e nuovi usi. Un luogo che potrebbe essere accessibile? In che modo e per quale motivo?\r\nCoordinamento e guida: Luisella Guerrieri\r\n\r\n \r\n\r\nGli spazi esterni delle Manifatture Knos: una spianata di catrame grande quanto uno stadio. Potrebbe diventare un parco urbano, autogestito liberamente dai cittadini, un luogo di libero incontro ed espressione? In che modo potrebbe avvenire e che forma potrebbe prendere?\r\nCoordinamento e guida: Roberto Covolo e Michele Loiacono\r\n\r\n \r\n\r\nLa marina di San cataldo: un luogo confuso e da anni senza prospettive. Un luogo su cui non c'è mai stata una programmazione e che oggi rischia l'iper-programmazione. È necessario passare dalla confusione alla totale pianificazione, oppure è possibile decidere di preservare spazi di indecisione? Quali e perchè? Che cosa potrebbe avvenire?\r\nCoordinamento e guida: Laboratorio Urbano Aperto (LUA)\r\n\r\n \r\n\r\nNei mesi trascorsi da novembre ad oggi si è avviato un dialogo costruttivo con il Comune di Lecce e la Regione Puglia, per fare in modo che i progetti sviluppati durante i due workshop siano realizzati. Affinché ciò avvenga, con i coordinatori dei gruppi di lavoro si sta cercando di comprendere che strade seguire, invitando Gilles Clément a rimanere una figura di riferimento anche nel dialogo con Comune e Regione.\r\n\r\n\r\n"
+  folder: 'seconda edizione'
+  route: /incontri
+  name: default
+  ordering: true
+  order: null
+  blueprint: null
+  lang: null
+  xss_check: null
+  value: null
+  _post_entries_save: null
+files: {  }
+object:
+  type: pages
+  key: incontri/dal-terzo-paesaggio-al-terzo-luogo
+  storage_key: 02.incontri/07.dal-terzo-paesaggio-al-terzo-luogo
+  timestamp: 1612534494
+  serialized:
+    __META:
+      key: incontri/dal-terzo-paesaggio-al-terzo-luogo
+      storage_key: 02.incontri/07.dal-terzo-paesaggio-al-terzo-luogo
+      template: default
+      storage_timestamp: 1612534494
+      markdown:
+        '': { default: 1612534494 }
+      children:
+        dal-terzo-paesaggio-al-terzo-luogo-3: false
+      checksum: f9f9ad8337c93919771b8b069dd993b5
+    storage_key: 02.incontri/07.dal-terzo-paesaggio-al-terzo-luogo
+    parent_key: 02.incontri
+    order: '07.'
+    folder: dal-terzo-paesaggio-al-terzo-luogo
+    template: default
+    lang: ''
+    header:
+      title: 'Dal terzo paesaggio al terzo luogo #2'
+      media_order: secondo.jpg
+    root: false
+    markdown: "Dal 24 al 27 aprile 2013\n\n\nDa mercoledì 24 a sabato 27 aprile le Manifatture Knos danno seguito al percorso iniziato lo scorso novembre con il secondo appuntamento del workshop con Gilles Clément Dal terzo paesaggio al terzo luogo.\nLa partecipazione e l'entusiasmo di tutti gli iscritti e la loro determinazione a portare avanti i progetti messi in cantiere in quella prima occasione hanno reso possibile la prosecuzione di questa iniziativa che ospita come guida e ispiratore Gilles Clément, autore di Manifesto del Terzo paesaggio e Il giardino in movimento.\n\n\nSi tratta di continuare a lavorare sui luoghi attraverso lo sguardo del terzo paesaggio e del terzo luogo e di pensare a come applicare una politica fondata sulle potenzialità dell'indecisione.\n\nIl workshop mira a continuare e dare concretezza al lavoro iniziato a novembre 2012. Anche questa volta la partecipazione è gratuita e aperta a tutti.\nSi continuerà a lavorare in tre gruppi, ognuno dei quali focalizzerà la propria attenzione su uno dei tre luoghi scelti per sperimentare l'idea di terzo paesaggio e terzo luogo:\n\n \n\nLe cave di Borgo San Nicola: un luogo abbandonato e rinaturalizzato, ma con strani e nuovi usi. Un luogo che potrebbe essere accessibile? In che modo e per quale motivo?\nCoordinamento e guida: Luisella Guerrieri\n\n \n\nGli spazi esterni delle Manifatture Knos: una spianata di catrame grande quanto uno stadio. Potrebbe diventare un parco urbano, autogestito liberamente dai cittadini, un luogo di libero incontro ed espressione? In che modo potrebbe avvenire e che forma potrebbe prendere?\nCoordinamento e guida: Roberto Covolo e Michele Loiacono\n\n \n\nLa marina di San cataldo: un luogo confuso e da anni senza prospettive. Un luogo su cui non c'è mai stata una programmazione e che oggi rischia l'iper-programmazione. È necessario passare dalla confusione alla totale pianificazione, oppure è possibile decidere di preservare spazi di indecisione? Quali e perchè? Che cosa potrebbe avvenire?\nCoordinamento e guida: Laboratorio Urbano Aperto (LUA)\n\n \n\nNei mesi trascorsi da novembre ad oggi si è avviato un dialogo costruttivo con il Comune di Lecce e la Regione Puglia, per fare in modo che i progetti sviluppati durante i due workshop siano realizzati. Affinché ciò avvenga, con i coordinatori dei gruppi di lavoro si sta cercando di comprendere che strade seguire, invitando Gilles Clément a rimanere una figura di riferimento anche nel dialogo con Comune e Regione.\n\n\n"
+    slug: dal-terzo-paesaggio-al-terzo-luogo
+    name: default.md

@@ -1,28 +1,28 @@
-enabled: true
+enabled: false
 folders:
   - pages
 sync:
-  on_save: false
-  on_delete: false
-  on_media: false
+  on_save: true
+  on_delete: true
+  on_media: true
   cron_enable: false
   cron_at: '0 2 * * *'
 local_repository: null
 repository: 'https://github.com/roorco/S3L.git'
-no_user: '0'
+no_user: '1'
 user: roorco
 password: gitsync-def5020060ef99105a0233c18c94d2422496e44ac17c9db5a2b4652ec3876fbefd72d65f3ae64d3efeebae80d339924fc1a7ab4b8c76339acfd930b80de013e5b31252685837e6beb31ed38cc67a05d3111420c046c0f40fee5a326960fdf953bbf1
 webhook: /_git-sync
-webhook_enabled: '1'
+webhook_enabled: '0'
 webhook_secret: 186904b8d736dd641608e2f7d8e012da4f4cbe87de9063d1
 branch: main
 remote:
-  name: origo
+  name: origin
   branch: main
 git:
-  author: gitsync
+  author: gituser
   message: '(Grav GitSync) Automatic Commit'
   name: GitSync
-  email: git-sync@trilby.media
+  email: roorco@gmail.com
   bin: git
 logging: false

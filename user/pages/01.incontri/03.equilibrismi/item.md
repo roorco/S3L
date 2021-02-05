@@ -1,148 +1,21 @@
 ---
 title: Equilibrismi
 published: true
+feed:
+    limit: 10
+media_order: equilibrismi.jpg
 ---
 
-Giovedì 30 novembre
+Dal 30 novembre al 3 dicembre 2017
 
-Aperitivo d’accoglienza
+E se tutto si giocasse sul filo di un rasoio?
+Se tirare la corda fosse l’occasione per una nuova funambolica prospettiva, i due pesi trovassero finalmente le loro due misure e le norme non obbligassero a essere normali?
 
+Conciliare interessi contrapposti non implica necessariamente moderazione e compromesso. Ogni volta è questione di bilanciamento. Non per livellare, ma per tenere conto delle differenze, salvaguardandole. Come quando si prova a ripensare insieme cura e abbandono, vicinato e rappresentazione, spontaneità e regole, amicizia e scarsità. Come quando si allargano le braccia per trovare l’equilibrio.
 
-Venerdì 1 dicembre
+Il programma sarà arricchito dall'inaugurazione di tre mostre: "Cinque anni di Terzo Luogo" e "Arte involontaria" e "Gli imprevedibili" di Gilles Clément.
 
-Ore 9.00
-Fabbricanti di armonie
-con Simone Franco 
-
-Ore 10.00 
-Movimento e quiete in economia: come si raggiunge l'equilibrio? 
-con Massimo Amato (Università Bocconi)
-
-Ore 11.00 
-Dal Festival Bellastock alla cucina in festa di Discosoupe 
-con Simon Jacquemin del collettivo Bellastock
-
-
-11.30
-Tavoli di lavoro
-Cucina aperta, con Naked e Bellastock
-Equilibri di vicinato, con Gilles Clément, Rosario Gatto e William Owino
-Strutture da bilico, con Mariangela Bruno e Public Works
-
-Ore 13.00
-Pranzo
-
-Ore 15.30
-Architetture parassite 
-con Gilles Clément e gli studenti di Architettura dell’Università Federico II di Napoli
-
-Ore 16.30
-Tavoli di lavoro
-
-Ore 19.00
-Inaugurazione mostre
-
-Cinque anni di Terzo Luogo
-Mostra a cura di Maurizio Buttazzo
-Presentazione del ‘Raccolto’ a cura di Rossella Tricarico
-
-Arte involontaria
-Fotografie di Gilles Clément
-
-Gli Imprevedibili
-Disegni di Gilles Clément
-
-
-Ore 20.00 
-Cena
-
-Ore 21.00
-La danza delle api 
-a cura di Roberto Dell’Orco
-Krill Dj-set, con Mino Degli Atti e Mimmo Pesare
-
-A seguire Friday Session con Public Works
-
-
-Sabato 2 dicembre
-
-Ore 9.00
-Equilibrio Zen
-con Sabino Tamborra della Scuola dell’Equilibrio Knos
-
-
-Ore 10.00
-Sul filo della legge
-con Patrick Bouchain
-
-Ore 12.00
-Dai ‘Poteri dell’Indecisione’ a ‘Lecce è il suo mare’
-con Rita Miglietta (Ass. all’Urbanistica di Lecce)
-
-Ore 13.00
-Pranzo
-
-Ore 15.00 (partenza dal Knos ore 14.30)
-Pomeriggio all’ex Ospedale Galateo 
-con Patrick Bouchain, Loredana Capone (Ass. aLL’Industria turistica e culturale, Gestione e valorizzazione dei beni culturali della Regione Puglia) e Rita Miglietta (Ass. all’Urbanistica del Comune di Lecce)
-
-Ore 20.00
-Cena
-
-Ore 21.00
-Il pianeta azzurro, di Franco Piavoli - Il Cinema del Terzo Luogo
-con Cecilia Ermini e Franco Piavoli
-
-Domenica 3 dicembre
-
-Ore 9.00
-Equilibrio Yoga 
-con Barbara Mangiacavalli della Scuola dell’Equilibrio Knos
-
-Ore 10.00
-Tavoli di lavoro
-
-Ore 12.00
-Dalla Civic University all’Ecole Foraine all’Ecole du Risque 
-con Public Works, Patrick Bouchain ed Eleftérios Kechagioglou
-
-Ore 13.30 
-Pranzo
-
-Ore 15.00
-Tavoli di lavoro
-
-17.30 
-Dallo Spaesamento all’Equilibrio
-con Michelangelo Frammartino
-
-20.00
-Cena
-
-21.00
-Lungo il fiume, di Ermanno Olmi - Il Cinema del Terzo Luogo
-con Luigi Abiusi e Michelangelo Frammartino
-
-Lunedì 4 dicembre
-
-Conclusioni
-Colazione di saluti
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Dal 30 Novembre al 4 Dicembre vi aspettiamo alle Manifatture Knos per trascorrere con noi qualche giorno all'insegna del 'funambolismo'!
 
 TAVOLI DI LAVORO
 
