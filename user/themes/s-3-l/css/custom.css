@@ -8,6 +8,7 @@
 
 body {
   background-color: floralwhite;
+  font-size: 0.9rem;
 }
 
 #header {
@@ -22,12 +23,12 @@ a.visited {
   color: beige !important;
 }
 
-#breadcrumbs span {
-  color: brown;
+#breadcrumbs span:first-child {
+  color: gray;
 }
 
-#breadcrumbs span:first-child {
-  color: black;
+#breadcrumbs span, #breadcrumbs a {
+  padding: 0;
 }
 
 .dropmenu ul li a.active, .dropmenu ul li a:focus, .dropmenu ul li a:hover {
@@ -36,6 +37,27 @@ a.visited {
 
 .card .card-header, .card .card-body, .card .card-image {
   background-color: ghostwhite !important;
+}
+
+#header a, span, h5 {
+  font-family: "Advent Pro", sans-serif;
+}
+
+#header a {
+  font-size: 0.99rem;
+}
+
+span {
+  font-size: 0.96rem;
+}
+
+h5 {
+  font-size: 1.2rem;
+}
+
+p {
+  font-family: "Titillium Web", sans-serif;
+  font-size: 0.9rem;
 }
 
 /*# sourceMappingURL=custom.css.map */
