@@ -34,7 +34,7 @@ a.visited {
   color: brown !important;
 }
 
-.card {
+.card .card-header, .card .card-body, .card .card-image {
   background-color: ghostwhite !important;
 }
 

@@ -7,4 +7,4 @@ a.visited {color:beige !important }
 #breadcrumbs span { color: brown}
 #breadcrumbs span:first-child { color: black}
 .dropmenu ul li a.active, .dropmenu ul li a:focus, .dropmenu ul li a:hover {color: brown !important}
-.card {background-color:ghostwhite !important}
+.card .card{ &-header, &-body, &-image {background-color:ghostwhite !important}}
