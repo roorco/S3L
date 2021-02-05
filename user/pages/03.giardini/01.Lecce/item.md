@@ -1,7 +1,8 @@
 ---
-title: Asfalto Mon Amour - Lecce
+title: 'Asfalto Mon Amour - Lecce'
 show_sidebar: false
 ---
+
 Cosa può nascere da un deserto di asfalto?
 È possibile trasformare un luogo abbandonato totalmente deciso dall’uomo in un ter-
 reno sperimentale per la condivisione e la trasformazione diretta da parte dei cittadini?

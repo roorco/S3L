@@ -5,8 +5,6 @@ media_order: secondo.jpg
 
 Dal 9 al 12 aprile 2014
 
-Il programma del 4° workshop "Dal terzo paesaggio al terzo luogo", con Gilles Clément e i Coloco, è pronto.
-
 Ogni giorno, dal 9 al 12 Aprile presso le Manifatture Knos, a partire dalle 10:00 fino a sera, si alterneranno attività laboratoriali, azioni sul campo, incontri pubblici, momenti di riflessione e di convivialità.
 
 
@@ -27,11 +25,6 @@ Tanti i temi su cui lavorare e gli ospiti di questa nuova edizione. Parleremo di
 Gilles Clément sarà presente e guiderà tutte le fasi del workshop con la collaborazione dei Coloco.
 
  
-
-
-
-PRIMA LA PRATICA
-
  
 
 ASFALTO MON AMOUR!
@@ -50,15 +43,6 @@ I momenti conviviali e festosi, i pasti e l'ospitalità (pensati per tutti i gru
 
 Durante il workshop, sarà con noi anche Leonardo Delogu, attore e danzatore che lavora su come integrare la dimensione del corpo con quella del Terzo Paesaggio. Leonardo terrà il workshop "Progettare col corpo: consapevolezza, coabitazione, rito". Un modo originale per rapportarsi allo spazio e ai luoghi.
 
-
-Fate un giro negli spazi esterni del Knos:
-
-https://www.google.it/maps/place/Manifatture+Knos/@40.365225,18.180387,3a,75y,114.92h,90t/data=!3m4!1e1!3m2!1sfcHwrabupAz1t3CosMg3Cg!2e0!4m2!3m1!1s0x13442ef2f0313e09:0xa3ff39efdf576480
-
- 
-
-(Presto il programma dettagliato)
-
  
 
 CAVE O NON CAVE, UN PARCO SPERIMENTALE
@@ -72,15 +56,6 @@ Gilles Clément condurrà il workshop pratico sul terreno!
 
  
 
-Fate un giro a Borgo San Nicola:
-
-https://www.google.com/maps/search/torre+di+belloluogo,+lecce/@40.3749231,18.1601754,1616m/data=!3m1!1e3
-
- 
-
-(Presto il programma dettagliato)
-
- 
 
 DA SAN CATALDO A FRIGOLE!
 
@@ -92,17 +67,11 @@ Il lavoro sulle marine leccesi - coordinato dal LUA - questa volta allarga il su
 
 Il progetto è sostenuto dal Comune di Lecce, Assessorato Pianificazione del Territorio, Urbanistica, Settore Pianificazione e sviluppo del Territorio, e Assessorato Innovazione Tecnologica, Politiche Comunitarie, Politiche Giovanili, Politiche del Lavoro, Formazione Professionale, Settore Programmazione strategica e comunitaria. Finanziato nell'ambito del Programma Operativo FESR - Fondo Europeo per lo Sviluppo Regionale PUGLIA 2007 - 2013, Asse VIII - Linea di intervento 8.1 - Azione 8.1.2 - Sub-Azione 8.1.2 c: "Realizzazione di processi partecipativi via web".
 
- 
-
 Tra Lecce e il mare c'è di mezzo il fare...
-
- 
 
 Mercoledì 9 aprile, ore 18-20 - Piazza Sant'Oronzo o Porta Rudiae
 
 Laboratorio del Piano di Rigenerazione delle Marine di Lecce. Iniziativa di coinvolgimento degli abitanti/fruitori delle marine leccesi con l'intento di individuarne i temi emergenti e presentazione e uso di una web app ideata per la promozione, diffusione e gestione del processo all'interno delle comunità locali.
-
- 
 
 Giovedì 10 aprile, ore 19.30 - Piazza del Borgo di Frigole
 
@@ -110,21 +79,9 @@ Laboratorio del Piano di Rigenerazione delle Marine di Lecce. Cena in piazza fin
 
  
 
-Fate un giro a Frigole:
-
-https://www.google.ch/maps/@40.425344,18.240981,3a,75y,343.24h,87.2t/data=!3m4!1e1!3m2!1s9VHhmwJ30TxUvJtzYrkTcw!2e0
-
- 
-
-(Presto il programma dettagliato)
-
- 
-
  
 
 POI LA TEORIA
-
- 
 
 Mercoledì 9 aprile ore 19.00
 
@@ -139,8 +96,6 @@ Michele Loiacono di Labuat Taranto, coordinerà un incontro sulla sperimentazion
 Giovedì 10 aprile ore 18.00
 
 INDECISIONE, AVVERSITÀ, COABITAZIONE
-
- 
 
 Incontreremo Leonardo Delogu e Silvia Bottiroli, direttrice di Sant'Arcangelo dei Teatri, festival internazionale di teatro in piazza, per analizzare insieme a Gilles quali sono i Terzi Paesaggi e i Terzi Luoghi teatrali, nella prospettiva di creare una sezione dedicata al teatro di quella scuola del terzo paesaggio che stiamo cercando di costruire.
 
