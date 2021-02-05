@@ -3,11 +3,10 @@ title: 'Incontri del Terzo Luogo'
 sitemap:
     changefreq: monthly
 #hero_classes: 'text-light title-h1h2 '
-body_classes: header-transparent
-hero_image: road.jpg
+body_classes: 'header-light header-transparent'
 custom: 'new thing'
 blog_url: /blog
-show_sidebar: true
+show_sidebar: false
 show_breadcrumbs: true
 show_pagination: true
 content:
