@@ -63,4 +63,16 @@ p {
   text-align: justify;
 }
 
+div#toggle.button_container {
+  color: black;
+}
+
+.mobile-menu .button-container {
+  color: black;
+}
+
+.overlay-menu {
+  background-color: ghostwhite;
+}
+
 /*# sourceMappingURL=custom.css.map */

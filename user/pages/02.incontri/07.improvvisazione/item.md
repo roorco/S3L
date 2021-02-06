@@ -1,10 +1,11 @@
 ---
-title: 'Scuola dell''Indecisione'
+title: 'Scuola dell'Indecisione'
 media_order: 'museotraglialberi.pdf,banner550x250.jpg'
 published: true
 feed:
     limit: 10
 ---
+# Scuola dell'Indecisione'
 
 Dal 23 al 28 novembre 2015
 

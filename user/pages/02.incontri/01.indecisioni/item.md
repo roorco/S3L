@@ -2,12 +2,11 @@
 title: Indecisioni
 media_order: indecisioni.jpg
 ---
-
+# Indecisioni
 Dal 24 novembre al 3 dicembre 2012
 
 
 Si possono fare scelte così decisive da lasciare spazio all’indecisione?
-
 
 Il management è vero management quando è in grado di scomparire. Il che non vuol dire che deve diventare invisibile per poter controllare meglio, ma che il suo obiettivo può dirsi raggiunto ogni volta che diventa superfluo.
 Management, in italiano, è l’amministrazione. E allora, può un’amministrazione economica essere in grado di scomparire, tramite una moneta che svolgendo il suo compito non si accumula, ma viene meno? Può un’amministrazione pubblica o un’organizzazione privata progettare e pianificare in modo tale da non dover decidere tutto?
@@ -18,6 +17,7 @@ Dal giardino in movimento al terzo paesaggio
 Osservando i movimenti del proprio giardino e attraverso la pratica che vi ha sperimentato, Gilles Clément ha teorizzato un rapporto tra uomo e natura che non si ferma alla contrapposizione tra dominato e dominatore. Non si tratta di un rapporto di spaventata sottomissione dell’uomo alla natura, né di un dominio totale dell’uomo su di essa. Piuttosto di una relazione simbiotica e di cura reciproca, in cui l’uomo ha il compito di agire il minimo indispensabile per permettere la maggiore diversità possibile.
 Tra la foresta e lo zoo c’è, insomma, la possibilità di un giardino planetario.
 
+===
 Dall’idea di giardino in movimento, Clément è approdato a quella di terzo paesaggio, permettendo a ciascuno di accorgersi di una realtà che è sempre stata sotto gli occhi di tutti. Questo pensatore si è concentrato su quei luoghi che si erano sviluppati in un apparente abbandono da parte dell’uomo. In quell’abbandono e in quell’indecisione sul loro destino, Clément ha riconosciuto un luogo aperto ad accogliere la diversità.
 Il terzo paesaggio dunque non è né il luogo primario, selvaggio, nel quale la natura ha preso il sopravvento con il suo equilibrio conservativo, né la sua secondarizzazione ad opera dell’uomo, sia essa urbana o agricola. Non è né un luogo totalmente deciso dalla natura, né totalmente deciso dall’uomo, ma quel confine, interstiziale, abbandonato dall’uomo e non ancora riassorbito dalla natura, nel quale qualcosa di inedito e nuovo può accadere: è il luogo dell’invenzione biologica. Sono i bordi delle strade, le fabbriche o le cave abbandonate, gli spazi che sfuggono. Il luogo libero per eccellenza.
 

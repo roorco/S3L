@@ -2,7 +2,7 @@
 title: 'La banda del Terzo Luogo'
 media_order: secondo.jpg
 ---
-
+# La Banda del Terzo Luogo
 Dall'11 al 15 novembre 2014 
 
 Nel corso di questo nuovo appuntamento, previsto dall'11 al 15 novembre, saranno portate avanti le attività del workshop: le azioni sul terreno e il lavoro per il Documento Programmatico sulla rigenerazione urbana relativo ai tre luoghi scelti per la sperimentazione delle teorie di Gilles Clément: le cave di Borgo S. Nicola, le marine leccesi e gli spazi esterni delle Manifatture Knos.

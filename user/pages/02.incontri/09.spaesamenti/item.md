@@ -1,10 +1,11 @@
 ---
+title: "Spasesamenti"
 published: true
 media_order: 2materialisitoevento.jpg
 feed:
     limit: 10
 ---
-
+# Spaesamenti
 Dal 7 al 10 aprile 2017
 
 Sei giorni di attività, workshop, conferenze per segnare un passaggio: ci eravamo lasciati indecisi e ci ritroviamo spaesati..
