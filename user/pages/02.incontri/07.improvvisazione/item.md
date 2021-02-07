@@ -1,7 +1,14 @@
 ---
-title: 'improvvisazione'
+title: improvvisazione
 published: true
+feed:
+    limit: 10
 ---
+
+![](banner550x250.jpg)
+
+[museotraglialberi.pdf](museotraglialberi.pdf)
+
 Dal 23 al 28 novembre 2015
 
 È tutto pronto per una nuova edizione degli Incontri del Terzo Luogo, al cui interno prenderà il via la SCUOLA DELL'INDECISIONE.

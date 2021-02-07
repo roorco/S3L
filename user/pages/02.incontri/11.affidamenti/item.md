@@ -10,6 +10,9 @@ taxonomy:
 feed:
     limit: 10
 ---
+
+![](affidamentievento.jpg)
+
 Dal 19 al 22 Aprile 2018
 
 

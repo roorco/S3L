@@ -1,7 +1,12 @@
 ---
 title: Indecisioni
 media_order: indecisioni.jpg
+feed:
+    limit: 10
 ---
+
+![](indecisioni.jpg)
+
 Dal 24 novembre al 3 dicembre 2012
 
 

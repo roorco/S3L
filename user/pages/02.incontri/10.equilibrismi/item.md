@@ -5,6 +5,9 @@ feed:
     limit: 10
 media_order: equilibrismi.jpg
 ---
+
+![](equilibrismi.jpg)
+
 Dal 30 novembre al 3 dicembre 2017
 
 E se tutto si giocasse sul filo di un rasoio?

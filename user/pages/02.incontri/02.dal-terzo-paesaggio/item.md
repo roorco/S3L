@@ -1,7 +1,12 @@
 ---
 title: 'Dal terzo paesaggio'
 media_order: secondo.jpg
+feed:
+    limit: 10
 ---
+
+![](secondo.jpg)
+
 Dal 24 al 27 aprile 2013
 
 

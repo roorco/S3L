@@ -1,7 +1,12 @@
 ---
 title: Approdi
 media_order: 'incontri (1).jpg'
+feed:
+    limit: 10
 ---
+
+![](incontri%20%281%29.jpg)
+
 Dal 14 al 18 novembre 2018
 
 Approdare o farsi approdo?

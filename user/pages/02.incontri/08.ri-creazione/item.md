@@ -1,7 +1,12 @@
 ---
 title: Ri-Creazione
 media_order: banzi550.jpg
+feed:
+    limit: 10
 ---
+
+![](banzi550.jpg)
+
 Dall'11 al 14 maggio 2016
 
 Gli Spazi di Indecisione sono quei luoghi in cui l’assenza di una totale programmazione lascia spazio all’invenzione e alla spontaneità. Nel corso dei tre anni di Incontri del Terzo Luogo abbiamo intrapreso un percorso, all’interno di questi spazi, che ci ha permesso di operare attraverso momenti di incontro, di scambio, di confronto, di azione e di attesa.
