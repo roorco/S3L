@@ -14,7 +14,7 @@ content:
     limit: 6
     order:
         by: default
-        dir: desc
+        dir: asc
     pagination: true
     url_taxonomy_filters: true
 feed:
