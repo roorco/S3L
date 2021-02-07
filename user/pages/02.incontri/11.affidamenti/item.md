@@ -10,7 +10,6 @@ taxonomy:
 feed:
     limit: 10
 ---
-# Affidamenti
 Dal 19 al 22 Aprile 2018
 
 

@@ -2,7 +2,6 @@
 title: Indecisioni
 media_order: indecisioni.jpg
 ---
-# Indecisioni
 Dal 24 novembre al 3 dicembre 2012
 
 

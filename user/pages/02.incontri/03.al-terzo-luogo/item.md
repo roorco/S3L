@@ -1,8 +1,7 @@
 ---
-title: 'al terzo luogo'
+title: 'Al Terzo Luogo'
 media_order: secondo.jpg
 ---
-# Al Terzo Luogo
 Dal 5 al 9 novembre 2013
 
 

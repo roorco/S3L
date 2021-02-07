@@ -2,7 +2,6 @@
 title: 'Dal terzo paesaggio'
 media_order: secondo.jpg
 ---
-# Dal Terzo Paesaggio
 Dal 24 al 27 aprile 2013
 
 

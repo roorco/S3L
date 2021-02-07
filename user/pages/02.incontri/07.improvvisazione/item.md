@@ -1,12 +1,7 @@
 ---
-title: 'Scuola dell'Indecisione'
-media_order: 'museotraglialberi.pdf,banner550x250.jpg'
+title: 'improvvisazione'
 published: true
-feed:
-    limit: 10
 ---
-# Scuola dell'Indecisione'
-
 Dal 23 al 28 novembre 2015
 
 È tutto pronto per una nuova edizione degli Incontri del Terzo Luogo, al cui interno prenderà il via la SCUOLA DELL'INDECISIONE.

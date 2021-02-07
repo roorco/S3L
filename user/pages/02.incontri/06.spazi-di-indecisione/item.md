@@ -2,8 +2,6 @@
 title: 'Spazi di indecisione'
 media_order: 21550x250.jpg
 ---
-# Spazi di Indecisione
-
 Dal 19 al 23 maggio 2015
 
 Cosa accadrebbe se i gestori dei centri culturali europei scomparissero tutti d’un colpo?

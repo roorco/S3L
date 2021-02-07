@@ -2,7 +2,6 @@
 title: 'Prima la pratica'
 media_order: secondo.jpg
 ---
-# Prima la pratica
 Dal 9 al 12 aprile 2014
 
 Ogni giorno, dal 9 al 12 Aprile presso le Manifatture Knos, a partire dalle 10:00 fino a sera, si alterneranno attività laboratoriali, azioni sul campo, incontri pubblici, momenti di riflessione e di convivialità.
