@@ -1,26 +1,34 @@
+$faustina:'Faustina', serif;
+$rubik: 'Rubik', sans-serif;
 $advent: "Advent Pro", sans-serif;
 $titillium: "Titillium Web", sans-serif;
+$backg: ivory;
+$backg2: lavender;
+
+$font-body: $faustina;
+$font-title: $advent;
 
 // General mod
 .hero p{ text-align: justify }
-.hero {background-color: floralwhite}
-body {background-color: floralwhite; font-size: .9rem}
-#header {background-color: antiquewhite;}
-a {&.u-url, {color: brown !important; font-family: $advent}}
+.hero {background-color: $backg}
+body {background-color: $backg; font-size: .9rem}
+#header {background-color: $backg2;}
+
+a, .u-url, {color: brown !important; }
 a.visited {color:beige !important }
 #breadcrumbs span:first-child { color: gray}
 #breadcrumbs span, #breadcrumbs a {padding: 0}
 .dropmenu ul li a.active, .dropmenu ul li a:focus, .dropmenu ul li a:hover {color: brown !important}
 .card .card{ &-header, &-body, &-image {background-color:ghostwhite !important}}
-#header a, span, h5 {font-family: $advent}
+#header a, span, h5 {font-family: $font-title}
 #header a { font-size: .99rem}
 span { font-size: .96rem}
-h5 { font-size: 1.2rem; font-family: $advent} 
-p { font-family: 'Titillium Web', sans-serif; font-size: .9rem; line-height: 1.7em;  text-align: justify;} 
+h5 { font-size: 1rem; font-family: $font-title} 
+p { font-family: $font-body; font-size: .9rem; line-height: 1.7em;  text-align: justify;} 
 div#toggle.button_container { color: black}
 .mobile-menu .button-container {color: black}
 .overlay-menu {background-color: ghostwhite}
-.default { margin: 0 5rem; font-family: 'Titillium Web', sans-serif; font-size: .9rem; line-height: 1.7em;  text-align: justify; }
+.default { margin: 0 5rem; font-family: $font-body; font-size: .9rem; line-height: 1.7em;  text-align: justify;  }
 a.active, a:active, a:focus, a:hover {color:brown !important}
 text:hover {fill:brown !important}
 rect:hover {fill:brown !important}
