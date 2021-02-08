@@ -23,7 +23,8 @@ a.visited {color:beige !important }
 #header a, span, h5 {font-family: $font-title}
 #header a { font-size: .99rem}
 span { font-size: .96rem}
-h5 { font-size: 1rem; font-family: $font-title} 
+h1, h2, h3, h4, h5 { font-family: $font-title} 
+h1 {font-size: 1rem;}
 p { font-family: $font-body; font-size: .9rem; line-height: 1.7em;  text-align: justify;} 
 div#toggle.button_container { color: black}
 .mobile-menu .button-container {color: black}
