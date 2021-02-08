@@ -1,17 +1,21 @@
+$advent: "Advent Pro", sans-serif;
+$titillium: "Titillium Web", sans-serif;
+
+// General mod
 .hero p{ text-align: justify }
 .hero {background-color: floralwhite}
 body {background-color: floralwhite; font-size: .9rem}
 #header {background-color: antiquewhite;}
-a {&.u-url, {color: brown !important}}
+a {&.u-url, {color: brown !important; font-family: $advent}}
 a.visited {color:beige !important }
 #breadcrumbs span:first-child { color: gray}
 #breadcrumbs span, #breadcrumbs a {padding: 0}
 .dropmenu ul li a.active, .dropmenu ul li a:focus, .dropmenu ul li a:hover {color: brown !important}
 .card .card{ &-header, &-body, &-image {background-color:ghostwhite !important}}
-#header a, span, h5 {font-family: "Advent Pro", sans-serif}
+#header a, span, h5 {font-family: $advent}
 #header a { font-size: .99rem}
 span { font-size: .96rem}
-h5 { font-size: 1.2rem; font-family: "Advent-Pro", sans-serif} 
+h5 { font-size: 1.2rem; font-family: $advent} 
 p { font-family: 'Titillium Web', sans-serif; font-size: .9rem; line-height: 1.7em;  text-align: justify;} 
 div#toggle.button_container { color: black}
 .mobile-menu .button-container {color: black}

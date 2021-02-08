@@ -17,6 +17,7 @@ body {
 
 a.u-url {
   color: brown !important;
+  font-family: "Advent Pro", sans-serif;
 }
 
 a.visited {
@@ -53,7 +54,7 @@ span {
 
 h5 {
   font-size: 1.2rem;
-  font-family: "Advent-Pro", sans-serif;
+  font-family: "Advent Pro", sans-serif;
 }
 
 p {
