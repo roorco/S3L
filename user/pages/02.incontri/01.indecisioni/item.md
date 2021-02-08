@@ -36,3 +36,4 @@ Si tratta, in fondo, di provare a pensare al di fuori delle rigide categorie pol
 
 Cosa può essere, dunque, un terzo luogo? Un giardino pubblico curato liberamente dagli abitanti del quartiere? Un parco giochi autocostruito dai bambini? Il libero incontro tra esseri viventi, tra cui gli uomini, senza che nessuno debba chiedere il permesso? Le molteplici forme dell’innovazione sociale e dell’economia informale, che stanno strette dentro la dicotomia tra legale e illegale? Una moneta che scompare? Il radicalmente nuovo che apre varchi e nuove avventure? Ciò che da sempre permette il nostro essere insieme su una terra e sotto un cielo?
 Il terzo luogo è forse una poesia, uno sguardo, una musica, un sorriso spontaneo, l’ombra tenue di un albero, un angolo sconosciuto, un’illuminazione, una libera spiaggia, un germoglio che buca il cemento?
+

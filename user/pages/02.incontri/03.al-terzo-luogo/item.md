@@ -35,3 +35,4 @@ In primavera è prevista la fase successiva, con l'inizio delle prime vere e pro
 Studenti, architetti, giardinieri e curiosi di ogni età hanno preso parte a questa iniziativa ideata e promossa dalle Manifatture Knos, in collaborazione con LUA, ExFadda e Labuat, e patrocinata da Regione Puglia, Comune di Lecce, Lecce 2019 e Provincia di Lecce, che sta coinvolgendo un pubblico sempre più ampio.
 
 Italo Rota, direttore della NABA (Nuova Accademia di Belle Arti) e della Domus Academy di Milano, ci ha invitato per raccontare ai suoi studenti il percorso che abbiamo avviato alle Manifatture Knos con Gilles Clément. Saremo suoi ospiti il 4 novembre. Nel pomeriggio Gilles terrà una conferenza su “Economia e paesaggio” alla Galleria Sozzani.
+

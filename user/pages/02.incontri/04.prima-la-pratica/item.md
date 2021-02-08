@@ -118,3 +118,4 @@ Dopo l'incontro lasceremo spazio alla festa di conclusione dei lavori a cura del
  
 Gli Incontri del Terzo Luogo sono organizzati dalle Manifatture Knos in collaborazione con:
 Lua - Laboratorio Urbano Aperto ǀ Labuat - Laboratorio Urbano d'Architettura Taranto ǀ ExFadda ǀ Bigsur ǀ Ciclofficina Popolare ǀ Scie Urbane ǀ Università Bocconi ǀ Sardex ǀ Festival di Sant'Arcangelo ǀ Lecce2019 ǀ Apulia Film Commission ǀ Comune di Lecce - Assessorato Pianificazione del Territorio, Urbanistica e Assessorato Innovazione Tecnologica ǀ Provincia di Lecce ǀ Regione Puglia
+
