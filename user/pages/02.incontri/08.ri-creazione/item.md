@@ -1,8 +1,8 @@
 ---
 title: Ri-Creazione
-media_order: banzi550.jpg
 feed:
     limit: 10
+media_order: ricreazione.jpg
 ---
 
 ![](banzi550.jpg)
