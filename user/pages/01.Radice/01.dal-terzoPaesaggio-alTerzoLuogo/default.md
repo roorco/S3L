@@ -9,33 +9,35 @@ media_order: '000057300001.jpg,20a.jpg,k-28_16998791905_o.jpg'
 *Un’intervista a Gilles Clément di Michele Bee alle Manifatture Knos, Lecce*  
 </br>
   ![](000057300001.jpg)
-
-<strong>MB</strong>: <strong>Tu dici che ogni intervento genera un abbandono. Che cosa intendi dire con ciò?</strong></br>
+<p class="question">
+<strong>MB</strong>: <strong>Tu dici che ogni intervento genera un abbandono. Che cosa intendi dire con ciò?</strong></br></p>
 <p class="interview"><strong>GC</strong>: Intendo dire che nel prevedere gli interventi, le trasformazioni, le costruzioni rispetto alla superficie di un terreno, non teniamo conto del terreno stesso. Fabbrichiamo un oggetto, abbiamo l’autorizzazione per farlo su uno spazio e facciamo quello che possiamo su tale spazio. Ma di quello che accade nei limiti, nella periferia – dove non possiamo fare nulla perché non è comodo, perché la geometria non lo permette – non ce ne curiamo, ce ne dimentichiamo, ed esso diventa un terzo paesaggio, un terreno abbandonato.    </br>
 Vi sono anche altre ragioni dell’abbandono, ma questa è una ragione sistematica, incosciente e meccanica: essa va di pari passo con la crescita della città in un tessuto largo. Se il tessuto fosse denso ciò non accadrebbe. E nella città antica ciò non accade mai. Non ci sono spazi tralasciati nella città storica, perché le case sono attaccate le une alle altre, perché le strade passano tutt’intorno alle case. Ma nella costruzione della città moderna si mette un immobile qua e un altro là, qualche volta si fa la strada e si mette la casa un po’ dietro. Allora si generano dei piccoli spazi che non sono per nulla sfruttabili. Quando non lo sono e nessuno se ne interessa, essi diventano degli spazi abbandonati.</p>
 </br>
-<p><strong>MB</strong>: <strong>È bene che vi siano degli spazi abbandonati, dimenticati?</strong>
+
+<p class="question">
+<strong>MB</strong>: <strong>È bene che vi siano degli spazi abbandonati, dimenticati?</strong>
 </p>
 
 <p class="interview"> <strong>GC</strong>: È sempre bene che vi siano degli spazi abbandonati che fungano da rifugio per una diversità che in ogni caso è scacciata altrove. Questo è sempre bene. Ma quando questo paesaggio – il terzo paesaggio – è, diciamo, messo in scena in un modo che non è molto felice, molto gradevole, allora gli abitanti sono spinti a dire: “Ma cos’è questo? Non è bello. Queste sono erbacce!”. Insomma, vi è il rischio dovuto all’ignoranza circa il suo contenuto reale, la ricchezza che esso rappresenta. È lì che bisogna fare pedagogia. Ciò impone un cambiamento di modello culturale e la necessità di spiegare a tutti la ricchezza che lì esiste, affinché essa sia accettata.</p>
 </br>
-<p><strong>MB</strong>: <strong>Potremmo generalizzare questo discorso, dicendo che ogni intervento, anche amministrativo, anche del potere, pur non volendo produce un’eccedenza di libertà, uno spazio di libertà?</strong></p>
+<p class="question"><strong>MB</strong>: <strong>Potremmo generalizzare questo discorso, dicendo che ogni intervento, anche amministrativo, anche del potere, pur non volendo produce un’eccedenza di libertà, uno spazio di libertà?</strong></p>
 
 <p class="interview"> <strong>GC</strong>: In realtà, ci sono casi in cui la costruzione, la fabbricazione di un assetto, non produce abbandono. Ciò è assai raro ma può accadere. In tali occasioni, la questione non si pone. Non si producono luoghi trascurati poiché non c’è più spazio: si è nel tessuto denso. Oggi ciò riguarda la città che si ridensifica. Per evitare la dispersione, ci sono sempre più teorie della ridensificazione della città. Ma ci può essere anche un intervento in uno spazio molto aperto, rurale, dove è stata integrata la ricchezza biologica nello spazio ed è stato fatto un intervento che è sufficientemente ben proporzionato rispetto al terreno, tale che il terreno stesso divenga interessante. 
 Qui, alle Manifatture Knos, vi è un immensa spianata, che ha dell’incredibile dal punto di vista delle proporzioni. È un terreno che è stato abbandonato da un’attività, che non ha un’identità d’uso, oltre che come parcheggio. In realtà, è un parcheggio vuoto. Ma in realtà è uno spazio sufficientemente grande perché vi si possa fare qualcosa. Quindi, rischia di non essere uno spazio abbandonato, in senso meccanico, storico, della fabbricazione dell’abbandono urbano, ma sarà sicuramente uno spazio recuperato per qualcosa di interessante.  
 </p>
 </br>
-<p><strong>MB</strong>: <strong>È possibile immaginare una politica che lasci coscientemente, nella sua azione, qualcosa che le sfugge? Sarebbe questa una buona cosa?</strong>  
+<p class="question"><strong>MB</strong>: <strong>È possibile immaginare una politica che lasci coscientemente, nella sua azione, qualcosa che le sfugge? Sarebbe questa una buona cosa?</strong>  
 <p class="interview">
 <strong>GC</strong>: Convincere il politico a organizzare la sua città e a gestire i suoi concittadini attraverso uno spazio d’indecisione è molto difficile. Perché il politico ha sempre il sentimento del potere. Vuole padroneggiare, sempre. E gli sarebbe insopportabile altrimenti.
 Ma si può offrire al politico lo strumento “terzo paesaggio”, che corrisponde per lui alla possibilità di decidere che in tale o tal altro luogo non si fa nulla. Lui decide. Decide che non si fa nulla. Non si tratta di una sua indecisione, ma di una sua decisione. Egli decide che vi sarà uno spazio di indecisione, uno spazio in cui non si sa che cosa accadrà. Ma è comunque molto importante lasciargli l’illusione di aver deciso qualcosa (risata).  </p>
 </br>
-<strong>MB</strong>: <strong>Perché è importante che vi siano degli spazi in cui non si fa nulla?</strong>  </br>
+<p class="question"><strong>MB</strong>: <strong>Perché è importante che vi siano degli spazi in cui non si fa nulla?</strong></br></p>
 <p class="interview"> <strong>GC</strong>: È importante non fare nulla nella maggior parte delle situazioni, della città, della campagna, perché lì dove non si fa nulla arriva una serie di specie animali e vegetali che s’installano e che non possono insediarsi altrove. Non possono installarsi nei luoghi in cui l’uomo lavora, dove l’uomo smuove il suolo, dove ci sono industrie, strade, superfici sterilizzate: ciò non è possibile. Ma lì è possibile. Ora, questi spazi non sono molto grandi, non ce ne sono molti. E noi abbiamo bisogno della diversità. Noi dipendiamo da questa diversità, perché la sfruttiamo in permanenza. Evidentemente, non ne sfruttiamo tutto, ne sfruttiamo pochissimo. Ma noi non sappiamo di cosa è fatto il futuro. E può darsi che avremo bisogno di attingere da questo tesoro la possibilità di trovare qualcosa che rappresenta il nostro futuro: un nutrimento, un’energia, un tessuto, una materia qualunque. Ma certamente non è una necessità quella di sfruttare tutto.    
 Bisogna che vi sia un territorio d’indecisione – e questa è un’altra ragione – anche affinché arrivino in quel posto quelli che chiamiamo gli ausiliari del giardiniere. Cioè, gli insetti, gli animali che ci aiutano nel territorio che sfruttiamo. Per esempio, un piccolo orto è tanto più equilibrato ecologicamente quanto più intorno a lui vi è uno spazio – tanto meglio se largo – di terzo paesaggio, cioè d’indecisione. Infine, la terza ragione, molto importante, è che lì si trova il pool genetico, la ricchezza genetica a partire dalla quale qualcosa si produrrà nel futuro: è il territorio dell’invenzione, della vita.  
 Quante più specie differenti ci sono, tante più sono le opportunità che accada qualcosa di speciale. È meglio avere una ricchezza genetica di base, per avanzare nel futuro, piuttosto che avere una ristrettezza genetica.</p>
 </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>Questo discorso sull’indecisione è fondamentale solo per le piante e gli animali oppure lo è anche per gli esseri umani?</strong>  
 </p>
 
@@ -46,7 +48,7 @@ Ciò che non prevediamo può sempre accadere anche in un territorio organizzato,
 Ma anche al di fuori di ciò, penso sia una necessità – tra l’altro per tutti molto difficile da definire – che ha una dimensione poetica particolare. E questa dimensione è sentita assolutamente da tutti. E là non ci sono né poveri né ricchi, non ci sono classi: non c’è nulla di tutto questo. Siamo veramente al margine – indeciso – del territorio mentale dell’umano.  
 </p>
 </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>Abbiamo parlato di piante, di animali, di esseri umani in generale. Questo discorso può avere senso anche quando parliamo dei bambini, dell’educazione? Che cos’è la pedagogia per Gilles Clément?</strong>  
 </p>
 <p class="interview">
@@ -58,7 +60,7 @@ Direi che l’opposto di tutto ciò, l’opposto deciso, l’opposto veramente v
 Mentre, nel momento in cui è immerso in uno spazio di libertà – in un “terzo luogo”, come tu lo definisci – a quel punto è davvero obbligato a riflettere a ciò che farà con ciò che ha sottomano. Diventa un creativo. Diventa autonomo attraverso il proprio pensiero. È obbligato a pensare da sé. Non è il consumatore del pensiero di qualcun altro, e ciò è importantissimo.  
 </p>
 </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>Perché sei qui?</strong>  
 </p>
 <p class="interview">
@@ -67,7 +69,7 @@ Ed è assai raro ricevere una richiesta che è veramente scritta, che è redatta
 Mi sembra che i luoghi come questo possano apportare delle risposte a delle questioni che tutti si pongono oggi. Ecco cosa ho presentito quando ho ricevuto la lettera.    
 </p>
 </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>Quando hai aperto i lavori di questo atelier tu hai detto: “Voi siete gli studenti dell’atelier, ma anch’io imparerò da voi”. Hai davvero imparato qualcosa grazie a questo atelier?</strong>    
 </p>
 <p class="interview">
@@ -78,7 +80,7 @@ Rispetto al Knos, c’è qualcosa che vedo arrivare. Lo spazio di libertà che i
 È un po’ il contrario di ciò che è successo con San Cataldo. Perché lì, mi sono chiesto, ma perché si sono messi in una situazione di riserva, dicendo “è impossibile, è possibile”, cioè facendo una classificazione tra ciò che è possibile e ciò che è impossibile. Non mi aspettavo nulla del genere. E ho capito che si trattava di qualcosa che è legata al modo di percepire il politico e il potere in Italia. Qualcosa che io non conosco. Quindi mi rendo conto, qui, che forse ci sono molte più impossibilità di quanto io non creda. Ma, visto che io non sono italiano, forse posso permettermi di sognare, più forte forse. Ciò non significa che non ho imparato qualcosa.  
 </p>
 </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>E che ne pensi allora dell’Italia? Come ti sei sentito durante questi giorni in Italia?</strong>  
 </p>
 <p class ="interview">
@@ -87,7 +89,7 @@ Allo stesso tempo, condivido con l’Italia in generale qualcosa di immediato. H
 Ma, senza voler fare una separazione tra l’Italia del nord e l’Italia del sud – perché per me ciò non ha molto senso, se non da un punto di vista climatico o del paesaggio, che è molto differente – c’è comunque una demarcazione culturale importante. Mi sento bene con entrambe, senza alcun problema. Può darsi che qui ho vissuto più in un’euforia. In effetti, qualcosa di un po’ euforico.  
 </p>
 </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>Giusto per concludere il discorso di prima in cui abbiamo parlato di spazi di indecisione per le piante, gli animali, gli esseri umani, i bambini. Mi chiedo che cosa potrebbe voler dire essere giardinieri di se stessi.</strong>  
 </p>
 <p class="interview">
@@ -98,7 +100,7 @@ Ci vogliono delle regole per la società, per l’individuo ci vogliono le regol
 Quando si viaggia, si vanno a vedere altri modi di pensare, altre culture, altri modelli. E a quel punto, ci si dice: “Ma allora, lì dove ho vissuto, quel modello va bene, ma anche gli altri vanno bene, anche gli altri hanno un interesse, sono ugualmente interessanti”. In quel momento relativizziamo e finiamo per abbandonare tutte le certezze. È l’abbandono delle certezze che permette di svilupparsi. Quando si hanno delle certezze, si è bloccati.   
 </p>
 </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>Possiamo dire che c’è un rapporto tra l’equilibrio dell’ecosistema, un equilibrio economico e l’equilibrio interiore?</strong>  
 </p>
 <p class="interview">
@@ -107,7 +109,7 @@ L’equilibrio economico nelle nostre società è un equilibrio costruito, frutt
 L’equilibrio economico è un equilibrio di società organizzata. Oggi, nello stato attuale delle cose, questo equilibrio economico non è per nulla aggiustato né all’equilibrio biologico né all’equilibrio umano, in alcun momento. Funziona per se stesso, a beneficio di qualche persona, pochissime, e a detrimento di un grandissimo numero. Quindi, questo qui è completamente da eliminare. Bisogna inventarne un altro.  
 </p>
 </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>Abbiamo parlato di equilibrio interiore e di essere giardinieri di se stessi. Prendo ancora una metafora per provare a guardare qualcosa: c’è forse un terzo paesaggio dentro ciascuno di noi, nella nostra vita? Qualcosa che sfugge a noi stessi?</strong>  
 </p>
 <p class="interview">
@@ -117,14 +119,14 @@ Ecco il terzo paesaggio che è in noi. E ci diciamo: “Questo, questo esiste? �
 </p>
 </br>
 
-<p>
+<p class="question"> 
 <strong>MB</strong>: <strong>Mi chiedo se l’amore abbia a che fare con la libertà, propria, degli altri, o se sia voglia di avere, di controllare. E così mi chiedo, ti chiedo: che cos’è l’amore per Gilles Clément?</strong>  
 </p>
 <p class="interview">
 <strong>GC</strong>: (Risata) Penso sia qualcosa che si condivide, sono degli istanti in cui si è in accordo assoluto, ed è superiore a qualunque sistema di interesse. È, in effetti, superiore. È anche qualcosa che si pone al di sopra della materialità. Ci sono delle cose che sono materiali e che si possono anche condividere, ma in fondo, nella condivisione dell’immateriale c’è un pegno d’amore nella misura in cui si è senza calcolo e si fa qualcosa per l’altro, perché si pensa sia ciò che di meglio si può fare per l’altro in quel momento.  
 </p>
   </br>
-<p>
+<p class="question">
 <strong>MB</strong>: <strong>Il miracolo di parlare agli uccelli, è possibile?</strong>  
 </p>
 <p class="interview">

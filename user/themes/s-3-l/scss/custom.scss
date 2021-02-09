@@ -2,9 +2,10 @@ $faustina:'Faustina', serif;
 $rubik: 'Rubik', sans-serif;
 $advent: "Advent Pro", sans-serif;
 $titillium: "Titillium Web", sans-serif;
-$backg:	ivory;
-$backg2: lightyellow;
+$backg:	#fffffa;
+$backg2: ghostwhite;
 $accent: grey;
+$hover: black;
 
 $font-body: $faustina;
 $font-title: $advent;
@@ -16,11 +17,12 @@ body {background-color: $backg; font-size: .9rem}
 #header {background-color: $backg2;}
 
 p.interview { padding-left: 3rem; font-family: $faustina;}
+p.question {padding-right: 3rem; font-family: $faustina;}
 a, .u-url, {color: $accent !important; }
 a.visited {color:beige !important }
 #breadcrumbs span:first-child { color: gray}
 #breadcrumbs span, #breadcrumbs a {padding: 0}
-.dropmenu ul li a.active, .dropmenu ul li a:focus, .dropmenu ul li a:hover {color: $accent !important}
+.dropmenu ul li a.active, .dropmenu ul li a:focus, .dropmenu ul li a:hover {color: $hover !important}
 .card .card{ &-header, &-body, &-image {background-color:ghostwhite !important}}
 #header a, span, h5 {font-family: $font-title}
 #header a { font-size: .99rem}
@@ -32,7 +34,7 @@ div#toggle.button_container { color: grey}
 .mobile-menu .button-container {color:black}
 .overlay-menu {background-color: ghostwhite}
 .default { margin: 0 5rem; font-family: $font-body; font-size: .9rem; line-height: 1.7em;  text-align: justify;  }
-a.active, a:active, a:focus, a:hover {color:$accent !important}
+a.active, a:active, a:focus, a:hover {color:$accent }
 text:hover {fill:$accent !important}
 rect:hover {fill:$accent !important}
 tspan:hover {fill:$accent !important}
