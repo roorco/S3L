@@ -1,6 +1,6 @@
 ---
 title: 'La banda del Terzo Luogo'
-media_order: secondo.jpg
+media_order: quinta.jpg
 feed:
     limit: 10
 ---

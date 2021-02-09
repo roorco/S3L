@@ -1,6 +1,5 @@
 ---
 title: 'Prima la pratica'
-media_order: secondo.jpg
 feed:
     limit: 10
 ---
