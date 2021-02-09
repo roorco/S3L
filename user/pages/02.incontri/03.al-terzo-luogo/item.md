@@ -1,13 +1,13 @@
 ---
 title: 'Al Terzo Luogo'
-media_order: secondo.jpg
+media_order: 'terza.jpg,terza_3.jpg,terza_1.jpg,terza_2.gif'
 feed:
     limit: 10
 ---
 
-![](secondo.jpg)
+![](terza.jpg)
 
-Dal 5 al 9 novembre 2013
+_Dal 5 al 9 novembre 2013_
 
 
 Da martedì 5 a sabato 9 novembre tornano gli Incontri del terzo luogo e torna Gilles Clément, questa volta accompagnato dai Coloco, paesaggisti argentino/francesi che lavorano al fianco di Gilles in numerosi progetti nel mondo e che si autodefiniscono "Jardiniers pratiquants"!
@@ -22,7 +22,8 @@ Dopo una prima immersione nei luoghi, i partecipanti ai due incontri del worksho
 
 Si tratta ancora di sogni che adesso devono confrontarsi con quelle che Gilles Clément chiama "le costrizioni oggettive", al fine di arrivare alla definizione di progetti definiti e chiari, pronti per eventuali realizzazioni sul terreno.
 
- 
+![](terza_1.jpg)
+![](terza_2.gif)
 
 I Coloco si inseriranno direttamente nel progetto del giardino-parcheggio delle Manifatture Knos, ma offriranno la loro esperienza anche agli altri gruppi, per delineare un percorso e degli approdi comuni, pur nella diversità dei luoghi e degli approcci.
 
@@ -30,7 +31,7 @@ Alla fine di questo terzo incontro, i progetti dovrebbero poter essere pronti pe
 
 In primavera è prevista la fase successiva, con l'inizio delle prime vere e proprie sperimentazioni sul terreno.
 
- 
+![](terza_3.jpg)
 
 Studenti, architetti, giardinieri e curiosi di ogni età hanno preso parte a questa iniziativa ideata e promossa dalle Manifatture Knos, in collaborazione con LUA, ExFadda e Labuat, e patrocinata da Regione Puglia, Comune di Lecce, Lecce 2019 e Provincia di Lecce, che sta coinvolgendo un pubblico sempre più ampio.
 
