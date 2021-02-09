@@ -14,6 +14,7 @@ $font-title: $advent;
 body {background-color: $backg; font-size: .9rem}
 #header {background-color: $backg2;}
 
+p.interview { padding-left: 3rem; font-family: $faustina;}
 a, .u-url, {color: brown !important; }
 a.visited {color:beige !important }
 #breadcrumbs span:first-child { color: gray}
