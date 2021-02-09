@@ -12,7 +12,7 @@ body {
 }
 
 #header {
-  background-color: moccasin;
+  background-color: lightyellow;
 }
 
 p.interview {
@@ -21,7 +21,7 @@ p.interview {
 }
 
 a, .u-url {
-  color: brown !important;
+  color: grey !important;
 }
 
 a.visited {
@@ -37,7 +37,7 @@ a.visited {
 }
 
 .dropmenu ul li a.active, .dropmenu ul li a:focus, .dropmenu ul li a:hover {
-  color: brown !important;
+  color: grey !important;
 }
 
 .card .card-header, .card .card-body, .card .card-image {
@@ -72,7 +72,7 @@ p {
 }
 
 div#toggle.button_container {
-  color: black;
+  color: grey;
 }
 
 .mobile-menu .button-container {
@@ -92,23 +92,23 @@ div#toggle.button_container {
 }
 
 a.active, a:active, a:focus, a:hover {
-  color: brown !important;
+  color: grey !important;
 }
 
 text:hover {
-  fill: brown !important;
+  fill: grey !important;
 }
 
 rect:hover {
-  fill: brown !important;
+  fill: grey !important;
 }
 
 tspan:hover {
-  fill: brown !important;
+  fill: grey !important;
 }
 
 .mobile-menu .button_container span {
-  background: brown;
+  background: grey;
 }
 
 .overlay {
@@ -128,7 +128,7 @@ a:visited {
 }
 
 .treemenu li a.active, .treemenu li a:focus, .treemenu li a:hover {
-  color: brown !important;
+  color: grey !important;
   font-weight: 600;
 }
 
@@ -136,14 +136,14 @@ a:visited {
   font-weight: 600;
 }
 .mobile-menu .button_container.active .top {
-  background: brown;
+  background: grey;
 }
 
 .mobile-menu .button_container.active {
   font-weight: 600;
 }
 .mobile-menu .button_container.active .bottom {
-  background: brown;
+  background: grey;
 }
 
 body {
