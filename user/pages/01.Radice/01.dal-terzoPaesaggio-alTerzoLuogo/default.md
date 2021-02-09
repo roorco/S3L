@@ -3,6 +3,7 @@ title: 'Dal Terzo Paesaggio al Terzo Luogo'
 published: true
 pagination: true
 childtype: default
+media_order: '000057300001.jpg,20a.jpg,k-28_16998791905_o.jpg'
 ---
 
 *Un’intervista a Gilles Clément di Michele Bee alle Manifatture Knos, Lecce*  
