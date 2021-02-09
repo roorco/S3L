@@ -10,7 +10,7 @@ childtype: default
   ![](000057300001.jpg)
 
 </br>
-**MB**:**Tu dici che ogni intervento genera un abbandono. Che cosa intendi dire con ciò?** </br>
+**MB**: **Tu dici che ogni intervento genera un abbandono. Che cosa intendi dire con ciò?** </br>
 **GC**: Intendo dire che nel prevedere gli interventi, le trasformazioni, le costruzioni rispetto alla superficie di un terreno, non teniamo conto del terreno stesso. Fabbrichiamo un oggetto, abbiamo l’autorizzazione per farlo su uno spazio e facciamo quello che possiamo su tale spazio. Ma di quello che accade nei limiti, nella periferia – dove non possiamo fare nulla perché non è comodo, perché la geometria non lo permette – non ce ne curiamo, ce ne dimentichiamo, ed esso diventa un terzo paesaggio, un terreno abbandonato.    </br>
 Vi sono anche altre ragioni dell’abbandono, ma questa è una ragione sistematica, incosciente e meccanica: essa va di pari passo con la crescita della città in un tessuto largo. Se il tessuto fosse denso ciò non accadrebbe. E nella città antica ciò non accade mai. Non ci sono spazi tralasciati nella città storica, perché le case sono attaccate le une alle altre, perché le strade passano tutt’intorno alle case. Ma nella costruzione della città moderna si mette un immobile qua e un altro là, qualche volta si fa la strada e si mette la casa un po’ dietro. Allora si generano dei piccoli spazi che non sono per nulla sfruttabili. Quando non lo sono e nessuno se ne interessa, essi diventano degli spazi abbandonati.  
   </br>
