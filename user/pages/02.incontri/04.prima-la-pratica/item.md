@@ -49,7 +49,7 @@ Il gruppo di Borgo San Nicola - coordinato da Luisella Guerrieri - lavorerà all
 Gilles Clément condurrà il workshop pratico sul terreno!
 
 ![](quarta_0.jpg)
-![](quarta_6.jpg)
+![](defricher_con_Gilles_clement.jpg)
 ![](quarta_13.jpg)
 
 **DA SAN CATALDO A FRIGOLE!**
