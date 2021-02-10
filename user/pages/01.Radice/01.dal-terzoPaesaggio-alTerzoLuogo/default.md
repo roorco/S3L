@@ -3,13 +3,20 @@ title: 'Dal Terzo Paesaggio al Terzo Luogo'
 published: true
 pagination: true
 childtype: default
-media_order: '000057300001.jpg,20a.jpg,k-28_16998791905_o.jpg'
+media_order: foglie-erba.jpg
+process:
+    markdown: true
+    twig: true
+aura:
+    pagetype: website
 ---
 
+<h2>{{ page.title }}</h2>
 *Un’intervista a Gilles Clément di Michele Bee alle Manifatture Knos, Lecce*  
 </br>
-  ![](000057300001.jpg)
+![](foglie-erba.jpg)
 <p class="question">
+
 <strong>MB</strong>: <strong>Tu dici che ogni intervento genera un abbandono. Che cosa intendi dire con ciò?</strong></br></p>
 <p class="interview"><strong>GC</strong>: Intendo dire che nel prevedere gli interventi, le trasformazioni, le costruzioni rispetto alla superficie di un terreno, non teniamo conto del terreno stesso. Fabbrichiamo un oggetto, abbiamo l’autorizzazione per farlo su uno spazio e facciamo quello che possiamo su tale spazio. Ma di quello che accade nei limiti, nella periferia – dove non possiamo fare nulla perché non è comodo, perché la geometria non lo permette – non ce ne curiamo, ce ne dimentichiamo, ed esso diventa un terzo paesaggio, un terreno abbandonato.    </br>
 Vi sono anche altre ragioni dell’abbandono, ma questa è una ragione sistematica, incosciente e meccanica: essa va di pari passo con la crescita della città in un tessuto largo. Se il tessuto fosse denso ciò non accadrebbe. E nella città antica ciò non accade mai. Non ci sono spazi tralasciati nella città storica, perché le case sono attaccate le une alle altre, perché le strade passano tutt’intorno alle case. Ma nella costruzione della città moderna si mette un immobile qua e un altro là, qualche volta si fa la strada e si mette la casa un po’ dietro. Allora si generano dei piccoli spazi che non sono per nulla sfruttabili. Quando non lo sono e nessuno se ne interessa, essi diventano degli spazi abbandonati.</p>
@@ -32,6 +39,8 @@ Qui, alle Manifatture Knos, vi è un immensa spianata, che ha dell’incredibile
 <strong>GC</strong>: Convincere il politico a organizzare la sua città e a gestire i suoi concittadini attraverso uno spazio d’indecisione è molto difficile. Perché il politico ha sempre il sentimento del potere. Vuole padroneggiare, sempre. E gli sarebbe insopportabile altrimenti.
 Ma si può offrire al politico lo strumento “terzo paesaggio”, che corrisponde per lui alla possibilità di decidere che in tale o tal altro luogo non si fa nulla. Lui decide. Decide che non si fa nulla. Non si tratta di una sua indecisione, ma di una sua decisione. Egli decide che vi sarà uno spazio di indecisione, uno spazio in cui non si sa che cosa accadrà. Ma è comunque molto importante lasciargli l’illusione di aver deciso qualcosa (risata).  </p>
 </br>
+![](incontri-tavolo.jpg)
+
 <p class="question"><strong>MB</strong>: <strong>Perché è importante che vi siano degli spazi in cui non si fa nulla?</strong></br></p>
 <p class="interview"> <strong>GC</strong>: È importante non fare nulla nella maggior parte delle situazioni, della città, della campagna, perché lì dove non si fa nulla arriva una serie di specie animali e vegetali che s’installano e che non possono insediarsi altrove. Non possono installarsi nei luoghi in cui l’uomo lavora, dove l’uomo smuove il suolo, dove ci sono industrie, strade, superfici sterilizzate: ciò non è possibile. Ma lì è possibile. Ora, questi spazi non sono molto grandi, non ce ne sono molti. E noi abbiamo bisogno della diversità. Noi dipendiamo da questa diversità, perché la sfruttiamo in permanenza. Evidentemente, non ne sfruttiamo tutto, ne sfruttiamo pochissimo. Ma noi non sappiamo di cosa è fatto il futuro. E può darsi che avremo bisogno di attingere da questo tesoro la possibilità di trovare qualcosa che rappresenta il nostro futuro: un nutrimento, un’energia, un tessuto, una materia qualunque. Ma certamente non è una necessità quella di sfruttare tutto.    
 Bisogna che vi sia un territorio d’indecisione – e questa è un’altra ragione – anche affinché arrivino in quel posto quelli che chiamiamo gli ausiliari del giardiniere. Cioè, gli insetti, gli animali che ci aiutano nel territorio che sfruttiamo. Per esempio, un piccolo orto è tanto più equilibrato ecologicamente quanto più intorno a lui vi è uno spazio – tanto meglio se largo – di terzo paesaggio, cioè d’indecisione. Infine, la terza ragione, molto importante, è che lì si trova il pool genetico, la ricchezza genetica a partire dalla quale qualcosa si produrrà nel futuro: è il territorio dell’invenzione, della vita.  
@@ -132,3 +141,5 @@ Ecco il terzo paesaggio che è in noi. E ci diciamo: “Questo, questo esiste? �
 <p class="interview">
 <strong>GC</strong>: Sì, penso che sia possibile il miracolo di parlare agli uccelli, ma è più difficile parlare agli umani (risata).
 </p>
+
+![](incontri-tavolo.jpg)
