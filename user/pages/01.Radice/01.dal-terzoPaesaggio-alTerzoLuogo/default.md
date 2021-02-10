@@ -39,7 +39,8 @@ Qui, alle Manifatture Knos, vi è un immensa spianata, che ha dell’incredibile
 <strong>GC</strong>: Convincere il politico a organizzare la sua città e a gestire i suoi concittadini attraverso uno spazio d’indecisione è molto difficile. Perché il politico ha sempre il sentimento del potere. Vuole padroneggiare, sempre. E gli sarebbe insopportabile altrimenti.
 Ma si può offrire al politico lo strumento “terzo paesaggio”, che corrisponde per lui alla possibilità di decidere che in tale o tal altro luogo non si fa nulla. Lui decide. Decide che non si fa nulla. Non si tratta di una sua indecisione, ma di una sua decisione. Egli decide che vi sarà uno spazio di indecisione, uno spazio in cui non si sa che cosa accadrà. Ma è comunque molto importante lasciargli l’illusione di aver deciso qualcosa (risata).  </p>
 </br>
-![](incontri-tavolo.jpg)
+<img src="{{basename}}/01.Pages/01.Radice/01.dal-terzoPaesaggio-alTerzoLuogo/incontri-tavolo.jpg/">
+
 
 <p class="question"><strong>MB</strong>: <strong>Perché è importante che vi siano degli spazi in cui non si fa nulla?</strong></br></p>
 <p class="interview"> <strong>GC</strong>: È importante non fare nulla nella maggior parte delle situazioni, della città, della campagna, perché lì dove non si fa nulla arriva una serie di specie animali e vegetali che s’installano e che non possono insediarsi altrove. Non possono installarsi nei luoghi in cui l’uomo lavora, dove l’uomo smuove il suolo, dove ci sono industrie, strade, superfici sterilizzate: ciò non è possibile. Ma lì è possibile. Ora, questi spazi non sono molto grandi, non ce ne sono molti. E noi abbiamo bisogno della diversità. Noi dipendiamo da questa diversità, perché la sfruttiamo in permanenza. Evidentemente, non ne sfruttiamo tutto, ne sfruttiamo pochissimo. Ma noi non sappiamo di cosa è fatto il futuro. E può darsi che avremo bisogno di attingere da questo tesoro la possibilità di trovare qualcosa che rappresenta il nostro futuro: un nutrimento, un’energia, un tessuto, una materia qualunque. Ma certamente non è una necessità quella di sfruttare tutto.    
@@ -109,6 +110,8 @@ Ci vogliono delle regole per la società, per l’individuo ci vogliono le regol
 Quando si viaggia, si vanno a vedere altri modi di pensare, altre culture, altri modelli. E a quel punto, ci si dice: “Ma allora, lì dove ho vissuto, quel modello va bene, ma anche gli altri vanno bene, anche gli altri hanno un interesse, sono ugualmente interessanti”. In quel momento relativizziamo e finiamo per abbandonare tutte le certezze. È l’abbandono delle certezze che permette di svilupparsi. Quando si hanno delle certezze, si è bloccati.   
 </p>
 </br>
+<img src="{{basename}}/01.Pages/01.Radice/01.dal-terzoPaesaggio-alTerzoLuogo/incontri-tavolo.jpg/">
+
 <p class="question">
 <strong>MB</strong>: <strong>Possiamo dire che c’è un rapporto tra l’equilibrio dell’ecosistema, un equilibrio economico e l’equilibrio interiore?</strong>  
 </p>
@@ -142,4 +145,5 @@ Ecco il terzo paesaggio che è in noi. E ci diciamo: “Questo, questo esiste? �
 <strong>GC</strong>: Sì, penso che sia possibile il miracolo di parlare agli uccelli, ma è più difficile parlare agli umani (risata).
 </p>
 
-![](incontri-tavolo.jpg)
+<img src="{{basename}}/01.Pages/01.Radice/01.dal-terzoPaesaggio-alTerzoLuogo/incontri-gruppo.jpg/">
+
