@@ -1,5 +1,6 @@
 ---
 title: Erbari
+grid: grid-md
 sitemap:
     changefreq: monthly
 body_classes: 'header-light header-transparent'
