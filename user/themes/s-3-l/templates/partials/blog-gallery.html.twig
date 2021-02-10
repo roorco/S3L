@@ -14,7 +14,7 @@
         {{ page.content|raw}}
         <div>
         {% for i in page.media%}
-            {{ i.lightbox(1024,768).cropResize(600,400).html("{{meta.alt_text}}")|raw }}
+            {{ i.lightbox(1024,768).cropResize(600,400).html|raw }}
         {% endfor %}
         </div>
     </div>
