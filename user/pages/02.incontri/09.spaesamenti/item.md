@@ -1,7 +1,7 @@
 ---
 title: Spasesamenti
 published: true
-media_order: 2materialisitoevento.jpg
+media_order: '2materialisitoevento.jpg,knos_spaesamenti_3.jpg,knos_spaesamenti.jpg,knos_spaesamenti_1.jpg'
 feed:
     limit: 10
 ---

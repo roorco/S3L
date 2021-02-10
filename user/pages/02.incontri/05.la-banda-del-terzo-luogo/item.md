@@ -1,6 +1,6 @@
 ---
 title: 'La banda del Terzo Luogo'
-media_order: quinta.jpg
+media_order: 'quinta.jpg,carmen_performance.jpg'
 feed:
     limit: 10
 ---

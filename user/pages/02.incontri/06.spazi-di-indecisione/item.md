@@ -1,6 +1,6 @@
 ---
 title: 'Spazi di indecisione'
-media_order: 21550x250.jpg
+media_order: '21550x250.jpg,sesta_0.jpg'
 feed:
     limit: 10
 ---
