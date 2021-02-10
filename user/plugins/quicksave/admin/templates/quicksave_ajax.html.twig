@@ -1,0 +1,69 @@
+<script>
+    {# simply makes an ajax post with route and editor content #}
+    document.addEventListener('DOMContentLoaded', function () {
+        var form = $('#saveajax');
+        form.submit(function (e) {
+            // prevent form submission
+            e.preventDefault();
+
+            let content;
+            // Try the default Grav editor
+            let item = $('div.form-field:not(.frontmatter) .CodeMirror');
+            if (item.length !== 0 && item.is(':visible')) {
+                content = item[0].CodeMirror.getValue();
+            }
+
+            // Try the TinyMCE Plugin
+            if (window.tinyMCE && window.tinyMCE.editors && window.tinyMCE.editors.length) {
+              const editor = window.tinyMCE.editors[0]
+              if (editor.id === 'data[content]'){
+                content = editor.getContent()
+              }
+            }
+
+            // Try the hidden field approach
+            if (content === undefined) {
+                item = $('#custom-editor-value');
+                if (item.length !== 0) {
+                    content = item.val();
+                }
+            }
+
+            // Try another approach
+            if (content === undefined) {
+                item = $('#data\\[content\\]');
+                if (item.length !== 0) {
+                    content = item.val();
+                }
+            }
+
+            if (content === undefined) {
+                throw "Could not locate an editor content field";
+            }
+
+            // submit the form via Ajax
+            $.ajax({
+                url: '{{ base_url }}/save-content',
+                type: 'post',
+                contentType: "application/json; charset=utf-8",
+                dataType: 'json',
+                data: JSON.stringify({
+                    // grav admin 1.7 uses flex-object
+                    route: "{{ object ? object.rawRoute :  context.rawRoute }}",
+                    content
+                }),
+                success: function (result) {
+                    healthy_snackbar(result.message);
+                    {% if config.plugins.quicksave.clear_dirty %}
+                    // clear the dirty state
+                    const forms = Grav.default.Forms;
+                    forms.FormState.Instance = new forms.FormState.FormState();
+                    {% endif %}
+                },
+                error: function (result) {
+                    healthy_snackbar("There was an unexpected error while saving the content.");
+                }
+            });
+        });
+    });
+</script>
