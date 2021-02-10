@@ -1,8 +1,10 @@
 ---
 title: 'Spazi di indecisione'
-media_order: 'indecision_pranzo_2.jpg,indecision_autocostruzione_2.jpg,indecision_calcio_2.jpg,indecision_autocostruzione.jpg,indecision_zappe_2.jpg,indecision_pranzo.jpg,indecision_bambini.jpg,indecision_calcio.jpg,indecision_megafono.jpg,indecision_performance.jpg,indecision_assemblea_2.jpg,indecision_zappe.jpg,indecision_piante.jpg,indecision_assemblea.jpg,21550x250.jpg,sesta_0.jpg,indecision_tavolarotonda.jpg'
+media_order: '21550x250.jpg,indecision_pranzo_2.jpg,indecision_autocostruzione_2.jpg,indecision_calcio_2.jpg,indecision_autocostruzione.jpg,indecision_zappe_2.jpg,indecision_pranzo.jpg,indecision_bambini.jpg,indecision_calcio.jpg,indecision_megafono.jpg,indecision_performance.jpg,indecision_assemblea_2.jpg,indecision_zappe.jpg,indecision_piante.jpg,indecision_assemblea.jpg,sesta_0.jpg,indecision_tavolarotonda.jpg'
 feed:
     limit: 10
+aura:
+    pagetype: website
 ---
 
 ![](indecision_assemblea_2.jpg)

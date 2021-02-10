@@ -1,13 +1,13 @@
 ---
 title: 'La banda del Terzo Luogo'
-media_order: 'carmen_performance_6.jpg,carmen_performance_2.jpg,carmen_performance_4.jpg,carmen_performance_3.jpg,carmen_performance_7.jpg,carmen_performance_8.jpg,giardino_visioni.jpg,giardino_piantumazione.jpg,piccone.jpg,marine.jpg,asfalto_taglio.jpg,cucina.jpg,lavori in corso.jpg,asfalto_terra.jpg,borgo san nicola.jpg,asfalto_nespolo.jpg,serigrafia.jpg,auditorio.jpg,quinta.jpg,asfalto_famiglia.jpg,asfalto_buche.jpg,asfalto_terra_1.jpg'
+media_order: 'quinta.jpg,carmen_performance_6.jpg,carmen_performance_2.jpg,carmen_performance_4.jpg,carmen_performance_3.jpg,carmen_performance_7.jpg,carmen_performance_8.jpg,giardino_visioni.jpg,giardino_piantumazione.jpg,piccone.jpg,marine.jpg,asfalto_taglio.jpg,cucina.jpg,lavori in corso.jpg,asfalto_terra.jpg,borgo san nicola.jpg,asfalto_nespolo.jpg,serigrafia.jpg,auditorio.jpg,asfalto_famiglia.jpg,asfalto_buche.jpg,asfalto_terra_1.jpg'
 feed:
     limit: 10
 aura:
     pagetype: website
 ---
 
-![](secondo.jpg)
+![](quinta.jpg)
 
 _Dall'11 al 15 novembre 2014 _
 
@@ -60,5 +60,4 @@ Questi Incontri del Terzo Luogo sono organizzati dalle Manifatture Knos in colla
 
 Lua – Laboratorio Urbano Aperto ǀ Labuat – Laboratorio Urbano d’Architettura Taranto ǀ Bigsur – Cinema del reale ǀ Ciclofficina Popolare Knos ǀ Santarcangelo •12 •13 •14 Festival Internazionale del Teatro in Piazza ǀ Futurforma | OfficinaVisioni | Apulia Film Commission ǀ Comune di Lecce - Assessorato Pianificazione del Territorio, Urbanistica ǀ Provincia di Lecce ǀ Regione Puglia – Assessorato alla Qualità del Territorio.
 
-![](carmen_performance.jpg)
 ![](carmen_performance_8.jpg)
