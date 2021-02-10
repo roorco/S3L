@@ -15,7 +15,7 @@ Questa edizione avrà un taglio molto più pratico delle precedenti. Insieme ai 
 
 L'obiettivo è quello di ultimare i progetti definiti nelle precedenti edizioni perché possano far parte del documento programmatico di Rigenerazione Urbana del Comune di Lecce e siano quindi candidabili ai bandi regionali.
 
-![](quarta_1.jpg)
+![](incontri_terzo_luogo-deriva.jpg)
 
 Il lavoro pratico sarà accompagnato da momenti di riflessione che si svolgeranno ogni giorno a conclusione delle attività e nella giornata di sabato 12, interamente dedicata al confronto e all'analisi del lavoro svolto e di quello da svolgere. 
 
