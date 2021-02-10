@@ -3,6 +3,8 @@ title: 'Dal terzo paesaggio'
 media_order: 'secondo.jpg,seconda_5.jpg,seconda_4.jpg,seconda_2.jpg,seconda_1.jpg,seconda_3.jpg'
 feed:
     limit: 10
+aura:
+    pagetype: website
 ---
 
 ![](secondo.jpg)

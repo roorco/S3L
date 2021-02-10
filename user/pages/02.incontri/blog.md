@@ -11,7 +11,7 @@ show_pagination: true
 content:
     items:
         - '@self.children'
-    limit: 6
+    limit: 20
     order:
         by: default
         dir: asc

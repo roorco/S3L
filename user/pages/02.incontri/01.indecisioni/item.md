@@ -3,6 +3,8 @@ title: Indecisioni
 media_order: 'indecisioni.jpg,prima_2.jpg,prima_5.jpg,prima_6.jpg,prima_8.jpg,prima_4.jpg,prima_7.jpg,prima_1.jpg,prima_9.jpg,prima_3.jpg'
 feed:
     limit: 10
+aura:
+    pagetype: website
 ---
 
 ![indecisioni](indecisioni.jpg "indecisioni")
