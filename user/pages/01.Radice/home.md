@@ -206,7 +206,7 @@ child_type: default
  <a href="contatti">
   <rect x="671.12" y="1838.1" width="234.05" height="91.584" style="fill-opacity:0;paint-order:stroke fill markers;stroke-width:0"/>
  </a>
- <a href="indice">
+ <a href="dal-terzopaesaggio-alterzoluogo">
   <rect x="346.26" y="124.82" width="1207.6" height="336.87" style="fill-opacity:0;paint-order:stroke fill markers;stroke-width:0"/>
  </a>
 </svg>
