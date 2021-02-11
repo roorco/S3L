@@ -1,5 +1,6 @@
 ---
 title: 'Dal Terzo Paesaggio al Terzo Luogo'
+grid-size: grid-lg
 published: true
 pagination: true
 childtype: default
@@ -45,7 +46,7 @@ Ma si può offrire al politico lo strumento “terzo paesaggio”, che corrispon
 Bisogna che vi sia un territorio d’indecisione – e questa è un’altra ragione – anche affinché arrivino in quel posto quelli che chiamiamo gli ausiliari del giardiniere. Cioè, gli insetti, gli animali che ci aiutano nel territorio che sfruttiamo. Per esempio, un piccolo orto è tanto più equilibrato ecologicamente quanto più intorno a lui vi è uno spazio – tanto meglio se largo – di terzo paesaggio, cioè d’indecisione. Infine, la terza ragione, molto importante, è che lì si trova il pool genetico, la ricchezza genetica a partire dalla quale qualcosa si produrrà nel futuro: è il territorio dell’invenzione, della vita.  
 Quante più specie differenti ci sono, tante più sono le opportunità che accada qualcosa di speciale. È meglio avere una ricchezza genetica di base, per avanzare nel futuro, piuttosto che avere una ristrettezza genetica.</p>
 </br>
-<img src="{{basename}}/01.Pages/01.Radice/01.dal-terzoPaesaggio-alTerzoLuogo/incontri-gruppo.jpg/">
+<img src="{{basename}}/01.Pages/01.Radice/01.dal-terzo-paesaggio-al-terzo-luogo/incontri-gruppo.jpg/">
 <p class="question">
 <strong>MB</strong>: <strong>Questo discorso sull’indecisione è fondamentale solo per le piante e gli animali oppure lo è anche per gli esseri umani?</strong>  
 </p>
@@ -99,7 +100,7 @@ Ma, senza voler fare una separazione tra l’Italia del nord e l’Italia del su
 </p>
 </br>
 
-<img src="{{basename}}/01.Pages/01.Radice/01.dal-terzoPaesaggio-alTerzoLuogo/incontri-tavolo.jpg/">
+<img src="{{basename}}/01.Pages/01.Radice/01.dal-terzo-paesaggio-al-terzo-luogo/incontri-tavolo.jpg/">
 <p class="question">
 <strong>MB</strong>: <strong>Giusto per concludere il discorso di prima in cui abbiamo parlato di spazi di indecisione per le piante, gli animali, gli esseri umani, i bambini. Mi chiedo che cosa potrebbe voler dire essere giardinieri di se stessi.</strong>  
 </p>
