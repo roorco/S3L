@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -198,13 +198,14 @@
      id="namedview324"
      showgrid="false"
      inkscape:zoom="0.46345721"
-     inkscape:cx="873.95399"
-     inkscape:cy="795.46816"
+     inkscape:cx="796.27692"
+     inkscape:cy="799.89551"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg322"
-     inkscape:snap-text-baseline="true" />
+     inkscape:snap-text-baseline="true"
+     inkscape:document-rotation="0" />
   <path
      d="m 934.33,1550.9 c 0,-50.272 -8.3849,-105.87 -22.147,-154.16 -5.0803,-17.825 -16.28,-33.94 -21.093,-52.177 -8.1406,-30.848 -13.215,-66.706 -16.874,-98.803 -4.0843,-35.828 29.618,-62.95 27.42,-98.803 -2.7496,-44.86 -19.721,-88.337 -28.475,-132.11 -6.6589,-33.296 -3.8242,-69.532 -7.3826,-103.24 -5.2132,-49.388 -18.906,-93.912 -31.489,-141.59 -8.8931,-33.7 -2.7859,-90.292 -4.2187,-126.49 -1.1592,-29.287 -6.4222,-58.388 -7.3823,-87.701 -2.2952,-70.067 -1.9701,-139.78 1.0545,-209.82 1.966,-45.522 12.918,-88.384 17.929,-133.22 4.1104,-36.776 18.427,-161.06 13.022,-176.9 -2.119,-6.2128 -18.21509,-25.757152 -22.56909,-30.6701521 m 0,0 C 830.86941,43.152848 836.4273,79.391 834.4793,117.317 c -1.4492,28.219 -8.3285,50.38 -12.656,77.71 -6.8095,43.009 -14.541,87.311 -17.929,131 -1.9081,24.605 0.8902,15.552 3.1639,39.965 3.2342,34.726 5.595,70.656 7.3823,105.46 1.5924,31.011 -3.1639,61.231 -3.1639,92.142 0,52.614 7.5529,96.515 1.0546,149.87 -5.5394,45.48 -13.779,90.1 -21.092,135.44 -5.0789,31.483 -5.8427,10.353 -8.4371,41.075 -3.0792,36.463 -2.6425,73.398 -4.2187,109.9 -1.8472,42.781 -3.4517,58.074 -2.242,100.94 0.37106,13.15 -0.87641,44.807 0.54879,62.519 2.1905,27.223 -18.642,103.1 -23.618,136.27 -7.9424,52.95 -8.532,107.66 -11.601,160.97 -1.3117,22.784 -8.2497,45.156 -10.546,67.718 -2.926,28.748 -5.4976,57.862 -9.4916,86.591 -5.7491,41.353 -21.102,81.232 -23.202,123.23 -1.4917,29.829 3.517,60.332 6.3278,89.922 1.5557,16.378 0.1142,36.916 5.0863,52.621"
      style="fill:none;stroke:#000000;stroke-width:3.5"
@@ -796,16 +797,19 @@
      xml:space="preserve"
      id="text1303"
      style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect1305);" />
-  <text
-     xml:space="preserve"
-     id="text1291-5"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0);fill:#000000;fill-opacity:1;stroke:none;"
-     transform="translate(1193.1747,788.86009)"
-     inkscape:transform-center-x="287.79494"
-     inkscape:transform-center-y="-4.5062806"><tspan
-       x="-98.890625"
-       y="-357.63352"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Al Terzo Luogo</tspan></tspan></text>
+  <a
+     id="a8190">
+    <text
+       xml:space="preserve"
+       id="text1291-5"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(1193.1747,788.86009)"
+       inkscape:transform-center-x="287.79494"
+       inkscape:transform-center-y="-4.5062806"><tspan
+         x="-98.890625"
+         y="-357.63352"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Al Terzo Luogo</tspan></tspan></text>
+  </a>
   <text
      xml:space="preserve"
      id="text1291-5-4"
@@ -920,8 +924,8 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Approdi</tspan></tspan></text>
   <a
      xlink:href="incontri/ri-creazione"
-     style="stroke:#000000;stroke-opacity:0.02148875"
-     id="a1719">
+     id="a1719"
+     style="stroke:#000000;stroke-opacity:0.02148875">
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0.02148875"
        id="rect1717"
@@ -932,8 +936,8 @@
   </a>
   <a
      xlink:href="incontri/equilibrismi"
-     style="stroke:#000000;stroke-opacity:0"
-     id="a1724">
+     id="a1724"
+     style="stroke:#000000;stroke-opacity:0">
     <rect
        style="fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
        id="rect1722"
@@ -945,8 +949,8 @@
   </a>
   <a
      xlink:href="incontri/affidamenti"
-     style="opacity:0"
-     id="a1729">
+     id="a1729"
+     style="opacity:0">
     <rect
        style="fill:#ff0000;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers"
        id="rect1727"
@@ -957,8 +961,8 @@
   </a>
   <a
      xlink:href="incontri/dal-terzo-paesaggio"
-     style="fill:none;stroke:#000000;stroke-opacity:0"
-     id="a1734">
+     id="a1734"
+     style="fill:none;stroke:#000000;stroke-opacity:0">
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
        id="rect1732"
@@ -969,8 +973,8 @@
   </a>
   <a
      xlink:href="incontri/spaesamenti"
-     style="stroke:#000000;stroke-opacity:0;fill:none;fill-opacity:0"
-     id="a1739">
+     id="a1739"
+     style="stroke:#000000;stroke-opacity:0;fill:none;fill-opacity:0">
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
        id="rect1737"
@@ -981,8 +985,8 @@
   </a>
   <a
      xlink:href="incontri/approdi"
-     style="fill:none;stroke:#000000;stroke-opacity:0"
-     id="a1744">
+     id="a1744"
+     style="fill:none;stroke:#000000;stroke-opacity:0">
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
        id="rect1742"
@@ -993,8 +997,8 @@
   </a>
   <a
      xlink:href="incontri/indecisioni"
-     style="stroke:#ffffff;stroke-opacity:0;fill:none"
-     id="a1749">
+     id="a1749"
+     style="stroke:#ffffff;stroke-opacity:0;fill:none">
     <rect
        style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
        id="rect1747"
@@ -1013,8 +1017,8 @@
      ry="0" />
   <a
      xlink:href="al-terzo-luogo"
-     style="stroke:#000000;stroke-opacity:0;fill:none"
-     id="a1761">
+     id="a1761"
+     style="stroke:#000000;stroke-opacity:0;fill:none">
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
        id="rect1759"
@@ -1032,8 +1036,8 @@
      y="673.69519" />
   <a
      xlink:href="incontri/spazi-di-indecisione"
-     style="fill:none;stroke:#000000;stroke-opacity:0"
-     id="a1772">
+     id="a1772"
+     style="fill:none;stroke:#000000;stroke-opacity:0">
     <rect
        style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
        id="rect1770"
@@ -1052,5 +1056,177 @@
        height="62.377632"
        x="910.151"
        y="1123.4042" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/indecisioni"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3"
+     transform="matrix(0.92507015,0,0,0.83848378,690.47122,-1416.2242)">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/improvvisazione"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-2"
+     transform="matrix(1.2794063,0,0,0.83848378,410.79673,-1305.0806)">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-7"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/al-terzo-luogo"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-0"
+     transform="matrix(1.1657932,0,0,0.83848378,286.22181,-1156.0419)">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-9"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/prima-la-pratica"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3"
+     transform="matrix(2.2869151,0,0,0.83848378,-692.80498,-871.75826)">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/spazi-di-indecisione"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0"
+     transform="matrix(1.56281,0,0,0.83848378,-179.06654,-647.98345)"
+     inkscape:transform-center-x="-89.353686"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/la-banda-del-terzo-luogo"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-2"
+     transform="matrix(2.0296519,0,0,0.83848378,-481.56343,-420.15736)"
+     inkscape:transform-center-x="-116.04543"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-6"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/spaesamenti"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-1"
+     transform="matrix(1.1123753,0,0,0.83848378,-328.74845,-637.23609)"
+     inkscape:transform-center-x="-63.600072"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-8"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/dal-terzo-paesaggio"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-1-7"
+     transform="matrix(1.5731187,0,0,0.83848378,-798.69619,-929.77704)"
+     inkscape:transform-center-x="-89.943081"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-8-9"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/affidamenti"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-1-7-2"
+     transform="matrix(0.93008577,0,0,0.83848378,-382.60213,-1129.9457)"
+     inkscape:transform-center-x="-53.177664"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-8-9-0"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/equilibrismi"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-1-7-2-2"
+     transform="matrix(0.93008577,0,0,0.83848378,-403.44819,-1299.9932)"
+     inkscape:transform-center-x="-53.177664"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-8-9-0-3"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/ri-creazione"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-1-7-2-2-7"
+     transform="matrix(1.0084095,0,0,0.83848378,-594.68265,-1437.5284)"
+     inkscape:transform-center-x="-57.655855"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-8-9-0-3-5"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
+  </a>
+  <a
+     xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/approdi"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-1-9"
+     transform="matrix(0.73905366,0,0,0.83848378,69.065723,-424.87496)"
+     inkscape:transform-center-x="-42.255403"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-8-2"
+       width="204.0694"
+       height="81.678093"
+       x="689.63275"
+       y="1838.382" />
   </a>
 </svg>

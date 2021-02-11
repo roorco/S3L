@@ -146,7 +146,9 @@ child_type: default
  <text transform="translate(1436.9 529.19)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Indecisioni</tspan></tspan></text>
  <text style="fill:black;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1299);white-space:pre" xml:space="preserve"/>
  <text style="fill:black;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1305);white-space:pre" xml:space="preserve"/>
- <text transform="translate(1193.2 788.86)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Al Terzo Luogo</tspan></tspan></text>
+ <a>
+  <text transform="translate(1193.2 788.86)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Al Terzo Luogo</tspan></tspan></text>
+ </a>
  <text transform="translate(397.75 1015.8)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-0);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Dal Terzo Paesaggio</tspan></tspan></text>
  <a href="prima-la-pratica">
   <text transform="translate(994.66 1073.7)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Prima la pratica, poi la teoria</tspan></tspan></text>
@@ -193,5 +195,41 @@ child_type: default
  </a>
  <a style="fill:none;stroke-opacity:0">
   <rect x="910.15" y="1123.4" width="429.72" height="62.378" style="fill:none;paint-order:stroke fill markers;stroke-opacity:0"/>
+ </a>
+ <a transform="matrix(.92507 0 0 .83848 690.47 -1416.2)" style="mix-blend-mode:multiply" href="indecisioni">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(1.2794 0 0 .83848 410.8 -1305.1)" style="mix-blend-mode:multiply" href="improvvisazione">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(1.1658 0 0 .83848 286.22 -1156)" style="mix-blend-mode:multiply" href="al-terzo-luogo">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(2.2869 0 0 .83848 -692.8 -871.76)" style="mix-blend-mode:multiply" href="prima-la-pratica">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(1.5628 0 0 .83848 -179.07 -647.98)" style="mix-blend-mode:multiply" href="spazi-di-indecisione">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(2.0297 0 0 .83848 -481.56 -420.16)" style="mix-blend-mode:multiply" href="la-banda-del-terzo-luogo">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(1.1124 0 0 .83848 -328.75 -637.24)" style="mix-blend-mode:multiply" href="spaesamenti">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(1.5731 0 0 .83848 -798.7 -929.78)" style="mix-blend-mode:multiply" href="dal-terzo-paesaggio">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(.93009 0 0 .83848 -382.6 -1129.9)" style="mix-blend-mode:multiply" href="affidamenti">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(.93009 0 0 .83848 -403.45 -1300)" style="mix-blend-mode:multiply" href="equilibrismi">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(1.0084 0 0 .83848 -594.68 -1437.5)" style="mix-blend-mode:multiply" href="ri-creazione">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ </a>
+ <a transform="matrix(.73905 0 0 .83848 69.066 -424.87)" style="mix-blend-mode:multiply" href="approdi">
+  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
  </a>
 </svg>
