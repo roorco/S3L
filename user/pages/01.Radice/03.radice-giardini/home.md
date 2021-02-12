@@ -1,3 +1,10 @@
+---
+title: Radice-giardini
+published: false
+child_type: default
+---
+
+
 <svg version="1.1" viewBox="0 0 1676.7 1881.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <path d="m934.33 1550.9c0-50.272-8.3849-105.87-22.147-154.16-5.0803-17.825-16.28-33.94-21.093-52.177-8.1406-30.848-13.215-66.706-16.874-98.803-4.0843-35.828 29.618-62.95 27.42-98.803-2.7496-44.86-19.721-88.337-28.475-132.11-6.6589-33.296-3.8242-69.532-7.3826-103.24-5.2132-49.388-18.906-93.912-31.489-141.59-8.8931-33.7-2.7859-90.292-4.2187-126.49-1.1592-29.287-6.4222-58.388-7.3823-87.701-2.2952-70.067-1.9701-139.78 1.0545-209.82 1.966-45.522 12.918-88.384 17.929-133.22 4.1104-36.776 18.427-161.06 13.022-176.9-2.119-6.2128-18.215-25.757-22.569-30.67-1.2554 37.937 4.3025 74.175 2.3545 112.1-1.4492 28.219-8.3285 50.38-12.656 77.71-6.8095 43.009-14.541 87.311-17.929 131-1.9081 24.605 0.8902 15.552 3.1639 39.965 3.2342 34.726 5.595 70.656 7.3823 105.46 1.5924 31.011-3.1639 61.231-3.1639 92.142 0 52.614 7.5529 96.515 1.0546 149.87-5.5394 45.48-13.779 90.1-21.092 135.44-5.0789 31.483-5.8427 10.353-8.4371 41.075-3.0792 36.463-2.6425 73.398-4.2187 109.9-1.8472 42.781-3.4517 58.074-2.242 100.94 0.37106 13.15-0.87641 44.807 0.54879 62.519 2.1905 27.223-18.642 103.1-23.618 136.27-7.9424 52.95-8.532 107.66-11.601 160.97-1.3117 22.784-8.2497 45.156-10.546 67.718-2.926 28.748-5.4976 57.862-9.4916 86.591-5.7491 41.353-21.102 81.232-23.202 123.23-1.4917 29.829 3.517 60.332 6.3278 89.922 1.5557 16.378 0.1142 36.916 5.0863 52.621" style="fill:none;stroke-width:3.5;stroke:#000"/>
  <path d="m1225.1 604.82c-6.911-6.3874-60.555-23.048-61.42-23.344-24.488-8.3651-42.62-22.07-59.888-32.858-6.7317-4.2052-9.8878-13.296-15.593-18.634-19.08-17.853-36.629-37.057-51.677-58.837-5.3782-7.7843-7.0678-18.675-14.487-27.46-25.027-29.637-24.186-63.889-46.898-97.093-17.776-25.988-49.155-46.192-61.265-74.003-14.399-33.07-31.496-68.396-37.403-104.17-5.8982-35.72-23.991-61.631-29.869-97.519-1.7511-10.691-2.6673-15.438-3.3751-26.249-0.7887-12.048-12.369-28.987-11.46-41.027-0.8485 16.167 10.611 16.85 20.63 37.592 10.068 20.844 11.834 31.821 12.656 34.414 10.977 34.663 13.809 76.988 32.694 108.79 13.819 23.275 33.326 40.472 48.513 62.168 8.765 12.521 15.68 28.448 27.42 38.855 18.483 16.384 41.65 27.879 61.041 43.188 22.012 17.378 43.565 36.194 65.028 54.073" style="fill:none;stroke-width:3;stroke:#000"/>
@@ -23,7 +30,7 @@
  <path d="m772.53 1200.9c-4.3128 5.3995-8.4128 10.951-12.191 16.736-5.9685 9.1383-11.599 18.435-17.273 27.752-2.4799 4.0723-5.4786 7.9761-7.273 12.441-5.413 13.468-2.5471 29.612-17.81 36.262" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m902.39 1142.3c-0.4047 12.2 3.8265 23.464 7.3097 34.831 2.9828 9.7335 5.6506 19.04 9.5458 28.47 2.2844 5.5306 5.3415 11.545 6.5912 17.465 1.4019 6.6404 2.2112 13.508 5.1947 19.788" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m876.51 1291.1c-0.017 24.725-5.5975 49.105-9.5458 73.448-0.8902 5.4885-0.2159 18.002-1.9794 22.529" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m779.78 1003.7c2.6508 9.2083 3.2736 19.173 5.5182 28.574 0.70023 2.9329 2.1924 5.6096 2.7274 8.6128 1.128 6.3327 1.168 13.488 3.1774 19.566 2.3282 7.0421 4.7811 13.91 7.0064 20.953" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m781.78 1003.7c2.6508 9.2083 3.2736 19.173 5.5182 28.574 0.70023 2.9329 2.1924 5.6096 2.7274 8.6128 1.128 6.3327 1.168 13.488 3.1774 19.566 2.3282 7.0421 4.7811 13.91 7.0064 20.953" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m862.84 901.47c-5.5347 13.099-4.3963 28.091-9.8471 41.206-4.0166 9.6641-9.2964 18.586-12.273 28.709-3.4058 11.582-4.5456 27.883-4.5456 39.954 0 2.6744 0.9091 5.192 0.9091 7.8551" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m880.8 1036.3c1.4573 3.4129 3.1138 6.7474 4.3719 10.238 0.8106 2.2492 1.2122 4.6254 1.8183 6.9381 0.9091 2.9507 1.6372 5.9634 2.7274 8.852 3.9795 10.544 12.643 22.643 20.228 30.862 4.0643 4.4041 8.7006 7.5388 12.728 11.962 2.4672 2.71 5.5453 6.057 7.273 9.3305 0.8843 1.6755 0.6238 2.6249 1.591 4.0671 1.455 2.1698 3.0766 3.7345 3.8638 6.2204" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m917.84 1429.3c-0.246 7.4226 0.9713 14.835 0.6818 22.25-0.5145 13.18-2.959 26.423-8.1821 38.518-3.968 9.1892-10.682 16.16-10.682 26.69" style="fill:none;stroke-width:1px;stroke:#000"/>
@@ -93,8 +100,8 @@
  <path d="m1128.4 169.57c21.853 1.8874 41.384-7.0432 61.588-14.132 3.3049-1.1596 6.8206-4.0547 10.116-5.3241 5.3072-2.0444 12.179-4.0938 17.506-6.5861 5.0274-2.352 10.27-7.0225 15.978-8.4255 5.0513-1.2416 7.9478-3.2 13.058-5.2171 8.8023-3.4746 17.971-5.3107 26.769-8.8724 3.9969-1.6181 6.9711-4.6672 10.748-6.6552" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m1185.6 38.706c15.38 5.816 12.689 5.2674 32.072 9.8014 26.282 6.1478 54.218 5.9905 80.295 12.645 20.668 5.2741 40.316 13.844 60.695 19.3 4.2382 1.1346 10.177 0.99952 14.724 1.9573 5.6505 1.19 10.947-1.8477 16.511-1.8477" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m703.18 33.454c-2.7805 3.1486-5.1061 6.7668-8.3414 9.4459-10.092 8.3568-21.913 14.014-32.244 21.962-13.288 10.222-24.367 22.052-36.67 33.276-6.0301 5.5012-14.117 8.2758-20.142 13.913-11.365 10.634-17.034 24.805-30.272 33.862-12.031 8.2319-24.528 15.508-37.302 21.962-6.9963 3.5349-14.827 5.4742-21.755 9.1206" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m465 86.014c-4.7056 2.3143-9.8532 3.89-14.117 6.9429-2.8539 2.0434-21.444 21.966-23.393 23.959-26.12 26.709-53.692 61.092-90.511 73.672" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m554.01 309.05c-25.744 26.308-34.327 63.574-58.16 91.169-10.938 12.665-24.835 23.6-37.935 33.941" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m465 88.014c-4.7056 2.3143-9.8532 3.89-14.117 6.9429-2.8539 2.0434-21.444 21.966-23.393 23.959-26.12 26.709-53.692 61.092-90.511 73.672" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m554.01 311.05c-25.744 26.308-34.327 63.574-58.16 91.169-10.938 12.665-24.835 23.6-37.935 33.941" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m695.36 237.27c-10.712 3.8961-21.148 8.6545-32.136 11.688-17.135 4.7313-35.733 4.7722-53.108 8.6518-9.3054 2.0777-18.598 4.2286-27.819 6.6552-11.609 3.0549-23.343 10.963-35.406 11.979-12.626 1.0632-25.802 0-38.453 0" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m805.31 65.61c-2.7321 9.0185-4.9242 18.219-8.1964 27.056-2.989 8.0722-24.214 34.402-30.348 41.262-7.766 8.6857-17.36 15.612-25.054 24.446-7.1995 8.2672-13.144 17.56-20.22 25.94-6.0143 7.1221-13.119 11.49-20.159 17.258-2.9855 2.4458-5.4201 5.997-8.1906 8.6217-5.7022 5.4021-14.637 9.8903-21.496 13.31-6.7665 3.3739-15.535 2.9473-22.761 5.3241-19.089 6.2793-38.18 14.027-58.419 15.211-14.583 0.8528-27.983-5.6748-42.36-3.9931-13.994 1.6369-22.999 11.842-35.182 17.917-7.7191 3.8489-22.703 4.6119-31.748 4.6119" style="fill:none;stroke-width:3;stroke:#000"/>
  <path d="m633.71 238c-5.3916-0.22183-10.785-0.39266-16.175-0.6655-7.9119-0.40056-27.739-1.2479-36.167-4.6369-5.9023-2.3733-11.986-8.9352-18.297-9.5428-9.5599-0.92035-19.067 1.1447-28.474-1.331" style="fill:none;stroke-width:1px;stroke:#000"/>
@@ -110,12 +117,12 @@
  <path d="m985.9 292.52c5.6035-0.32059 11.203-0.72207 16.81-0.96176 10.248-0.43803 19.94 3.6029 29.55 6.6047 3.951 1.2341 7.4049 3.7695 11.587 3.7695" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m983.74 362.24c21.534 14.139 44.331 28.238 68.76 34.59 5.5133 1.4336 9.9195 5.1336 15.974 5.1336" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m454.11 339.93c-0.17632 8.8752-8.0948 15.164-8.7282 23.831-0.14552 1.9912 0.46135 4.0471 0 5.9896-0.63375 2.6684-9.978 14.87-12.013 21.297-0.71499 2.2583-13.756 13.815-16.213 16.4" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m535.66 242.51c-14.36 0.68129-13.975 1.3903-29.437-1.3799-15.083-2.7024-29.249-9.0172-44.257-11.979-17.51-3.4559-37.104-5.8363-55.005-4.6586-5.1552 0.33916-10.316 1.331-15.468 1.331" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m531.66 242.51c-14.36 0.68129-13.975 1.3903-29.437-1.3799-15.083-2.7024-29.249-9.0172-44.257-11.979-17.51-3.4559-37.104-5.8363-55.005-4.6586-5.1552 0.33916-10.316 1.331-15.468 1.331" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m584.52 400.21c-15.323-2.9956-30.856-4.3006-46.034-8.1046-21.603-5.4143-34.048-11.085-54.192-1.6611" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m783.51 206.82c-9.2627 1.1744-18.867 0.7684-27.788 3.5232-3.9488 1.2194-6.3855 5.251-9.4837 7.9862-3.8272 3.3788-29.054 26.483-31.583 32.498-0.4109 0.97746 0.33435 2.1747 0 3.181-0.8198 2.4672-7.9222 10.73-9.039 12.14-8.6977 10.987-23.381 16.805-34.542 24.638" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m690.88 320.2c-17.964 0.59755-37.894-3.4495-55.793 0.13932-3.0209 0.60569-5.8253 2.0829-8.8514 2.662-12.714 2.4333-26.188 0.0345-38.902 0.0345" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m398.41 150.12c-1.1987 2.7223-2.9772 5.2574-3.596 8.1669-1.9144 15.618-1.6044 17.574-4.4257 29.948-2.2644 9.9317-8.2191 18.652-8.2191 29.104" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m367.43 104.31c-8.174 11.693-15.718 22.861-25.114 33.527" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m384.41 158.12c-1.1987 2.7223-2.9772 5.2574-3.596 8.1669-1.9144 15.618-1.6044 17.574-4.4257 29.948-2.2644 9.9317-8.2191 18.652-8.2191 29.104" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m367.43 100.31c-8.174 11.693-15.718 22.861-25.114 33.527" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m459.45 66.956c-7.7547-10.897-16.95-9.929-27.262-12.11-7.1981-1.5223-13.172-5.0869-20.254-7.0539-2.4848-0.69014-2.3155 0.14397-4.2482-1.1594" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m544.83 62.89c-12.019-6.5062-23.837-16.424-37.132-19.78" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m630.45 47.979c-10.826-6.9002-21.03-17.884-33.53-22.269" style="fill:none;stroke-width:1px;stroke:#000"/>
@@ -128,72 +135,31 @@
  <path d="m1045.4 164.79c8.0075 5.13 15.885 10.469 24.022 15.39 9.4648 5.7233 47.761 12.473 59.563 12.473" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m982.63 116.36c22.971-3.5914 49.715-7.0286 66.227-24.38" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m1083.8 140.6c6.7553 12.284 19.465 15.791 31.434 20.803 1.5107 0.63265 3.9925 0.20452 5.1838 1.2041 2.693 2.2595 5.2836 4.6384 7.9254 6.9576" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m482.26 150.26c-12.97 9.9924-27.347 17.274-39.902 27.186" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m482.26 148.26c-12.97 9.9924-27.347 17.274-39.902 27.186" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m524.93 356.45c6.7719 12.304 6.4604 25.259 6.4604 38.836" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m442.57 100.76c0.73529 10.068-0.33321 21.409 1.7315 31.589" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m410.02 84.4c-11.492 16.04-11.132 15.763-13.909 30.094" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m698.47 658.08c-2.7034 7.8076-6.2703 15.368-8.1102 23.423-0.67076 2.9365 4.0827 25.091 4.9809 31.445 0.53857 3.8098 2.4745 6.9513 2.4745 10.806" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m714.97 903.25c1.619 18.891-14.799 30.091-26.055 42.729-8.385 9.4147-10.722 18.565-21.529 26.725" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m679.62 690.36c-2.7034 7.8076-6.2703 15.368-8.1102 23.423-0.67076 2.9365 4.0827 25.091 4.9809 31.445 0.53857 3.8098 2.4745 6.9513 2.4745 10.806" style="fill:none;stroke-width:1px;stroke:#000"/>
+ <path d="m710.97 917.25c1.619 18.891-14.799 30.091-26.055 42.729-8.385 9.4147-10.722 18.565-21.529 26.725" style="fill:none;stroke-width:1px;stroke:#000"/>
  <path d="m756.21 737.31c0.23798 22.643 12.215 42.115 16.371 63.749" style="fill:none;stroke-width:1px;stroke:#000"/>
- <path d="m685.07 1029.8c-12.624 24.9-1.136 47.441 12.041 68.78 9.1034 14.742 2.5936 1.5026 6.2662 9.2344" style="fill:none;stroke-width:1px;stroke:#000"/>
- <text transform="translate(1436.9 529.19)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Indecisioni</tspan></tspan></text>
+ <path d="m691.07 1029.8c-12.624 24.9-1.136 47.441 12.041 68.78 9.1034 14.742 2.5936 1.5026 6.2662 9.2344" style="fill:none;stroke-width:1px;stroke:#000"/>
  <text style="fill:black;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1299);white-space:pre" xml:space="preserve"/>
  <text style="fill:black;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1305);white-space:pre" xml:space="preserve"/>
- <a>
-  <text transform="translate(1193.2 788.86)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Al Terzo Luogo</tspan></tspan></text>
- </a>
- <text transform="translate(397.75 1015.8)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-0);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Dal Terzo Paesaggio</tspan></tspan></text>
- <a xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/02.radicefoot/prima-la-pratica">
-  <text transform="translate(994.66 1073.7)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Prima la pratica, poi la teoria</tspan></tspan></text>
- </a>
- <text transform="translate(1026.3 1524.5)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">La banda del Terzo Luogo</tspan></tspan></text>
- <text transform="translate(1001.4 1295.3)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-6);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Spazi di indecisione</tspan></tspan></text>
- <a xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/02.radicefoot/incontri/improvvisazione">
-  <text transform="translate(1395.3 638.54)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-6-1);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Improvvisazione</tspan></tspan></text>
- </a>
- <text transform="translate(204.65 506.35)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-6-1-5);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Ri-Creazione</tspan></tspan></text>
- <text transform="translate(552.11 1304)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-9);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Spaesamenti</tspan></tspan></text>
  <text style="fill:black;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1602);white-space:pre" xml:space="preserve"/>
- <text transform="translate(342.61 641.79)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-9-8);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Equilibrismi</tspan></tspan></text>
- <text transform="translate(366.93 810.63)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-9-8-7);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Affidamenti</tspan></tspan></text>
- <text transform="translate(693.87 1519.5)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-9-8-7-5);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Approdi</tspan></tspan></text>
- <a transform="matrix(.78821 0 0 .75247 67.019 108.35)" style="mix-blend-mode:multiply;opacity:0" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/02.radicefoot/incontri/affidamenti">
-  <rect x="255.31" y="411.04" width="224.8" height="59.658" style="fill:#fff;paint-order:stroke fill markers;stroke-width:1.6;stroke:#000"/>
+ <text transform="translate(343.41 1284.3)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-3);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Diventare Giardino - Palermo</tspan></tspan></text>
+ <a transform="matrix(2.253 0 0 .83848 -1443.8 -666.35)" style="mix-blend-mode:multiply" xlink:href="palermo">
+  <rect x="745.33" y="1849.3" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
  </a>
- <a style="fill:none;stroke-opacity:0" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/02.radicefoot/incontri/spazi-di-indecisione">
-  <rect x="883.91" y="888.05" width="342.04" height="74.67" style="fill:none;paint-order:stroke fill markers;stroke-opacity:0"/>
+ <text transform="translate(993.08 1069)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-31);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Asfalto Mon Amour - Lecce</tspan></tspan></text>
+ <a transform="matrix(2.1071 0 0 .83848 -685.47 -881.72)" style="mix-blend-mode:multiply" xlink:href="lecce">
+  <rect x="745.33" y="1849.3" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
  </a>
- <a transform="matrix(.83756 0 0 .4898 761.49 -761.8)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/indecisioni">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ <text transform="translate(291.1 917.68)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-5);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Place du Vallon - Losanna</tspan></tspan></text>
+ <a xlink:href="losanna">
+  <rect x="180.8" y="515.79" width="430" height="68.486" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
  </a>
- <a transform="matrix(1.2563 0 0 .56314 427.85 -788.66)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/improvvisazione">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(1.1047 0 0 .56623 332.38 -645.21)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/al-terzo-luogo">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(2.2295 0 0 .58227 -649.13 -390.82)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/prima-la-pratica">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(1.5628 0 0 .83848 -177.07 -647.98)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/spazi-di-indecisione">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(1.9617 0 0 .65257 -429.36 -73.11)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/la-banda-del-terzo-luogo">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(1.0092 0 0 .65567 -246.89 -295.77)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/spaesamenti">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(1.5539 0 0 .58466 -779.09 -453.41)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/dal-terzo-paesaggio">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(.93009 0 0 .83848 -402.35 -1303.6)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/equilibrismi">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(1.0084 0 0 .83848 -594.68 -1437.5)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/ri-creazione">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
- </a>
- <a transform="matrix(.60844 0 0 .64815 172.09 -67.044)" style="mix-blend-mode:multiply" xlink:href="file:///home/boro/Http/S3L/01.Pages/01.Radice/approdi">
-  <rect x="689.63" y="1838.4" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
+ <text transform="translate(1229.2 710.78)" style="fill:#000000;font-family:sans-serif;font-size:40px;line-height:1.25;shape-inside:url(#rect1293-0-1-9-31-6);white-space:pre" xml:space="preserve"><tspan x="-98.890625" y="-357.63352"><tspan style="font-family:'Advent Pro'">Giardini Venerdì - Matera</tspan></tspan></text>
+ <a transform="matrix(1.9638 0 0 .83848 -340.95 -1239.2)" style="mix-blend-mode:multiply" xlink:href="matera">
+  <rect x="745.33" y="1849.3" width="204.07" height="81.678" style="fill:#fff;mix-blend-mode:multiply;paint-order:stroke fill markers"/>
  </a>
 </svg>
