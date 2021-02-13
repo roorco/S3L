@@ -2,6 +2,20 @@
 title: Radice
 published: true
 child_type: default
+body_classes: ''
+aura:
+    pagetype: website
+    description: 'Radice del sito della Scuola del Terzo Luogo'
+    image: logoS3L+.svg
+    metadata:
+        'terzo Luogo': ''
+        Puglia: ''
+        Lecce: ''
+        ' Giardini': ''
+        ' Gilles Clement': ''
+        'Tiers Paysage,': ''
+        ' Terzo Paesaggio': ''
+        ' Tiers Lieux': ''
 ---
 
 <svg version="1.1" viewBox="0 0 1541.9 2158.2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">

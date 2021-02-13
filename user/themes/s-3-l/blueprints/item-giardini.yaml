@@ -1,0 +1,46 @@
+extends@:
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        advanced:
+          fields:
+            overrides:
+              fields:
+
+        blog:
+          type: tab
+          title: Autori Collaborazioni Date
+
+          fields:
+
+            content_title:
+              type: spacer
+              title: Dettagli del progetto
+
+
+            header.content.autori:
+              type: textarea
+              label: Autori, singoli o collettivi.
+              validate:
+                type: str
+
+            header.content.collaboration:
+              type: textarea
+              label: Collaboratori, aiutanti, chi ha partecipato
+              validate:
+                type: str
+
+            header.content.date:
+
+              type: textarea
+              label: Data in cui si è cominciato questo giardino
+              validate:
+                type: str
+

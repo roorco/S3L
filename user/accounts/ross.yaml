@@ -1,19 +1,24 @@
 state: enabled
 email: rossella.tricarico@gmail.com
+fullname: Rossella
+hashed_password: $2y$10$HKRQkBRhOMCCsVpYb2r2HOxVDEMkw8KZAXsgD9t8st2GPE5Hoob.W
+_json:
+  avatar: '[]'
+  state: '"enabled"'
+  hashed_password: '"$2y$10$HKRQkBRhOMCCsVpYb2r2HOxVDEMkw8KZAXsgD9t8st2GPE5Hoob.W"'
+language: it
+content_editor: default
+twofa_enabled: false
+twofa_secret: QDI3TMAYV7EPUVI4RE2RDDSBMB7UNGJV
+avatar: {  }
 access:
   site:
     login: true
   admin:
     login: true
-    super: true
+    super: false
     cache: false
-    configuration:
-      system: false
-      site: false
-      media: false
-      info: false
-      pages: false
-      users: false
+    configuration: false
     pages: true
     maintenance: false
     statistics: false
@@ -26,15 +31,3 @@ access:
     users: false
     groups: false
     users_expert: false
-fullname: Rossella
-title: null
-hashed_password: $2y$10$HKRQkBRhOMCCsVpYb2r2HOxVDEMkw8KZAXsgD9t8st2GPE5Hoob.W
-_json:
-  avatar: '[]'
-  state: '"enabled"'
-  hashed_password: '"$2y$10$HKRQkBRhOMCCsVpYb2r2HOxVDEMkw8KZAXsgD9t8st2GPE5Hoob.W"'
-password: null
-language: it
-content_editor: default
-twofa_enabled: false
-twofa_secret: QDI3TMAYV7EPUVI4RE2RDDSBMB7UNGJV

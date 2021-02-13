@@ -7,9 +7,9 @@ icon: rebel
 author:
   name: BORO
   email: roorco@gmail.com
-homepage: https://github.com/ro_orco/grav-theme-s-3-l
+  homepage: https://scuoladelterzoluogo.it
 demo: http://demo.yoursite.com
-keywords: grav, theme, etc
+keywords: grav, theme, quark
 bugs: https://github.com/ro_orco/grav-theme-s-3-l/issues
 readme: https://github.com/ro_orco/grav-theme-s-3-l/blob/develop/README.md
 license: MIT

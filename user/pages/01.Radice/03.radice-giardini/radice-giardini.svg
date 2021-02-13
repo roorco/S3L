@@ -183,19 +183,54 @@
        width="1036.6198"
        height="206.42554"
        id="rect1689" />
-    <filter
-       inkscape:collect="always"
-       style="color-interpolation-filters:sRGB"
-       id="filter11436"
-       x="-6.0559289e-05"
-       width="1.0001211"
-       y="-0.00041279476"
-       height="1.0008256">
-      <feGaussianBlur
-         inkscape:collect="always"
-         stdDeviation="0.011779401"
-         id="feGaussianBlur11438" />
-    </filter>
+    <rect
+       x="-98.891151"
+       y="-394.86172"
+       width="1036.6198"
+       height="206.42554"
+       id="rect1293-0-1-9-3" />
+    <rect
+       x="-98.891151"
+       y="-394.86172"
+       width="1036.6198"
+       height="206.42554"
+       id="rect22711" />
+    <rect
+       x="-98.891151"
+       y="-394.86172"
+       width="1036.6198"
+       height="206.42554"
+       id="rect1293-0-1-9-31" />
+    <rect
+       x="-98.891151"
+       y="-394.86172"
+       width="1036.6198"
+       height="206.42554"
+       id="rect22711-9" />
+    <rect
+       x="-98.891151"
+       y="-394.86172"
+       width="1036.6198"
+       height="206.42554"
+       id="rect1293-0-1-9-5" />
+    <rect
+       x="-98.891151"
+       y="-394.86172"
+       width="1036.6198"
+       height="206.42554"
+       id="rect22711-0" />
+    <rect
+       x="-98.891151"
+       y="-394.86172"
+       width="1036.6198"
+       height="206.42554"
+       id="rect1293-0-1-9-31-6" />
+    <rect
+       x="-98.891151"
+       y="-394.86172"
+       width="1036.6198"
+       height="206.42554"
+       id="rect23663" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -207,12 +242,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1008"
+     inkscape:window-height="1080"
      id="namedview324"
      showgrid="false"
      inkscape:zoom="0.46345721"
-     inkscape:cx="796.27692"
-     inkscape:cy="799.89551"
+     inkscape:cx="776.85765"
+     inkscape:cy="758.18285"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -780,7 +815,7 @@
      id="path1283" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     d="m 712.96827,903.24917 c 1.61905,18.8911 -14.79942,30.09076 -26.05508,42.72863 -8.38505,9.41474 -10.722,18.5646 -21.52943,26.7253"
+     d="m 710.96827,917.24917 c 1.61905,18.8911 -14.79942,30.09076 -26.05508,42.72863 -8.38505,9.41474 -10.722,18.5646 -21.52943,26.7253"
      id="path1285" />
   <path
      style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -802,150 +837,100 @@
      xml:space="preserve"
      id="text1600"
      style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect1602);" />
-  <a
-     xlink:href="incontri/approdi"
-     style="fill:none;stroke:#000000;stroke-opacity:0"
-     id="a1744">
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
-       id="rect1742"
-       width="155.29356"
-       height="72.825287"
-       x="574.26599"
-       y="1116.5785" />
-  </a>
-  <a
-     xlink:href="al-terzo-luogo"
-     style="stroke:#000000;stroke-opacity:0;fill:none"
-     id="a1761">
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
-       id="rect1759"
-       width="246.23782"
-       height="64.492371"
-       x="1084.2841"
-       y="384.73419" />
-  </a>
-  <rect
-     style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;paint-order:stroke fill markers;stroke-opacity:0"
-     id="rect1764"
-     width="481.53995"
-     height="69.214066"
-     x="884.3266"
-     y="673.69519" />
-  <a
-     xlink:href="prima-la-pratica"
-     transform="translate(6.113696,2.785228)"
-     id="a1766">
-    <text
-       xml:space="preserve"
-       id="text1291-5-7"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0-1);fill:#000000;fill-opacity:1;stroke:none;"
-       transform="translate(994.65663,1073.7333)"
-       inkscape:transform-center-x="287.79494"
-       inkscape:transform-center-y="-4.5062806"><tspan
-         x="-98.890625"
-         y="-357.63352"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Place du Vallon - Losanna</tspan></tspan></text>
-  </a>
-  <a
-     id="a11441"
-     xlink:href="file:///home/boro/losanna"
-     transform="translate(-60,-60)">
-    <rect
-       style="mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.84449;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect3039-6-5-6"
-       width="424.68515"
-       height="52.158974"
-       x="954.18817"
-       y="741.78351" />
-  </a>
-  <text
-     xml:space="preserve"
-     id="text1291-5-7-3"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0-1-9);fill:#000000;fill-opacity:1;stroke:none;"
-     transform="translate(994.3486,1306.3552)"
-     inkscape:transform-center-x="287.79494"
-     inkscape:transform-center-y="-4.5062806"><tspan
-       x="-98.890625"
-       y="-357.63352"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Asfalto Mon Amour - Lecce</tspan></tspan></text>
-  <a
-     id="a1777"
-     style="fill:none;stroke:#000000;stroke-opacity:0"
-     transform="translate(-31.98102,-218.10058)">
-    <rect
-       style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;paint-order:stroke fill markers"
-       id="rect1775"
-       width="429.72284"
-       height="62.377632"
-       x="910.151"
-       y="1123.4042" />
-  </a>
-  <a
-     xlink:href="file:///home/boro/lecce"
-     style="mix-blend-mode:multiply"
-     id="a3151-3-3-3-0-2"
-     transform="matrix(2.1071328,0,0,0.83848378,-563.44485,-638.14986)"
-     inkscape:transform-center-x="-120.47542"
-     inkscape:transform-center-y="-211.28655">
-    <rect
-       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
-       id="rect3039-6-5-6-6-6"
-       width="204.0694"
-       height="81.678093"
-       x="689.63275"
-       y="1838.382" />
-  </a>
-  <a
-     id="a16798"
-     xlink:href="file:///home/boro/matera">
-    <g
-       id="g11476"
-       transform="translate(77.36416,-323.00823)">
-      <text
-         xml:space="preserve"
-         id="text1291-5-7-3-1-8"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0-1-9-9-8);fill:#000000;fill-opacity:1;stroke:none;"
-         transform="translate(309.66293,1616.2162)"
-         inkscape:transform-center-x="287.79494"
-         inkscape:transform-center-y="-4.5062806"><tspan
-           x="-98.890625"
-           y="-357.63352"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Giardini Venerdì - Matera</tspan></tspan></text>
-      <a
-         xlink:href="matera"
-         id="a16790">
-        <rect
-           style="mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.04565;stroke-opacity:1;paint-order:stroke fill markers"
-           id="rect3039-6-5-6-6-8-9-0-3"
-           width="397.8374"
-           height="68.485756"
-           x="205.90762"
-           y="1210.3998" />
-      </a>
-    </g>
-  </a>
   <text
      xml:space="preserve"
      id="text1291-5-7-3-1"
-     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0-1-9-9);fill:#000000;fill-opacity:1;stroke:none;"
-     transform="translate(219.25948,897.27978)"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0-1-9-3);fill:#000000;fill-opacity:1;stroke:none;"
+     transform="translate(343.41041,1284.34)"
      inkscape:transform-center-x="287.79494"
      inkscape:transform-center-y="-4.5062806"><tspan
        x="-98.890625"
        y="-357.63352"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Diventare Giardino - Palermo</tspan></tspan></text>
   <a
-     id="a11444"
      xlink:href="file:///home/boro/palermo"
-     transform="translate(6.5455018,-65.40465)">
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-2-2"
+     transform="matrix(2.2529506,0,0,0.83848378,-1443.8192,-666.35064)"
+     inkscape:transform-center-x="-128.81248"
+     inkscape:transform-center-y="-211.28655">
     <rect
-       style="mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.21592;stroke-opacity:1;paint-order:stroke fill markers;filter:url(#filter11436)"
-       id="rect3039-6-5-6-6-8-9-0-3-8"
-       width="466.82452"
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-6-9"
+       width="204.0694"
+       height="81.678093"
+       x="745.33441"
+       y="1849.2522" />
+  </a>
+  <text
+     xml:space="preserve"
+     id="text1291-5-7-3-7"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0-1-9-31);fill:#000000;fill-opacity:1;stroke:none;"
+     transform="translate(993.079,1068.9724)"
+     inkscape:transform-center-x="287.79494"
+     inkscape:transform-center-y="-4.5062806"><tspan
+       x="-98.890625"
+       y="-357.63352"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Asfalto Mon Amour - Lecce</tspan></tspan></text>
+  <a
+     xlink:href="file:///home/boro/lecce"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-2-8"
+     transform="matrix(2.1071328,0,0,0.83848378,-685.46757,-881.71829)"
+     inkscape:transform-center-x="-120.47542"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-6-4"
+       width="204.0694"
+       height="81.678093"
+       x="745.33441"
+       y="1849.2522" />
+  </a>
+  <text
+     xml:space="preserve"
+     id="text1291-5-7-3-6"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0-1-9-5);fill:#000000;fill-opacity:1;stroke:none;"
+     transform="translate(291.10164,917.6813)"
+     inkscape:transform-center-x="287.79494"
+     inkscape:transform-center-y="-4.5062806"><tspan
+       x="-98.890625"
+       y="-357.63352"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Place du Vallon - Losanna</tspan></tspan></text>
+  <a
+     id="a22831"
+     xlink:href="file:///home/boro/losanna">
+    <rect
+       style="mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.12673;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-6-0"
+       width="430.00131"
        height="68.485756"
-       x="104.2349"
-       y="560.42395" />
+       x="180.79927"
+       y="515.7851" />
+  </a>
+  <text
+     xml:space="preserve"
+     id="text1291-5-7-3-7-3"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1293-0-1-9-31-6);fill:#000000;fill-opacity:1;stroke:none;"
+     transform="translate(1229.192,710.7817)"
+     inkscape:transform-center-x="287.79494"
+     inkscape:transform-center-y="-4.5062806"><tspan
+       x="-98.890625"
+       y="-357.63352"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Advent Pro';-inkscape-font-specification:'Advent Pro'">Giardini Venerdì - Matera</tspan></tspan></text>
+  <a
+     xlink:href="file:///home/boro/matera"
+     style="mix-blend-mode:multiply"
+     id="a3151-3-3-3-0-2-8-2"
+     transform="matrix(1.9637718,0,0,0.83848378,-340.95437,-1239.2422)"
+     inkscape:transform-center-x="-112.27875"
+     inkscape:transform-center-y="-211.28655">
+    <rect
+       style="opacity:1;mix-blend-mode:multiply;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.6;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3039-6-5-6-6-6-4-0"
+       width="204.0694"
+       height="81.678093"
+       x="745.33441"
+       y="1849.2522" />
   </a>
 </svg>

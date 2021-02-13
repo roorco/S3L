@@ -4,6 +4,9 @@ show_sidebar: false
 media_order: 'Lecce_Knos-AsfaltoMonAmour00.jpg,k-31_16811321790_o.jpg,Lecce_Knos-AsfaltoMonAmour01.jpg,Lecce_Knos-AsfaltoMonAmour02.jpg,Lecce_Knos-AsfaltoMonAmour03.jpg'
 feed:
     limit: 10
+aura:
+    pagetype: website
+content: {  }
 ---
 
 ![La prima picconata nell'asfalto](Lecce_Knos-AsfaltoMonAmour01.jpg "La prima picconata nell'asfalto")
