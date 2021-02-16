@@ -1,9 +1,11 @@
 ---
-title: Spasesamenti
+title: Spaesamenti
 published: true
-media_order: '2materialisitoevento.jpg,knos_spaesamenti_3.jpg,knos_spaesamenti.jpg,knos_spaesamenti_1.jpg'
+media_order: '2materialisitoevento.jpg,knos_spaesamenti.jpg,knos_spaesamenti_3.jpg,knos_spaesamenti_1.jpg'
 feed:
     limit: 10
+aura:
+    pagetype: website
 ---
 
 ![](2materialisitoevento.jpg)
@@ -16,36 +18,29 @@ Ma è uno spaesamento ricco e fecondo, che, a ben vedere, ha a che fare con un a
 
 Tale spaesamento non deriva solo dall’arrivare in un luogo sconosciuto o inaudito. Ci si può spaesare senza andare via, restando presso di sé, perdendo i riferimenti usuali. Come quando appare qualcosa proprio lì dove c’era da sempre qualcos’altro. Come quando una musica o un quadro ci trasportano altrove. Come quando una poesia, da sola in un cassetto, istituisce un mondo nuovo.
 
+![](knos_spaesamenti_3.jpg)
 
 Tra i tanti ospiti, saranno con noi:
 
 Il paesaggista e giardiniere Gilles Clément / L'architetto, urbanista e docente Angela Barbanente / L'architetto e territorialista Alberto Magnaghi / I filosofi François Fédier e Alexandre Schild / Il regista Michelangelo Frammartino / L'architetto e scenografo Patrick Bouchain / Il collettivo di architetti e paesaggisti Paysagistes Sans Frontières / I musicisti Stéphane Blok e Louis Schild.
 
- 
 
-/// Micro-interventi ///
-
-
+**Micro-interventi**
 
 Picconare il pavimento del Knos per piantarci un mandarino, montare all’interno una grande altalena, aprire un varco nel muro di cinta per creare un dialogo con il vicinato, accogliere le piante nel bar, esplorare lo spazio con il movimento del proprio corpo, sviluppare un’incursione sonora: queste sono alcune delle proposte già raccolte.
 
 Ce ne aspettiamo molte altre per mutare lo sguardo su ciò che ci circonda, per lasciarci spaesare da ciò che vedremo accadere.
-
 Ciascuno può unirsi liberamente agli interventi degli altri o proporne di nuovi, nella completa autogestione.
-
 A disposizione: un banco degli attrezzi da falegnameria e da giardinaggio, piani di lavoro sparsi nell’open space, tutto ciò che ciascuno vorrà portare e condividere con gli altri.
 
 I luoghi di intervento: 4000 mq al coperto (le Manifatture Knos), 10000 all’aperto (l’ex parcheggio adiacente le Manifatture Knos), una cava dismessa (a Borgo San Nicola).
 
 Luoghi che possono diventare con le nostre azioni sempre più accoglienti a ogni forma di diversità umana, animale o vegetale.
-
 Tutti avranno modo di confrontarsi sul senso di tali interventi con Gilles Clément, Paysagistes sans frontières, François Fédier, Alberto Magnaghi, Angela Barbanente, Massimo Amato, Alexandre Schild, la comunità del Terzo Luogo e gli abitanti del Knos.
 
- 
+![](knos_spaesamenti.jpg)
 
-/// Manifesto ///
-
-
+**Manifesto**
 
 Perché le Manifatture Knos? Spontaneità, indecisione, spaesamento.
 
@@ -65,11 +60,9 @@ Le idee raccolte nel Manifesto saranno un modo per ripensare e comunicare il sen
 
 Nella redazione finale del manifesto ci aiuteranno Gilles Clément, Alberto Magnaghi, François Fédier, Michelangelo Frammartino, Angela Barbanente, Alexandre Schild, Paysagistes Sans Frontières, Massimo Amato.
 
+![](knos_spaesamenti_1.jpg)
  
-
-/// Progettare la Scuola dell’Indecisione ///
-
-
+**Progettare la Scuola dell’Indecisione**
 
 Nel corso delle precedenti edizioni degli Incontri del Terzo Luogo abbiamo intrapreso un percorso negli spazi dell’Indecisione che ci ha permesso di operare attraverso momenti di incontro, di scambio, di confronto, di azione e di attesa.
 
@@ -85,10 +78,7 @@ La scuola dell’indecisione vuole sperimentare nuove forme di pedagogia ridiscu
 
 Le attività della Scuola dell’Indecisione sono realizzate nell’ambito di Creative Lenses: Business Models for Culture progetto europeo sui modelli di sostenibilità economica dei centri culturali, di cui le Manifatture Knos sono partner insieme a: Trans Europe Halles (TEH); IETM – network for contemporary performing arts; centro culturale Vyrsodepseio (Atene); centro culturale Stanica (Zilina, Slovacchia); centro culturale P60 (Amstelveen, Olanda); centro culturale Village Underground (Londra); University of the Arts of London; Università della Basilicata (Matera); città di Lund (Svezia); Olivearte (UK); Creative Industry of Kosice (Slovacchia).
 
- 
-
-/// Il Cinema del Terzo Luogo ///
-
+**Il Cinema del Terzo Luogo**
 
 Dalla collaborazione con l’Apulia Film Commission nasce una nuova rassegna cinematografica sul paesaggio e le sue possibili declinazioni. Questa prima edizione del Cinema del Terzo luogo coinvolge tre autori del panorama cinematografico contemporaneo italiano che negli anni hanno affrontato il tema con un approccio che si colloca a metà tra film e documentario. Il programma prevede la proiezione de Le quattro volte (2010), di Michelangelo Frammartino, nella serata di domenica 9 aprile, de I cormorani (2016), di Fabio Bobbio, e del cortometraggio Con il vento (2016), di Claudio Romano, nella serata di lunedì 10 aprile. Le proiezioni verranno introdotte dal critico Luigi Abiusi che si confronterà di volta in volta con i registi e il pubblico presenti in sala.
 Tutte le proiezioni della rassegna si terranno nel CINELAB, la nuova sala del Cineporto dedicata a Giuseppe Bertolucci.
