@@ -1,12 +1,10 @@
 ---
-title: 'Asfalto Mon Amour - Lecce'
-show_sidebar: false
-media_order: 'Lecce_Knos-AsfaltoMonAmour00.jpg,k-31_16811321790_o.jpg,Lecce_Knos-AsfaltoMonAmour01.jpg,Lecce_Knos-AsfaltoMonAmour02.jpg,Lecce_Knos-AsfaltoMonAmour03.jpg'
-feed:
-    limit: 10
+title: 'Asfalto Mon Amour'
 aura:
     pagetype: website
-content: {  }
+content:
+    autori: 'Coloco, Scuola del Terzo Luogo'
+    date: '2008'
 ---
 
 ![La prima picconata nell'asfalto](Lecce_Knos-AsfaltoMonAmour01.jpg "La prima picconata nell'asfalto")

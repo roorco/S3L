@@ -1,6 +1,5 @@
 absolute_urls: false
 timezone: null
-default_locale: null
 param_sep: ':'
 wrapped_site: false
 reverse_proxy_setup: false
@@ -19,16 +18,19 @@ languages:
   supported: null
   default_lang: null
   include_default_lang: true
-  pages_fallback_only: false
+  include_default_lang_file_extension: true
   translations: true
   translations_fallback: true
   session_store_active: false
   http_accept_language: false
   override_locale: false
+  content_fallback: {  }
+  pages_fallback_only: false
 home:
   alias: /radice
   hide_in_urls: true
 pages:
+  type: regular
   theme: s-3-l
   order:
     by: default
@@ -148,6 +150,8 @@ log:
     facility: local6
 debugger:
   enabled: true
+  provider: debugbar
+  censored: true
   shutdown:
     close_connection: true
   twig: true
@@ -158,6 +162,8 @@ images:
   debug: false
   auto_fix_orientation: false
   seofriendly: false
+  defaults:
+    loading: auto
 media:
   enable_media_timestamp: false
   unsupported_inline_types: null
@@ -172,6 +178,7 @@ session:
   uniqueness: path
   secure: false
   httponly: true
+  samesite: Lax
   split: true
   path: null
 gpm:
@@ -181,8 +188,19 @@ gpm:
   verify_peer: true
   official_gpm_only: true
 accounts:
-  type: data
+  type: regular
   storage: file
+flex:
+  cache:
+    index:
+      enabled: true
+      lifetime: 60
+    object:
+      enabled: true
+      lifetime: 600
+    render:
+      enabled: true
+      lifetime: 600
 strict_mode:
   yaml_compat: true
   twig_compat: true

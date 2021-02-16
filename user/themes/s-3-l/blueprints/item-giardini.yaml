@@ -38,7 +38,6 @@ form:
                 type: str
 
             header.content.date:
-
               type: textarea
               label: Data in cui si è cominciato questo giardino
               validate:
