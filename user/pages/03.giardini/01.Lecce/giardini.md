@@ -3,8 +3,9 @@ title: 'Asfalto Mon Amour'
 aura:
     pagetype: website
 content:
-    autori: 'Coloco, Scuola del Terzo Luogo'
+    autori: "Coloco, Scuola del Terzo Luogo"
     date: '2008'
+    luogo: Lecce
 ---
 
 ![La prima picconata nell'asfalto](Lecce_Knos-AsfaltoMonAmour01.jpg "La prima picconata nell'asfalto")

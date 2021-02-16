@@ -5,7 +5,7 @@ sitemap:
 body_classes: 'header-light header-transparent'
 custom: 'new thing'
 blog_url: /blog
-show_sidebar: false
+show_sidebar: true
 show_breadcrumbs: true
 show_pagination: true
 content:

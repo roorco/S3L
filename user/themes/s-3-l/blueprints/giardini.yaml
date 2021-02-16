@@ -16,7 +16,7 @@ form:
 
         blog:
           type: tab
-          title: Autori Collaborazioni Date
+          title: Chi? Dove? Quando?
 
           fields:
 
@@ -31,15 +31,21 @@ form:
               validate:
                 type: str
 
-            header.content.collaboration:
+            header.content.collab:
               type: textarea
-              label: Collaboratori, aiutanti, chi ha partecipato
+              label: Collaboratori, aiutanti, partecipanti
               validate:
                 type: str
 
             header.content.date:
               type: textarea
-              label: Data in cui si è cominciato questo giardino
+              label: Quando è stato realizzato?
               validate:
                 type: str
 
+
+            header.content.luogo:
+              type: textarea
+              label: Dove si trova?
+              validate:
+                type: str
