@@ -11,7 +11,10 @@
     </div>
 {% endif %}
     <div class="e-content">
-        {{ page.content|raw }}
+        {#{ page.content|raw }#}
+        {% for i in media %}
+            {{ i.lightbox(1200).cropResize(800).html('{{meta.author, meta.alt}}') |raw }}
+        {% endfor%}
     </div>
 
     {% if page.header.continue_link is same as(true) and config.plugins.comments.enabled %}

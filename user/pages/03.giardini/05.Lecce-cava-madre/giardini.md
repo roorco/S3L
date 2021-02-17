@@ -1,12 +1,11 @@
 ---
 title: 'Cava Madre - Lecce'
+grid-size: grid-xl
+show_sidebar: true
 aura:
     pagetype: website
 media_order: '20a.jpg,20.jpg,borgo san nicola_cava.jpg,borgo san nicola_cava 4.jpg,borgo san nicola_cava 3.jpg,borgo san nicola_cava 2.jpg'
 ---
-
-![](20a.jpg)
-![](borgo%20san%20nicola_cava%204.jpg)
 
 “Il meno possibile contro, il più possibile a favore” è un modo per trasformare e gestire?
 Cosa succede se si chiede alla Municipalità di avere l’autorizzazione per fare un workshop con il famoso giardiniere Gilles Clément su uno splendido parco abbandonato ai bordi della città coronato da una torre colombaia del ‘500?
@@ -14,14 +13,9 @@ Cosa succede se si chiede alla Municipalità di avere l’autorizzazione per far
 Succede che – come gesto di attenzione e accoglienza – all’insaputa di tutti il giorno prima dell’inizio del workshop la Municipalità invia le ruspe per togliere tutta la vegetazione spontanea e distruggerne il microclima sotterraneo. “Pulizia” fatta, il workshop diventa impossibile.
 E così, bisogna spostarsi abusivamente in uno spazio adiacente, anch’esso abbandonato. I rovi non permettono l’accesso e l’uso di questo spazio. Gli abitanti scendono dalle case e sono sconcertati dalla nostra presenza, specie quando iniziamo a camminare fra i rovi che iniziamo a tagliare di qua e di là. Il nostro lavoro gli sembra assurdo e inutile. Semplici sentieri spontanei aperti tra l’erba più alta conducono in un giardino segreto. Si tratta di una delle cave da cui fu estratta la pietra con cui è stata costruita la città di Lecce. Dopo due giorni, gli abitanti si accorgono di avere un bellissimo parco sotto casa e si propongono di esserne i futuri giardinieri.
 
-![](20.jpg)
-
 Borgo San Nicola è uno dei borghi che fanno da cintura alla città di Lecce e che, un tempo distanti dal centro, sono stati quasi inglobati nel perimetro dell’espansione della città contemporanea.
 
 È un borgo che sembra un piccolo paese, sorto per ospitare le famiglie dei cavatori che lavoravano nelle cave di pietra leccese. Quelle stesse cave che, oggi in disuso, hanno disegnato la fisionomia del borgo: i giardini di molte case, con agrumeti antichi, sono stati realizzati nelle cavità, una strada che lo attraversa è un sottile diaframma tra due porzioni di cava ed infine i rapporti spaziali tra le parti più antiche del borgo hanno uno sviluppo prevalentemente verticale. Il paesaggio che si apre allo sguardo avvicinandosi al luogo è maestoso e sorprendente. I segni degli strumenti a mano che hanno consentito di estrarre la pietra formano un’alternanza di luci e ombre che sotto i raggi del sole acquistano tonalità di colore dal rosa al giallo. La vegetazione all’interno è a tratti intricata e comprende le formazioni vegetali tipiche della macchia mediterranea. Le cave sono ricche di fossili : l’area è stata oggetto di studi scientifici importanti e di ritrovamenti significativi di animali e piante preistoriche.
-
-![](borgo%20san%20nicola_cava.jpg)
-![](borgo%20san%20nicola_cava%202.jpg)
 
 Il PRG del comune di Lecce ha classificato come Parco delle Cave di Borgo San Nicola un’area estesa circa 30.000 mq, di proprietà privata, per la quale è previsto un piano particolareggiato finalizzato alla bonifica ed al recupero ambientale; la trasformazione dell’area, tuttavia, è da tempo bloccata, anche a causa di contenziosi giuridici rimasti irrisolti.
 
@@ -33,4 +27,3 @@ L’interpretazione degli elementi costitutivi di quest’area non sarebbe compl
 
 Alcune di queste presenze, e soprattutto le condizioni legate alla viabilità, hanno indotto una forte frammentazione fisica del quartiere, a cui corrispondono anche diverse condizioni abitative: ci sono gli abitanti dell’antico borgo, dello storico edificio di edilizia pubblica, ora in stato di grave fatiscenza, i residenti del grande complesso di edilizia residenziale convenzionata, degli ampliamenti urbani recenti e delle villette isolate.
 
-![](borgo%20san%20nicola_cava%203.jpg)

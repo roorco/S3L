@@ -1,13 +1,10 @@
 ---
 title: 'Giardini Venerdì - Matera'
-show_sidebar: false
+grid-size: grid-xl
+show_sidebar: true
 feed:
     limit: 10
 ---
-
-![](Matera_Giardini-Venerdi_02.jpg)
-
-![](Matera_Giardini-Venerdi_03.jpg)
 
 **Giardini Venerdì** è il progetto vincitore del concorso _Indagine sui non abitanti_ indetto dal gruppo di ricerca Architecture of
 Shame a Matera nel rione di case popolari **Serra Venerdì**.
@@ -27,10 +24,6 @@ Le attività nel giardino si sono sviluppate attraverso cinque incontri nel 2019
 
 Il lavoro sul campo ha fatto emergere una serie di criticità tecniche a proposito della coltivazione del giardino. Vorremmo ripartire da questi limiti per costituire un breve manuale d’uso, un Vademecum, che orienti i giardinieri di quartiere nella coltivazione di Giardini Venerdì.
 
-
-![](Matera_Giardini-Venerdi_04.jpg)
-
-![](Matera_Giardini-Venerdi_05.jpg)
 
 **Il Suolo**
 
@@ -69,11 +62,6 @@ _Proposta di laboratorio_
 
 Creazione di un manuale di gestione dei prati attraverso lo studio delle erbe spontanee lungo le diverse stagioni dell’anno.
 Questo documento potrebbe essere realizzato in collaborazione con le cooperative che gestiscono la manutenzione delle aree verdi pubbliche di Serra Venerdì. Degli incontri di osservazione e uso delle piante spontanee a fini curativi o alimentari possono essere dei momenti importanti di sensibilizzazione rispetto all’importanza e bellezza delle piante spontanee e al loro ruolo nell’ecosistema.
-
-![](Matera_Giardini-Venerdi_06.jpg)
-
-
-
 
 Giardini Venerdì durante il 2019 è divenuto un luogo di sperimentazione, individuato grazie ad un concorso internazionale indetto da Architecture of Shame: sperimentale per la scuola elementare nell’educazione dei bambini, impegnati nella realizzazione di un giardino al di fuori del recinto scolastico e a diretto contatto con il quartiere, per gli abitanti a confronto con una gestione non convenzionale di un’area pubblica.
 L‘area si è animata ed è divenuta un luogo di incontro e un giardino; questo luogo si basa però su fragili equilibri che come le piante hanno bisogno di essere curati.
