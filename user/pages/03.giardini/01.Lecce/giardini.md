@@ -4,7 +4,7 @@ grid-size: grid-xl
 aura:
     pagetype: website
 content:
-    autori: 'Coloco, Scuola del Terzo Luogo'
+    autori: 'Manifatture Knos, Coloco, Labuat, Scuola del Terzo Luogo'
     date: '2008'
     luogo: Lecce
 ---

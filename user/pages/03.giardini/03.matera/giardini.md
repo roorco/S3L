@@ -2,8 +2,6 @@
 title: 'Giardini Venerdì - Matera'
 grid-size: grid-xl
 show_sidebar: true
-feed:
-    limit: 10
 ---
 
 **Giardini Venerdì** è il progetto vincitore del concorso _Indagine sui non abitanti_ indetto dal gruppo di ricerca Architecture of
