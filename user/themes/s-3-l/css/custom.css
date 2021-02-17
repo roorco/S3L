@@ -116,6 +116,11 @@ h5 {
   margin-top: 0rem;
 }
 
+.credits {
+  font-size: 0.7rem;
+  margin: -0.5rem 0 1rem;
+}
+
 .mobile-menu .button_container span {
   background: grey;
 }

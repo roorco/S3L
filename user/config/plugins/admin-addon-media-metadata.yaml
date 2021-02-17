@@ -22,5 +22,5 @@ metadata_form:
 
   - type: text
     label: PLUGIN_ADMIN_ADDON_MEDIA_METADATA.AUTHOR
-    name: autore
+    name: author
 
