@@ -15,9 +15,9 @@
         {% for i in page.media|sort %}
             {{ i.lightbox(1200).cropResize(800).html|raw }}
             {% if i.meta.autore %} 
-                <p class="credits"><a>@{{ i.meta.autore|e}} - {{i.meta.alt|e}}</a></p>
+                <p class="credits"><a><em>{{i.meta.alt|e}}</em> - Foto di {{ i.meta.autore}}</a></p>
             {% else %}
-                <p class="credits"><a>{{i.meta.alt|e}}</a></p>
+                <p class="credits"><a><em>{{i.meta.alt|e}}</em></a></p>
             {%endif%}
         {% endfor%}
     </div>

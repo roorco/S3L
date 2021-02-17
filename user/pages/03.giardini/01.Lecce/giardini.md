@@ -10,12 +10,10 @@ content:
 ---
 
 Cosa può nascere da un deserto di asfalto?
-È possibile trasformare un luogo abbandonato totalmente deciso dall’uomo in un ter-
-reno sperimentale per la condivisione e la trasformazione diretta da parte dei cittadini?
+È possibile trasformare un luogo abbandonato totalmente deciso dall’uomo in un terreno sperimentale per la condivisione e la trasformazione diretta da parte dei cittadini?
 Come si combinano gestione e cambiamento?
 Le Manifatture Knos condividono con il quartiere un’area esterna grande quanto uno
-stadio. Fino a 3 anni fa quest’area era un “deserto d’asfalto” utilizzato solo come par-
-cheggio, poi si è trasformato lentamente in un giardino in movimento: porzioni di
+stadio. Fino a 3 anni fa quest’area era un “deserto d’asfalto” utilizzato solo come parcheggio, poi si è trasformato lentamente in un giardino in movimento: porzioni di
 asfalto sono state rimosse per lasciare spazio agli alberi e alle piante che chi ha voluto
 ha piantumato o a quelle che sono nate spontaneamente. Poi è arrivato l’orto con i
 broccoli, le insalate e i pomodori.
