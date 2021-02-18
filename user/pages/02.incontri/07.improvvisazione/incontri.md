@@ -3,13 +3,12 @@ title: Improvvisazione
 published: true
 feed:
     limit: 10
-media_order: 'banner550x250.jpg,museotraglialberi.pdf,improvvisazioni_1.jpg'
-
 grid-size: grid-xl
 show_sidebar: true
 ---
 
-![](banner550x250.jpg)
+![](01-banner550x250.jpg)
+
 
 Dal 23 al 28 novembre 2015
 
@@ -61,3 +60,4 @@ Gli Incontri del Terzo Luogo sono preceduti dal seminario che Antoine Aubinais, 
  
 
 Questa edizione degli Incontri del Terzo Luogo rappresenta la parte pratica di un più ampio percorso di formazione su "Monitoraggio e Gestione Sostenibile del Territorio, dell'Ambiente e del Paesaggio" (Avviso n. 7/2015, PO Puglia FSE 2007-2013, Asse VII - Capacità Istituzionale, Corsi di formazione Assetto del Territorio), che si terrà presso l'Istituto Calasanzio di Campi Salentina a partire dall'11 novembre. Per maggiori informazioni: http://www.calasanziofp.it/
+

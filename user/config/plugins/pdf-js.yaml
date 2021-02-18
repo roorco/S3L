@@ -1,5 +1,5 @@
 enabled: true
-width: 600
-height: 300
+width: 400
+height: 200
 technique: pdfobject
 show_used_technique: false
