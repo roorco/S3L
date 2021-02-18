@@ -12,15 +12,10 @@
 {% endif %}
     <div class="e-content">
         {#{ page.content|raw }#}
-        {% for i in page.media|sort %}
+        {% for i in page.media|sort('desc') %}
             {{ i.lightbox(1200).cropResize(800).html|raw }}
+            <figcaption > {{i.meta.alt|e}} {{ i.meta.author}} </figcaption>
 
-            <!-- Didascalie con autore sotto la foto --> 
-            {#% if i.meta.autore %} 
-                <p class="credits"><a><em>{{i.meta.alt|e}}</em> - Foto di {{ i.meta.autore}}</a></p>
-            {% else %}
-                <p class="credits"><a><em>{{i.meta.alt|e}}</em></a></p>
-            {% endif %#}
 
         {% endfor %}
     </div>

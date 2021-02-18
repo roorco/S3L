@@ -15,12 +15,8 @@ metadata_form:
     label: PLUGIN_ADMIN_ADDON_MEDIA_METADATA.ALT
     name: alt
 
-  - type: textarea
-    label: PLUGIN_ADMIN_ADDON_MEDIA_METADATA.CAPTION
-    name: caption
-    rows: 3
-
   - type: text
     label: PLUGIN_ADMIN_ADDON_MEDIA_METADATA.AUTHOR
     name: author
+    default: "Foto di " 
 

@@ -3,7 +3,7 @@ PLUGIN_ADMIN_ADDON_MEDIA_METADATA:
   FORM_HEADER: Edit metadata for media file
   FILENAME: Filename
   TITLE: Titolo
-  ALT: Descrive l'immagine quando il file non può essere mostrato (testo alternativo)
+  ALT: iDidascalia e testo alternativo
   CAPTION: Didascalia (appare passando il mouse sull'immagine) 
   WRITING_DATA: Writing metadata
   WRITING_FAILED: Writing image metadata failed
