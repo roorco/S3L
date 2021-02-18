@@ -2,8 +2,9 @@
 title: Rizosfera
 published: true
 process:
-  twig: true
+    twig: true
 ---
+
 <h2>{{header.title}}</h2>
 Legami e indirizzi utili di persone che fanno parte della nostra rizosfera.
 

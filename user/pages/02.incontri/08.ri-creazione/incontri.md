@@ -3,7 +3,6 @@ title: Ri-Creazione
 feed:
     limit: 10
 media_order: 'ricreazione.jpg,26466292113_3a991953e1_o.jpg,27070100615_fc36b807c3_o.jpg,26466262623_ea02829605_o.jpg,27037040586_d74e5d951b_o.jpg,27002275791_0f80aabd3c_o.jpg,27070189745_d0b773e0b0_o.jpg,26466871453_30fd198518_o.jpg,ricreazione_1.jpg,ricreazione_3.jpg,ricreazione_2.jpg,27001840431_5bb8855f52_o.jpg'
-
 show_sidebar: true
 grid-size: grid-xl
 ---

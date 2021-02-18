@@ -2,12 +2,10 @@
 title: 'Incontri del Terzo Luogo'
 sitemap:
     changefreq: monthly
-body_classes: 'header-light header-transparent'
 custom: 'new thing'
 blog_url: /blog
 show_sidebar: false
 show_breadcrumbs: true
-show_pagination: true
 content:
     items:
         - '@self.children'
@@ -21,6 +19,8 @@ feed:
     description: 'Gli incontri del Terzo Luogo'
     limit: 10
 pagination: true
+aura:
+    pagetype: website
 ---
 
 La **Scuola del Terzo Luogo** nasce e si sviluppa nel corso delle varie edizioni degli **Incontri del Terzo Luogo**, momenti di ricerca sugli spazi “indecisi” della città, spazi in cui non tutto è totalmente caotico e selvaggio, ma dove nemmeno tutto è già organizzato e pianificato. 

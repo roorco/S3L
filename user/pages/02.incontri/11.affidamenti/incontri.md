@@ -7,7 +7,6 @@ taxonomy:
         - blog
 feed:
     limit: 10
-
 grid-size: grid-xl
 ---
 

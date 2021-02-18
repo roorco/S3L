@@ -4,7 +4,6 @@ published: true
 feed:
     limit: 10
 media_order: equilibrismi.jpg
-
 show_sidebar: true
 grid-size: grid-xl
 ---
