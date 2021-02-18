@@ -4,6 +4,8 @@ published: true
 feed:
     limit: 10
 media_order: 'banner550x250.jpg,museotraglialberi.pdf,improvvisazioni_1.jpg'
+
+show_sidebar: true
 ---
 
 ![](banner550x250.jpg)

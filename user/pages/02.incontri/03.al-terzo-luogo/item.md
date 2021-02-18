@@ -3,6 +3,7 @@ title: 'Al Terzo Luogo'
 media_order: 'terza.jpg,seconda_0.jpg,terza_3.jpg,terza_1.jpg,terza_2.gif'
 feed:
     limit: 10
+show_sidebar: true
 ---
 
 ![](terza.jpg)

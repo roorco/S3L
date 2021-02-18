@@ -3,6 +3,8 @@ title: Approdi
 media_order: 'incontri (1).jpg,giardino_asfalto_5.jpg,giardino_asfalto_7.jpg,giardino_asfalto_2.jpg,giardino_asfalto_3.jpg,giardino_asfalto_6.jpg,giardino_asfalto_4.jpg,giardino_asfalto_8.jpg,giardino_asfalto_1.jpg'
 feed:
     limit: 10
+
+show_sidebar: true
 ---
 
 ![](incontri%20%281%29.jpg)

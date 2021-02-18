@@ -3,6 +3,8 @@ title: 'Prima la pratica, poi la teoria'
 feed:
     limit: 10
 media_order: 'quarta edizione.jpg,quarta_13.jpg,quarta_12.jpg,quarta_8.jpg,quarta_6.jpg,quarta_11.jpg,quarta_10.jpg,quarta_9.jpg,quarta_0.jpg,quarta_1.jpg,quarta_5.jpg'
+
+show_sidebar: true
 ---
 
 ![](quarta%20edizione.jpg)

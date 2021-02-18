@@ -5,6 +5,7 @@ feed:
     limit: 10
 aura:
     pagetype: website
+show_sidebar: true
 ---
 
 ![](secondo.jpg)

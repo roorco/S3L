@@ -5,6 +5,8 @@ feed:
     limit: 10
 aura:
     pagetype: website
+
+show_sidebar: true
 ---
 
 ![](indecision_assemblea_2.jpg)
