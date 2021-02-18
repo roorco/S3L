@@ -41,6 +41,12 @@ tspan:hover {fill:$accent !important}
 h5 {margin-top:0rem }
 figcaption {font-size: .7rem; margin: -0.5rem 0 1rem; font-style: italic}
 
+// Featherlight lightbox plugin
+.featherlight-previous {left: 10px; right: 90%}
+.featherlight-next {left: 90%; right: 10px}
+.featherlight .featherlight-content {padding: 25px 10px 0; max-height:90vh}
+.featherlight-next span, .featherlight-previous span { font-size:60px}
+
 // Mobile Menu
 .mobile-menu .button_container span {background: $accent}
 .overlay { background:ghostwhite }

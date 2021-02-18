@@ -122,6 +122,25 @@ figcaption {
   font-style: italic;
 }
 
+.featherlight-previous {
+  left: 10px;
+  right: 90%;
+}
+
+.featherlight-next {
+  left: 90%;
+  right: 10px;
+}
+
+.featherlight .featherlight-content {
+  padding: 25px 10px 0;
+  max-height: 90vh;
+}
+
+.featherlight-next span, .featherlight-previous span {
+  font-size: 60px;
+}
+
 .mobile-menu .button_container span {
   background: grey;
 }
