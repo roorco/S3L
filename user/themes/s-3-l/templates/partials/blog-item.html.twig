@@ -12,11 +12,9 @@
 {% endif %}
     <div class="e-content">
         {#{ page.content|raw }#}
-        {% for i in page.media|sort('desc') %}
+        {% for i in page.media|sort('desc')|slice(1) %}
             {{ i.lightbox(1200).cropResize(800).html|raw }}
             <figcaption > {{i.meta.alt|e}} {{ i.meta.author}} </figcaption>
-
-
         {% endfor %}
     </div>
 

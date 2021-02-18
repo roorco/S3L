@@ -1,0 +1,51 @@
+extends@:
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+        advanced:
+          fields:
+            overrides:
+              fields:
+
+        blog:
+          type: tab
+          title: Chi? Dove? Quando?
+
+          fields:
+
+            content_title:
+              type: spacer
+              title: Dettagli del progetto
+
+
+            header.content.autori:
+              type: textarea
+              label: Autori, singoli o collettivi.
+              validate:
+                type: str
+
+            header.content.collab:
+              type: textarea
+              label: Collaboratori, aiutanti, partecipanti
+              validate:
+                type: str
+
+            header.content.date:
+              type: textarea
+              label: Quando è stato realizzato?
+              validate:
+                type: str
+
+
+            header.content.luogo:
+              type: textarea
+              label: Dove si trova?
+              validate:
+                type: str
