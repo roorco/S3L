@@ -1,6 +1,5 @@
 ---
 title: 'Cava Madre - Lecce'
-grid-size: grid-xl
 show_sidebar: true
 aura:
     pagetype: website

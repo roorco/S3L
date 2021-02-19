@@ -4,7 +4,6 @@ media_order: 'incontri (1).jpg,giardino_asfalto_5.jpg,giardino_asfalto_7.jpg,gia
 feed:
     limit: 10
 show_sidebar: true
-grid-size: grid-xl
 ---
 
 ![](01-approdi.jpg)

@@ -1,6 +1,5 @@
 ---
 title: 'Place du Vallon - Losanna'
-grid-size: grid-xl
 media_order: 'Vallon.jpg,Vallon_assemblea.jpg,Vallon_convivio.jpg,Vallon_lavoro.jpg,Vallon_asfalto.jpg,Vallon_mappa.jpg'
 show_sidebar: true
 ---

@@ -5,7 +5,6 @@ feed:
 aura:
     pagetype: website
 show_sidebar: true
-grid-size: grid-xl
 ---
 
 ![](01-banner.jpg)

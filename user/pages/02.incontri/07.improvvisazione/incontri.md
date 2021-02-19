@@ -3,7 +3,6 @@ title: Improvvisazione
 published: true
 feed:
     limit: 10
-grid-size: grid-xl
 show_sidebar: true
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Diventare  Giardino - Palermo'
-grid-size: grid-xl
 show_sidebar: true
 feed:
     limit: 10

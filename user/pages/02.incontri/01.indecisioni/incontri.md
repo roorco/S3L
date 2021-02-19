@@ -5,7 +5,6 @@ feed:
 aura:
     pagetype: website
     image: 06-incontri-terzo-luogo-esplorazioni.jpg
-grid-size: grid-xl
 show_sidebar: true
 published: true
 ---

@@ -1,6 +1,5 @@
 ---
 title: 'Asfalto Mon Amour'
-grid-size: grid-xl
 aura:
     pagetype: website
 content:

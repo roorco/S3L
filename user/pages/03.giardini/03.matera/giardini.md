@@ -1,6 +1,5 @@
 ---
 title: 'Giardini Venerdì - Matera'
-grid-size: grid-xl
 show_sidebar: true
 ---
 
