@@ -1,9 +1,10 @@
-span {
-  font-size: 0.96rem;
-}
-
 h1, h2, h3, h4, h5 {
   font-family: "Advent Pro", sans-serif;
+}
+
+h5 {
+  margin-top: 0rem;
+  line-height: 1.4;
 }
 
 h1 {
@@ -41,12 +42,12 @@ tspan:hover {
   fill: grey !important;
 }
 
-h5 {
-  margin-top: 0rem;
-}
-
 li {
   font-family: "Faustina", serif;
+}
+
+span {
+  font-size: 0.96rem;
 }
 
 .hero p {

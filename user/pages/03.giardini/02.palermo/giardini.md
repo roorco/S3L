@@ -1,8 +1,8 @@
 ---
-title: 'Diventare  Giardino - Palermo'
+title: 'Diventare  Giardino'
 show_sidebar: true
-feed:
-    limit: 10
+content:
+    luogo: Palermo
 ---
 
 La nascita di un Giardino Planetario nel quartiere ZEN di Palermo rappresenta una sfida su piani differenti e a diverse scale, che tocca la natura della città e la visione umana della natura nella città. 

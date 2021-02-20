@@ -1,9 +1,10 @@
 ---
-title: 'Cava Madre - Lecce'
+title: 'Cava Madre'
 show_sidebar: true
 aura:
     pagetype: website
-media_order: '20a.jpg,20.jpg,borgo san nicola_cava.jpg,borgo san nicola_cava 4.jpg,borgo san nicola_cava 3.jpg,borgo san nicola_cava 2.jpg'
+content:
+    luogo: Lecce
 ---
 
 “Il meno possibile contro, il più possibile a favore” è un modo per trasformare e gestire?

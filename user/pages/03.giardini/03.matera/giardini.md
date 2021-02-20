@@ -1,9 +1,10 @@
 ---
-title: 'Giardini Venerdì - Matera'
+title: 'Giardini Venerdì '
 content:
   autori: 'Scuola del Terzo Luogo, Architecture of Shame'
   collab: 'Fondazione Matera-Basilicata 2019, Comune di Matera, Federcasa, Comitato di Quartiere di Serra Venerdì, Ater Matera, Ater Venezia, Scuola Elementare F. Nitti,   '
   date: '2019'
+  luogo: 'Serra Venerdì, Matera'
 grid-size: grid-lg
 show_sidebar: true
 ---

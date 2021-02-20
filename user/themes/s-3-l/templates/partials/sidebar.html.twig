@@ -1,18 +1,18 @@
 <h2>{{ page.title}}</h2>
 {% if page.header.content.autori %}
-    <h5> Progetto a cura di:</h5> <h5>{{ page.header.content.autori}}</h5>
+    <h5><em> Progetto a cura di:</em></h5> <h5>{{ page.header.content.autori}}</h5>
 {% endif%}
 
 {% if page.header.content.collab %}
-    <h5>In collaborazione con:</h5> <h5>{{ page.header.content.collab}}</h5>
+    <h5><em>In collaborazione con:</em></h5> <h5>{{ page.header.content.collab}}</h5>
 {% endif%}
 
 {% if page.header.content.date %}
-    <h5>Dal {{ page.header.content.date }}</h5>
+    <h5><em>Dal</em> {{ page.header.content.date }}</h5>
 {% endif%}
 
 {% if page.header.content.luogo %}
-    <h5>{{ page.header.content.luogo }}</h5>
+    <h5><em>A</em> {{ page.header.content.luogo }}</h5>
 {% endif%}
 
 {{ page.content| raw}}

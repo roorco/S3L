@@ -1,7 +1,9 @@
 ---
-title: 'Place du Vallon - Losanna'
+title: 'Place du Vallon '
 media_order: 'Vallon.jpg,Vallon_assemblea.jpg,Vallon_convivio.jpg,Vallon_lavoro.jpg,Vallon_asfalto.jpg,Vallon_mappa.jpg'
 show_sidebar: true
+content:
+    luogo: Losanna
 ---
 
 Anche a Losanna spunta un giardino da sotto l'asfalto! È nato nella piazza del Vallon, realizzato con il quartiere e grazie al lavoro sinergico di Atelier Olga, Scuola del Terzo Luogo, Association de Quartier du Vallon​, Ô Vallon​, le Centre d'Animation Citè-Vallon e grazie alle esperienze condivise da Gilles Clément e da Coloco.
