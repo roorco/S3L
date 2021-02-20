@@ -16,7 +16,7 @@ form:
 
         blog:
           type: tab
-          title: Chi? Dove? Quando?
+          title: Chi Dove Quando + Video! 
 
           fields:
 
@@ -38,14 +38,20 @@ form:
                 type: str
 
             header.content.date:
-              type: textarea
+              type: text
               label: Quando è stato realizzato?
               validate:
-                type: str
-
+                type: int
+                min: 4 
 
             header.content.luogo:
               type: textarea
               label: Dove si trova?
+              validate:
+                type: str
+
+            header.video:
+              type: text
+              label: URL del video
               validate:
                 type: str

@@ -1,12 +1,14 @@
 ---
 title: 'Giardini Venerdì '
 content:
-  autori: 'Scuola del Terzo Luogo, Architecture of Shame'
-  collab: 'Fondazione Matera-Basilicata 2019, Comune di Matera, Federcasa, Comitato di Quartiere di Serra Venerdì, Ater Matera, Ater Venezia, Scuola Elementare F. Nitti,   '
-  date: '2019'
-  luogo: 'Serra Venerdì, Matera'
+    autori: 'Scuola del Terzo Luogo, Architecture of Shame'
+    collab: 'Fondazione Matera-Basilicata 2019, Comune di Matera, Federcasa, Comitato di Quartiere di Serra Venerdì, Ater Matera, Ater Venezia, Scuola Elementare F. Nitti,'
+    luogo: 'Serra Venerdì, Matera'
+    date: 2019
 grid-size: grid-lg
 show_sidebar: true
+aura:
+    pagetype: website
 ---
 
 **Giardini Venerdì** è il progetto vincitore del concorso _Indagine sui non abitanti_ indetto dal gruppo di ricerca Architecture of Shame a Matera nel rione di case popolari **Serra Venerdì**.

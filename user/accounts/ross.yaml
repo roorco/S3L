@@ -11,6 +11,8 @@ content_editor: default
 twofa_enabled: false
 twofa_secret: QDI3TMAYV7EPUVI4RE2RDDSBMB7UNGJV
 avatar: {  }
+groups: 
+  - spontanee
 access:
   site:
     login: true
@@ -31,3 +33,5 @@ access:
     users: false
     groups: false
     users_expert: false
+blocked_Access:
+    - aura
