@@ -1,3 +1,54 @@
+span {
+  font-size: 0.96rem;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Advent Pro", sans-serif;
+}
+
+h1 {
+  font-size: 1rem;
+}
+
+p {
+  font-family: "Faustina", serif;
+  font-size: 0.9rem;
+  line-height: 1.7em;
+  text-align: justify;
+}
+
+.default {
+  margin: 0 5rem;
+  font-family: "Faustina", serif;
+  font-size: 0.9rem;
+  line-height: 1.7em;
+  text-align: justify;
+}
+
+a.active, a:active, a:focus, a:hover {
+  color: grey;
+}
+
+text:hover {
+  fill: grey !important;
+}
+
+rect:hover {
+  fill: grey !important;
+}
+
+tspan:hover {
+  fill: grey !important;
+}
+
+h5 {
+  margin-top: 0rem;
+}
+
+li {
+  font-family: "Faustina", serif;
+}
+
 .hero p {
   text-align: justify;
 }
@@ -11,8 +62,8 @@ body {
   font-size: 0.9rem;
 }
 
-#header {
-  background-color: ivory;
+body {
+  font-family: "Titillium Web", sans-serif;
 }
 
 p.interview {
@@ -49,33 +100,6 @@ a.visited {
   background-color: ghostwhite !important;
 }
 
-#header a, span, h5 {
-  font-family: "Advent Pro", sans-serif;
-}
-
-#header a {
-  font-size: 0.99rem;
-}
-
-span {
-  font-size: 0.96rem;
-}
-
-h1, h2, h3, h4, h5 {
-  font-family: "Advent Pro", sans-serif;
-}
-
-h1 {
-  font-size: 1rem;
-}
-
-p {
-  font-family: "Faustina", serif;
-  font-size: 0.9rem;
-  line-height: 1.7em;
-  text-align: justify;
-}
-
 div#toggle.button_container {
   color: grey;
 }
@@ -88,38 +112,22 @@ div#toggle.button_container {
   background-color: ghostwhite;
 }
 
-.default {
-  margin: 0 5rem;
-  font-family: "Faustina", serif;
-  font-size: 0.9rem;
-  line-height: 1.7em;
-  text-align: justify;
-}
-
-a.active, a:active, a:focus, a:hover {
-  color: grey;
-}
-
-text:hover {
-  fill: grey !important;
-}
-
-rect:hover {
-  fill: grey !important;
-}
-
-tspan:hover {
-  fill: grey !important;
-}
-
-h5 {
-  margin-top: 0rem;
-}
-
 figcaption {
   font-size: 0.7rem;
   margin: -0.5rem 0 1rem;
   font-style: italic;
+}
+
+#header {
+  background-color: ivory;
+}
+
+#header a, span, h5 {
+  font-family: "Advent Pro", sans-serif;
+}
+
+#header a {
+  font-size: 0.99rem;
 }
 
 .featherlight-previous {
@@ -178,10 +186,6 @@ a:visited {
 }
 .mobile-menu .button_container.active .bottom {
   background: grey;
-}
-
-body {
-  font-family: "Titillium Web", sans-serif;
 }
 
 .treemenu li {
