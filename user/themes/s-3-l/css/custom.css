@@ -202,4 +202,11 @@ iframe {
   padding-right: 0;
 }
 
+@media (max-width: 1280px) {
+  .columns {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+}
+
 /*# sourceMappingURL=custom.css.map */
